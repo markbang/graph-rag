@@ -1,10 +1,13 @@
 import os
+from dotenv import load_dotenv
 import asyncio
 from lightrag import LightRAG, QueryParam
 from lightrag.llm.openai import openai_complete_if_cache, openai_embed
 from lightrag.utils import EmbeddingFunc
 import numpy as np
 from lightrag.kg.shared_storage import initialize_pipeline_status
+
+load_dotenv()
 
 WORKING_DIR = "./dickens"
 
@@ -16,12 +19,12 @@ async def llm_model_func(
     prompt, system_prompt=None, history_messages=[], keyword_extraction=False, **kwargs
 ) -> str:
     return await openai_complete_if_cache(
-        "THUDM/glm-4-9b-chat",
-        prompt,
+        model=os.getenv("OPENAI_CHAT_MODEL") or "gpt-4o",
+        prompt=prompt,
         system_prompt=system_prompt,
         history_messages=history_messages,
-        api_key=os.getenv("SI_API_KEY"),
-        base_url="https://api.siliconflow.cn/v1",
+        api_key=os.getenv("OPENAI_API_KEY"),
+        base_url=os.getenv("OPENAI_API_BASE"),
         **kwargs,
     )
 
@@ -29,9 +32,9 @@ async def llm_model_func(
 async def embedding_func(texts: list[str]) -> np.ndarray:
     return await openai_embed(
         texts,
-        model="BAAI/bge-m3",
-        api_key=os.getenv("SI_API_KEY"),
-        base_url="https://api.siliconflow.cn/v1",
+        model=os.getenv("OPENAI_EMBEDDINGS_MODEL"),
+        api_key=os.getenv("OPENAI_API_KEY"),
+        base_url=os.getenv("OPENAI_API_BASE"),
     )
 
 
@@ -51,7 +54,7 @@ async def test_funcs():
     print("embedding_func: ", result)
 
 
-# asyncio.run(test_funcs())
+asyncio.run(test_funcs())
 
 
 async def initialize_rag():
@@ -83,21 +86,21 @@ async def main():
         with open("./input/book.txt", "r", encoding="utf-8") as f:
             await rag.ainsert(f.read())
 
-        # Perform naive search
+        print("Perform naive search")
         print(
             await rag.aquery(
                 "What are the top themes in this story?", param=QueryParam(mode="naive")
             )
         )
 
-        # Perform local search
+        print("Perform local search")
         print(
             await rag.aquery(
                 "What are the top themes in this story?", param=QueryParam(mode="local")
             )
         )
 
-        # Perform global search
+        print("Perform global search")
         print(
             await rag.aquery(
                 "What are the top themes in this story?",
@@ -105,7 +108,7 @@ async def main():
             )
         )
 
-        # Perform hybrid search
+        print("Perform hybrid search")
         print(
             await rag.aquery(
                 "What are the top themes in this story?",
