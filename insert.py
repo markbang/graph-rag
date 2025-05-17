@@ -70,11 +70,11 @@ async def main():
         # Initialize RAG instance
         rag = await initialize_rag()
         print("RAG instance initialized.")
-        insert_dir = input("输入文件夹路径: ")
+        insert_dir = "inputs"
         for file in os.listdir(insert_dir):
             if file.endswith(".txt"):
                 print(f"Inserting {file} into RAG...")
-                with open(f"./inputs/{file}", "r", encoding="utf-8") as f:
+                with open(f"{insert_dir}/{file}", "r", encoding="utf-8") as f:
                     await rag.ainsert(f.read())
 
     except Exception as e:
