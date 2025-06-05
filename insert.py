@@ -6,6 +6,13 @@ from lightrag.llm.openai import openai_complete_if_cache, openai_embed
 from lightrag.utils import EmbeddingFunc
 import numpy as np
 from lightrag.kg.shared_storage import initialize_pipeline_status
+from graph_analysis import get_info
+
+from lightrag.prompt import PROMPTS
+
+print(f"使用实体提取提示词: {PROMPTS['entity_extraction']}")
+print(f"使用继续实体提取提示词: {PROMPTS['entity_continue_extraction']}")
+
 
 load_dotenv()
 
@@ -58,7 +65,6 @@ async def initialize_rag():
             func=embedding_func,
         ),
     )
-
     await rag.initialize_storages()
     await initialize_pipeline_status()
 
@@ -76,9 +82,10 @@ async def main():
                 print(f"Inserting {file} into RAG...")
                 with open(f"{insert_dir}/{file}", "r", encoding="utf-8") as f:
                     await rag.ainsert(f.read())
-
+        print("All files inserted successfully.")
     except Exception as e:
         print(f"An error occurred: {e}")
+    print(get_info())
 
 
 if __name__ == "__main__":
