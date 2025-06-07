@@ -39,6 +39,8 @@ def get_info():
     json_data = convert_xml_to_json(xml_file, json_file)
     if json_data is None:
         print("Exiting due to conversion failure.")
+        return {"nodes": 0, "edges": 0}  # 返回默认值而不是None
+
     return {
         "nodes": len(json_data.get("nodes", [])),
         "edges": len(json_data.get("edges", [])),

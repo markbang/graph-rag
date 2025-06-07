@@ -1,18 +1,23 @@
 import os
 from dotenv import load_dotenv
 import asyncio
+import logging
 from lightrag import LightRAG
 from lightrag.llm.openai import openai_complete_if_cache, openai_embed
 from lightrag.utils import EmbeddingFunc
 import numpy as np
 from lightrag.kg.shared_storage import initialize_pipeline_status
-from graph_analysis import get_info
 
-from lightrag.prompt import PROMPTS
-
-print(f"使用实体提取提示词: {PROMPTS['entity_extraction']}")
-print(f"使用继续实体提取提示词: {PROMPTS['entity_continue_extraction']}")
-
+# 设置简单的日志记录 - 同时输出到控制台和文件
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s",
+    handlers=[
+        logging.FileHandler("insert.log"),
+        logging.StreamHandler(),  # 添加控制台输出
+    ],
+)
+logger = logging.getLogger(__name__)
 
 load_dotenv()
 
@@ -53,7 +58,7 @@ async def get_embedding_dim():
 
 async def initialize_rag():
     embedding_dimension = await get_embedding_dim()
-    print(f"Detected embedding dimension: {embedding_dimension}")
+    logger.info(f"Detected embedding dimension: {embedding_dimension}")
 
     rag = LightRAG(
         working_dir=WORKING_DIR,
@@ -65,28 +70,70 @@ async def initialize_rag():
             func=embedding_func,
         ),
     )
+
     await rag.initialize_storages()
     await initialize_pipeline_status()
+    logger.info("RAG instance initialized successfully")
 
     return rag
 
 
 async def main():
     try:
+        logger.info("Starting RAG insertion process")
+
         # Initialize RAG instance
         rag = await initialize_rag()
-        print("RAG instance initialized.")
+
         insert_dir = "inputs"
+        logger.info(f"Processing files from directory: {insert_dir}")
+
+        files_processed = 0
         for file in os.listdir(insert_dir):
             if file.endswith(".txt"):
-                print(f"Inserting {file} into RAG...")
+                logger.info(f"Inserting {file} into RAG...")
                 with open(f"{insert_dir}/{file}", "r", encoding="utf-8") as f:
-                    await rag.ainsert(f.read())
-        print("All files inserted successfully.")
+                    content = f.read()
+                    logger.info(f"File {file} has {len(content)} characters")
+                    await rag.ainsert(content)
+                files_processed += 1
+                logger.info(f"Successfully inserted {file}")
+
+        logger.info(
+            f"✅ Insert completed successfully! Processed {files_processed} files"
+        )
+
+        # 检查生成的文件
+        logger.info("Checking generated files in working directory:")
+        for item in os.listdir(WORKING_DIR):
+            item_path = os.path.join(WORKING_DIR, item)
+            if os.path.isfile(item_path):
+                size = os.path.getsize(item_path)
+                logger.info(f"  - {item}: {size} bytes")
+
+        # 显示成功完成的消息到标准输出（供 source_modifier.py 捕获）
+        print("INSERT_COMPLETED_SUCCESSFULLY")
+
+        # 确保所有异步任务完成并清理资源
+        logger.info("Cleaning up resources...")
+
     except Exception as e:
-        print(f"An error occurred: {e}")
-    print(get_info())
+        logger.error(f"An error occurred: {e}")
+        print(f"INSERT_FAILED: {e}")
+        raise
+    finally:
+        # 强制退出以确保进程结束
+        logger.info("Process completed, exiting...")
+        import sys
+
+        sys.exit(0)
 
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    try:
+        asyncio.run(main())
+    except KeyboardInterrupt:
+        print("Process interrupted")
+        import sys
+
+        sys.exit(1)
