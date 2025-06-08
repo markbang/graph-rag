@@ -278,7 +278,7 @@ class LightRAGSourceModifier:
 
             # 实时读取输出
             while True:
-                stdout_line = process.stdout.readline()
+                stdout_line = process.stdout.readline()  # type: ignore
                 if stdout_line:
                     stdout_lines.append(stdout_line)
                     # 检测完成标志

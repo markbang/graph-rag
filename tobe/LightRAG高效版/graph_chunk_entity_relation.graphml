@@ -1,0 +1,3657 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d11" for="edge" attr.name="created_at" attr.type="long" />
+  <key id="d10" for="edge" attr.name="file_path" attr.type="string" />
+  <key id="d9" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d8" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d7" for="edge" attr.name="description" attr.type="string" />
+  <key id="d6" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d5" for="node" attr.name="created_at" attr.type="long" />
+  <key id="d4" for="node" attr.name="file_path" attr.type="string" />
+  <key id="d3" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d2" for="node" attr.name="description" attr.type="string" />
+  <key id="d1" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_id" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="萧炎">
+      <data key="d0">萧炎</data>
+      <data key="d1">person</data>
+      <data key="d2">萧炎是故事中的主要角色，作为萧家的族长之子，他在乌坦城内有着相当的影响力。这位年轻男子曾因斗之力测试结果不佳而受到嘲讽，内心感到孤独和苦涩，但他凭借着惊人的修炼天赋，努力掌握斗气和斗技，并在此过程中经历了从废物到强者的巨大转变。萧炎在挑战中展现出强大的实力，吸引了家族和同龄人的关注，同时他也面临着来自其他家族的竞争和来自纳兰嫣然及云岚宗的压力。
+
+尽管萧炎在修炼上取得了显著的进展，刚刚打破了斗之气提升的记录，并在成人仪式上表现出色，但他依旧感到不满，并渴望继续进步。萧炎不仅是一名斗者，还是一名年轻的炼药师，积极寻找灵液以提升修炼速度，并希望能配制出筑基灵液来增强斗气。
+
+在与他人互动方面，萧炎与名义上的妹妹薰儿之间有着复杂的情感关系，他对薰儿表现出温柔和关注，并在共同经历中传达出他的内心挣扎。同时，他也面对与萧玉之间的敌对关系，展现出坚定的个性。
+
+萧炎的个性特征中包含了对力量和尊严的渴望，以及愤怒和冲动。他在经历了一系列的考验和挑战后，逐渐展现出自信，并在不断学习斗气功法的过程中表现出极强的好奇心和学习热情。他不仅在修炼上刻苦努力，还在拍卖会上关注周围的情况，观察并回应他人的表现，展现出他深思熟虑的一面。
+
+总体来看，萧炎是一位在力量提升与情感纠葛中不断成长的年轻人，他的故事充满了挑战与机遇，象征着追求卓越与自我突破的不懈努力。</data>
+      <data key="d3">chunk-267e764351037f7c02061ea7fd1ab4aa&lt;SEP&gt;chunk-aee8a3ad453beffa1023de8811b77ada&lt;SEP&gt;chunk-122ffeb1ab6e0f60cf925c5876621f09&lt;SEP&gt;chunk-ab2b531aecd438872fdbb61685a86dbb&lt;SEP&gt;chunk-a006f8a59bc42b6a28f27eaba7ea6c59&lt;SEP&gt;chunk-6127b0767d4b3024c42a58e5b6fd2a5e&lt;SEP&gt;chunk-c2d61cb55f8091519a2b670689a7f178&lt;SEP&gt;chunk-54dfd40f096b9fa5bfbe557d62a499ca&lt;SEP&gt;chunk-129e1687df23c27a0a7492071e3f9005&lt;SEP&gt;chunk-d5edadea78660e8b0d87f7f2406376a1&lt;SEP&gt;chunk-3dbf363878b73e4de76b15b3275a9a19&lt;SEP&gt;chunk-822e02c1a53c663cff079cf8e57ae19b&lt;SEP&gt;chunk-1e0c5a1eef61ee136040df40b665c270&lt;SEP&gt;chunk-011ad0b91e2b0cd0e50353097a72ef50&lt;SEP&gt;chunk-13e59f0be98715fe288ea4ba0b74cd29&lt;SEP&gt;chunk-794e082dade993bcaf4f5cb02cf3d6ee&lt;SEP&gt;chunk-aeb9bc2067ac0b18290761a863105192&lt;SEP&gt;chunk-685b21823f8585b17d77b087211e0a5c&lt;SEP&gt;chunk-065f9030874913c56b64cc011d5cd2af&lt;SEP&gt;chunk-f80e7a7eae53dbf97604fee08283dd67&lt;SEP&gt;chunk-977cae48a0f89a9b64e73cc249349dfb&lt;SEP&gt;chunk-f76ba95dc65e660409387d331348eac3&lt;SEP&gt;chunk-aa079703239977b5ad6462205bd933b5&lt;SEP&gt;chunk-96b791b3d90a3f1df5b348173dc3cd96&lt;SEP&gt;chunk-c0a6233baeede11a07d259411ea6d7d3&lt;SEP&gt;chunk-1b0cedce249c27538909da8c6093d709&lt;SEP&gt;chunk-a46a49f0ae36e080bd584f50885647d2&lt;SEP&gt;chunk-d54618aa9f6b9d83d46914a2d986268d&lt;SEP&gt;chunk-2029690f74ecd0f2ecc13fb5ae9ecbc0&lt;SEP&gt;chunk-69528318e852992e545207216348c317&lt;SEP&gt;chunk-5249452fc02634a65306233a8ef35c64&lt;SEP&gt;chunk-7ba8fe565ae410898375e813d446137a&lt;SEP&gt;chunk-223dc4e58bd735300057dd7aeacdbef7&lt;SEP&gt;chunk-fdf81810e72560519b15858e6c7f325b&lt;SEP&gt;chunk-dc08944dd584ff37b1952784aaa63e8c&lt;SEP&gt;chunk-9b3e9ca77304d9c6ea1fb06404c38234&lt;SEP&gt;chunk-62d5ed7153276d7b7031113c88d438b1&lt;SEP&gt;chunk-e3f41bb63e8c46647a93f6859c48c0a5&lt;SEP&gt;chunk-ac4f3a47d82253a4d6bfeb3aa63432ca&lt;SEP&gt;chunk-f5d01de62dca89ac9bbe33b65e64c994&lt;SEP&gt;chunk-71833742c3e7cd8ba19d4faae0ccb6a4&lt;SEP&gt;chunk-91ffcd09ddb4b23c078d7a7410ecf2a1&lt;SEP&gt;chunk-4e1834747640fb2093bcca55cb52f34c&lt;SEP&gt;chunk-5e3fa3165564658305d0f01138d179c6&lt;SEP&gt;chunk-ad83da03b7fbbfb93d743f93dbdc236f&lt;SEP&gt;chunk-f4240663ec6e36ccacef2f9775e3ab0b&lt;SEP&gt;chunk-b25f15e48074c13f0e7ae9a8dc322a3d&lt;SEP&gt;chunk-ed421bb9d3015c957496a699068b3083&lt;SEP&gt;chunk-998a7d540a65548141f1f626a306aba4&lt;SEP&gt;chunk-463b3f1f54bf844cb7d8919648e8de15&lt;SEP&gt;chunk-3168b429ed74027f386cf328ea2ee805&lt;SEP&gt;chunk-5733dbcfa3f5ed09b642d89af52055ef&lt;SEP&gt;chunk-80593513554fcfdef9546dedffbd9e69&lt;SEP&gt;chunk-65c856afe8a55bfb85a0529eebcb6e50&lt;SEP&gt;chunk-8bd4d5c018c7ef7d369092d47f6116be&lt;SEP&gt;chunk-49ce97b4fce04870f698556acf5aecc1&lt;SEP&gt;chunk-51ec1d4f551cfa00a7a54a74c6442467&lt;SEP&gt;chunk-d1c1d6346efae058b7ecd4e647e0d6ca&lt;SEP&gt;chunk-e006674fd44e73a3d672c0740a510578&lt;SEP&gt;chunk-895e8845fedd4eaff2c8ee053254d568&lt;SEP&gt;chunk-4598c518958fd706cb2a17701688ebe0&lt;SEP&gt;chunk-ce43ec547c6b3b0ac10afb7520f17e06&lt;SEP&gt;chunk-b27def825216bb59ff93eed34c3d5954&lt;SEP&gt;chunk-ecb3660f8cbf17bc85b8ed91fce5f4d5&lt;SEP&gt;chunk-fcbb8b69d7ad6f7f9c62fb1d40b504a2&lt;SEP&gt;chunk-ecbfa0ab63fe38aff3beca5ad18464f9&lt;SEP&gt;chunk-4ce437a39ec1ae63d7ee0fcdae0e41a9&lt;SEP&gt;chunk-2cebe27e055f7e2525f166fc0f989b8b&lt;SEP&gt;chunk-192eedc046d7aaf2d5c5a90cb74f051b&lt;SEP&gt;chunk-834e631785d78eda90238461974bfa34&lt;SEP&gt;chunk-29fbd54579d5c63021028f860f5ef333&lt;SEP&gt;chunk-24e6ba1d5a301503c4a29d0518150a04&lt;SEP&gt;chunk-5d2cde4cdd02799f99e4c6091c92dd7a&lt;SEP&gt;chunk-1b3120c35b1ff11cdce1bccc22af33ab&lt;SEP&gt;chunk-bbbc024cfb92170fa9cde255a2ffb7c4&lt;SEP&gt;chunk-b68fe7a0af905302b8e52bd5e9e2f82e&lt;SEP&gt;chunk-6c8d49eca3e42f4b03ee49fe63514cc6&lt;SEP&gt;chunk-38b29eccf7724830681fde217d501c12&lt;SEP&gt;chunk-463ecd092d16c3170efcba2f65334abe&lt;SEP&gt;chunk-173b2befc2dd2fdec779ba1588fa1512&lt;SEP&gt;chunk-b73c1fe92a6454ac06e40eefe29cffb7&lt;SEP&gt;chunk-8fddbe144d700050721251fca587d955&lt;SEP&gt;chunk-a6e914a0bcd76ec8eb536d4819e445ed&lt;SEP&gt;chunk-b5e538db39634a6114ec26262a158613&lt;SEP&gt;chunk-fe198b6172a04e625900d33335af8a2f&lt;SEP&gt;chunk-e57b05ec2028b6c7c15a316bc5c5940a&lt;SEP&gt;chunk-7866becd2b1e801191b1587797c378d3&lt;SEP&gt;chunk-35581a8288c58f57133ce444419dab3b&lt;SEP&gt;chunk-d294ec2837ccf10ff79ebf54726f3152&lt;SEP&gt;chunk-c30b6d6abec0005f395d401603adf240&lt;SEP&gt;chunk-214f75c7448a21f6ca5df650e6f8cd98&lt;SEP&gt;chunk-a62e6a628a15d5b00c8ff12281b40954&lt;SEP&gt;chunk-88a1ddb28b8766f87583cd3fca9ce749&lt;SEP&gt;chunk-a1299d13dcd08a019d98a18fde7b8cea</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274291</data>
+    </node>
+    <node id="萧媚">
+      <data key="d0">萧媚</data>
+      <data key="d1">person</data>
+      <data key="d2">萧媚是一位外貌妩媚的少女，是萧炎的表妹，也是故事中的女主角。她因对萧炎的关注而感到尴尬，并在训练场离开。萧媚在最近的测验中表现优异，从第七段提升至第八段，获得了家族的认可，因此在训练场上的表现引起了大家的广泛关注，成为众人的焦点。她也因此对未来充满了虚荣心。
+
+作为一名观察者，萧媚对萧炎的表现感到震惊和无法置信，同时她表现出对少年萧炎的好感。在家族内部，她对萧薰儿感到嫉妒，这让她在家族中感受到竞争压力。尽管萧媚曾对萧炎抱有倾慕之情，但她也感到与萧炎之间的差距令她感到纠结。这种复杂的情感让她内心充满了挣扎。
+
+此外，萧媚也渴望父亲为她介绍高级的风属性功法，并急切希望打破护罩以获取斗气功法。总的来说，萧媚是一个充满理想与情感复杂的角色，在追求自身目标的同时也面临着家族之间微妙的竞争与羁绊。</data>
+      <data key="d3">chunk-065f9030874913c56b64cc011d5cd2af&lt;SEP&gt;chunk-ab2b531aecd438872fdbb61685a86dbb&lt;SEP&gt;chunk-69528318e852992e545207216348c317&lt;SEP&gt;chunk-d294ec2837ccf10ff79ebf54726f3152&lt;SEP&gt;chunk-d5edadea78660e8b0d87f7f2406376a1&lt;SEP&gt;chunk-6c8d49eca3e42f4b03ee49fe63514cc6&lt;SEP&gt;chunk-f76ba95dc65e660409387d331348eac3&lt;SEP&gt;chunk-38b29eccf7724830681fde217d501c12&lt;SEP&gt;chunk-1e0c5a1eef61ee136040df40b665c270&lt;SEP&gt;chunk-b73c1fe92a6454ac06e40eefe29cffb7&lt;SEP&gt;chunk-aa079703239977b5ad6462205bd933b5&lt;SEP&gt;chunk-f4240663ec6e36ccacef2f9775e3ab0b&lt;SEP&gt;chunk-b25f15e48074c13f0e7ae9a8dc322a3d&lt;SEP&gt;chunk-a6e914a0bcd76ec8eb536d4819e445ed</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274296</data>
+    </node>
+    <node id="乌坦城">
+      <data key="d0">乌坦城</data>
+      <data key="d1">geo</data>
+      <data key="d2">乌坦城是加玛帝国的一座大型城市，作为加列家族与萧家所在地，承载着重要的家族关系和历史背景。这座城市因其地理位置优越，成为帝国中的重要城市之一，展现出人气与热闹的景象。
+
+在乌坦城，不仅举行成人仪式，也成为各方势力聚集的重要地点。这里是拍卖会的举办地，吸引了众多重要的商业人物参与，呈现出一个活跃的市场环境。此外，乌坦城还与炼药师相关的背景紧密相连，成为故事中的一个关键场景，角色之间的事件常常在此发生。
+
+萧炎在乌坦城的故事线尤为突出，这里是他的家乡，也是他一族的据点。他的突破传闻在这一地区广为流传，曾因他的天赋而受到关注。尽管萧炎曾在此名闻遐迩，但近来的变化令他的境遇引人同情。乌坦城的居民对他的表现寄予厚望，各方势力的代表也在这里齐聚，确认他的能力。
+
+总之，乌坦城不仅仅是一个地理位置，而是多重身份的交汇点，既是商业交易的中心，也是各种家族故事与人物命运交织的舞台。</data>
+      <data key="d3">chunk-977cae48a0f89a9b64e73cc249349dfb&lt;SEP&gt;chunk-ab2b531aecd438872fdbb61685a86dbb&lt;SEP&gt;chunk-122ffeb1ab6e0f60cf925c5876621f09&lt;SEP&gt;chunk-6127b0767d4b3024c42a58e5b6fd2a5e&lt;SEP&gt;chunk-1b3120c35b1ff11cdce1bccc22af33ab&lt;SEP&gt;chunk-5e3fa3165564658305d0f01138d179c6&lt;SEP&gt;chunk-c2d61cb55f8091519a2b670689a7f178&lt;SEP&gt;chunk-96b791b3d90a3f1df5b348173dc3cd96&lt;SEP&gt;chunk-80593513554fcfdef9546dedffbd9e69&lt;SEP&gt;chunk-2029690f74ecd0f2ecc13fb5ae9ecbc0&lt;SEP&gt;chunk-5249452fc02634a65306233a8ef35c64&lt;SEP&gt;chunk-51ec1d4f551cfa00a7a54a74c6442467&lt;SEP&gt;chunk-d1c1d6346efae058b7ecd4e647e0d6ca&lt;SEP&gt;chunk-3dbf363878b73e4de76b15b3275a9a19&lt;SEP&gt;chunk-1e0c5a1eef61ee136040df40b665c270&lt;SEP&gt;chunk-ecb3660f8cbf17bc85b8ed91fce5f4d5&lt;SEP&gt;chunk-214f75c7448a21f6ca5df650e6f8cd98&lt;SEP&gt;chunk-4ce437a39ec1ae63d7ee0fcdae0e41a9&lt;SEP&gt;chunk-e3f41bb63e8c46647a93f6859c48c0a5&lt;SEP&gt;chunk-88a1ddb28b8766f87583cd3fca9ce749&lt;SEP&gt;chunk-f5d01de62dca89ac9bbe33b65e64c994&lt;SEP&gt;chunk-834e631785d78eda90238461974bfa34</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274301</data>
+    </node>
+    <node id="斗之力">
+      <data key="d0">斗之力</data>
+      <data key="d1">category</data>
+      <data key="d2">斗之力是test的一种，通常用于衡量个体的实力和潜力。&lt;SEP&gt;斗之力是用于评估修炼者实力的标准，萧炎的测试结果为七段。&lt;SEP&gt;斗之力是衡量角色实力的标准，被测验员用来评估青年的能力。</data>
+      <data key="d3">chunk-38b29eccf7724830681fde217d501c12&lt;SEP&gt;chunk-ab2b531aecd438872fdbb61685a86dbb&lt;SEP&gt;chunk-51ec1d4f551cfa00a7a54a74c6442467</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274301</data>
+    </node>
+    <node id="测验魔石碑">
+      <data key="d0">测验魔石碑</data>
+      <data key="d1">event</data>
+      <data key="d2">测验魔石碑用于测试个人的斗之力和斗之气，成为人物关系的关键点。</data>
+      <data key="d3">chunk-ab2b531aecd438872fdbb61685a86dbb</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274301</data>
+    </node>
+    <node id="族长">
+      <data key="d0">族长</data>
+      <data key="d1">person</data>
+      <data key="d2">族长是家族中的重要人物，拥有权利并召唤了萧炎到大厅。&lt;SEP&gt;族长是萧炎的父亲，作为家族的领导者，影响着萧炎和萧宁之间的权力动态。&lt;SEP&gt;族长是萧炎的父亲，因其身份影响萧炎在家族中的地位。</data>
+      <data key="d3">chunk-ab2b531aecd438872fdbb61685a86dbb&lt;SEP&gt;chunk-5733dbcfa3f5ed09b642d89af52055ef&lt;SEP&gt;chunk-b68fe7a0af905302b8e52bd5e9e2f82e</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274301</data>
+    </node>
+    <node id="家族">
+      <data key="d0">家族</data>
+      <data key="d1">organization</data>
+      <data key="d2">家族在乌坦城中扮演着重要的角色，是竞争与权力斗争的背景。萧家、纳兰家和云岚宗之间的关系错综复杂，而家族本身则是故事的核心背景，涉及着斗者的身份与修炼。家族不仅影响着萧炎与薰儿的未来和修炼机会，也是他们与其他角色之间关系的主要舞台。萧炎和萧媚所隶属的家族，关系到他们的荣誉及斗之力的测试；同时，这个家族也是萧炎所属于的血脉，参与了他的测试过程。综上所述，家族是角色之间权力和地位关系发生的关键所在。</data>
+      <data key="d3">chunk-2029690f74ecd0f2ecc13fb5ae9ecbc0&lt;SEP&gt;chunk-ab2b531aecd438872fdbb61685a86dbb&lt;SEP&gt;chunk-d5edadea78660e8b0d87f7f2406376a1&lt;SEP&gt;chunk-6c8d49eca3e42f4b03ee49fe63514cc6&lt;SEP&gt;chunk-a62e6a628a15d5b00c8ff12281b40954&lt;SEP&gt;chunk-aa079703239977b5ad6462205bd933b5&lt;SEP&gt;chunk-51ec1d4f551cfa00a7a54a74c6442467</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274306</data>
+    </node>
+    <node id="萧薰儿">
+      <data key="d0">萧薰儿</data>
+      <data key="d1">person</data>
+      <data key="d2">萧薰儿是一位在家族中表现优异的年轻女性，深受萧宁和其他人的关注。作为家族中年轻一辈的第一人，她不仅拥有九段斗之气，还具备脱俗的气质。萧薰儿以其曼妙的身姿和自信的形象出现在众人面前，她是萧炎的朋友，在与他的互动中，她观察到了萧炎的变化，并给予他鼓励，促使他重新站起来，重拾他的荣耀与尊严。此外，萧薰儿在家族事务中也积极发挥作用，曾劝说三位长老平息争执，展现了她的智慧与能力。</data>
+      <data key="d3">chunk-54dfd40f096b9fa5bfbe557d62a499ca&lt;SEP&gt;chunk-5d2cde4cdd02799f99e4c6091c92dd7a&lt;SEP&gt;chunk-fe198b6172a04e625900d33335af8a2f&lt;SEP&gt;chunk-aa079703239977b5ad6462205bd933b5&lt;SEP&gt;chunk-223dc4e58bd735300057dd7aeacdbef7&lt;SEP&gt;chunk-895e8845fedd4eaff2c8ee053254d568</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274309</data>
+    </node>
+    <node id="斗之气">
+      <data key="d0">斗之气</data>
+      <data key="d1">category</data>
+      <data key="d2">斗之气是一种修炼体系和能量形式，角色们通过修炼提升自己的实力，并在此过程中经历多阶段的进展。特别是主角萧炎，他的成长是故事中的重要组成部分。斗之气不仅是力量的指标，年轻一辈成员对此有强烈关注，且在角色之间的斗技对决中发挥着至关重要的作用。
+
+斗之气的层级划分明确，分为多个段位，达到高段位后能够凝聚斗之气旋。在修炼过程中，斗之气不仅是提升肉体强度的关键能源，也是角色能力的衡量标准，常常在成人仪式中得到验证。萧炎的斗之气作为其修炼的基础力量，与他的个人修炼进程息息相关，然而，由于戒指的吸收，斗之气有时会消失，这对他在战斗中的表现带来了挑战。
+
+总体来看，斗之气是角色们修炼和战斗的核心能量，它在提升实力、展现能力以及修炼进阶方面发挥着不可或缺的作用。</data>
+      <data key="d3">chunk-96b791b3d90a3f1df5b348173dc3cd96&lt;SEP&gt;chunk-998a7d540a65548141f1f626a306aba4&lt;SEP&gt;chunk-011ad0b91e2b0cd0e50353097a72ef50&lt;SEP&gt;chunk-71833742c3e7cd8ba19d4faae0ccb6a4&lt;SEP&gt;chunk-ad83da03b7fbbfb93d743f93dbdc236f&lt;SEP&gt;chunk-8bd4d5c018c7ef7d369092d47f6116be&lt;SEP&gt;chunk-e57b05ec2028b6c7c15a316bc5c5940a&lt;SEP&gt;chunk-aa079703239977b5ad6462205bd933b5&lt;SEP&gt;chunk-223dc4e58bd735300057dd7aeacdbef7&lt;SEP&gt;chunk-fdf81810e72560519b15858e6c7f325b&lt;SEP&gt;chunk-173b2befc2dd2fdec779ba1588fa1512&lt;SEP&gt;chunk-dc08944dd584ff37b1952784aaa63e8c&lt;SEP&gt;chunk-a1299d13dcd08a019d98a18fde7b8cea</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274312</data>
+    </node>
+    <node id="魔石碑">
+      <data key="d0">魔石碑</data>
+      <data key="d1">event</data>
+      <data key="d2">魔石碑用于测试斗之气的级别，众人围观时产生了惊叹的气氛。</data>
+      <data key="d3">chunk-aa079703239977b5ad6462205bd933b5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274312</data>
+    </node>
+    <node id="斗者">
+      <data key="d0">斗者</data>
+      <data key="d1">category</data>
+      <data key="d2">斗者是修炼中一种身份，代表了战斗技能和力量的等级。&lt;SEP&gt;斗者是指那些掌握斗气与斗技的人，修炼斗气秘籍的资格要求。&lt;SEP&gt;斗者是掌握斗之气并受人尊敬的修炼者。&lt;SEP&gt;斗者是故事中一种拥有特殊能力的角色，通常进行比试和战斗。&lt;SEP&gt;斗者是经过修炼达到较高实力的角色，能够更快提升斗之气。</data>
+      <data key="d3">chunk-ecbfa0ab63fe38aff3beca5ad18464f9&lt;SEP&gt;chunk-1b0cedce249c27538909da8c6093d709&lt;SEP&gt;chunk-aa079703239977b5ad6462205bd933b5&lt;SEP&gt;chunk-dc08944dd584ff37b1952784aaa63e8c&lt;SEP&gt;chunk-b25f15e48074c13f0e7ae9a8dc322a3d</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274312</data>
+    </node>
+    <node id="斗气大陆">
+      <data key="d0">斗气大陆</data>
+      <data key="d1">geo</data>
+      <data key="d2">斗气大陆是一个充满奇迹与潜力的辽阔世界，特色在于斗气和斗技的修炼。这片区域以其独特的修炼资源和奇人异事而闻名，构成了故事发生的主要背景世界。斗气大陆的主要特点是其独特的实力体系和社会结构，其中包括等级分明的炼药师制度，以及盛行的魔核猎杀与交易。在这一背景下，角色们得以成长与修炼，特别是萧炎和老者的故事便是在这片土地上展开。总的来说，斗气大陆是一个丰富多彩、充满机会与挑战的世界。</data>
+      <data key="d3">chunk-9b3e9ca77304d9c6ea1fb06404c38234&lt;SEP&gt;chunk-ecbfa0ab63fe38aff3beca5ad18464f9&lt;SEP&gt;chunk-4e1834747640fb2093bcca55cb52f34c&lt;SEP&gt;chunk-fe198b6172a04e625900d33335af8a2f&lt;SEP&gt;chunk-fdf81810e72560519b15858e6c7f325b&lt;SEP&gt;chunk-895e8845fedd4eaff2c8ee053254d568&lt;SEP&gt;chunk-822e02c1a53c663cff079cf8e57ae19b&lt;SEP&gt;chunk-c436dc32b77de4d846fb79cbafb3f0e6&lt;SEP&gt;chunk-a1299d13dcd08a019d98a18fde7b8cea</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274314</data>
+    </node>
+    <node id="斗气">
+      <data key="d0">斗气</data>
+      <data key="d1">category</data>
+      <data key="d2">斗气是一种在文中提到的力量体系，用于对抗和表现角色实力。&lt;SEP&gt;斗气是一种能量形式，角色利用其增强身体素质和反应能力。&lt;SEP&gt;斗气是在斗气大陆上重要的修炼元素，与人类日常生活息息相关。&lt;SEP&gt;斗气是本文中角色修炼的核心力量，分为不同的阶段和等级。&lt;SEP&gt;斗气是角色修炼的能量形式，直接影响他们在成人仪式中的表现。</data>
+      <data key="d3">chunk-49ce97b4fce04870f698556acf5aecc1&lt;SEP&gt;chunk-a62e6a628a15d5b00c8ff12281b40954&lt;SEP&gt;chunk-7866becd2b1e801191b1587797c378d3&lt;SEP&gt;chunk-f4240663ec6e36ccacef2f9775e3ab0b&lt;SEP&gt;chunk-895e8845fedd4eaff2c8ee053254d568</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274314</data>
+    </node>
+    <node id="斗气功法">
+      <data key="d0">斗气功法</data>
+      <data key="d1">category</data>
+      <data key="d2">斗气功法是在斗气大陆上修炼斗气的具体方法，分为多个等级。&lt;SEP&gt;斗气功法是萧家几百年来所收集的武学秘籍，关键于家族的地位与力量。</data>
+      <data key="d3">chunk-895e8845fedd4eaff2c8ee053254d568&lt;SEP&gt;chunk-62d5ed7153276d7b7031113c88d438b1</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274314</data>
+    </node>
+    <node id="地球">
+      <data key="d0">地球</data>
+      <data key="d1">geo</data>
+      <data key="d2">地球是萧炎来自的星球，与斗气大陆形成鲜明对比。</data>
+      <data key="d3">chunk-895e8845fedd4eaff2c8ee053254d568</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274314</data>
+    </node>
+    <node id="斗技">
+      <data key="d0">斗技</data>
+      <data key="d1">category</data>
+      <data key="d2">斗技是斗气大陆中的一种特殊技能，主要用于角色间的战斗与较量。它在增强实力方面与功法并列，被视为极其重要的手段。斗技分为天地玄黄四个等级，角色可以通过宗派或斗气学院进行学习。斗技不仅是家族成员间竞争的重要方式，还是检验修炼掌握程度的手段。
+
+在故事中，斗技涵盖了角色们在战斗中所使用的各种技艺和技能，是角色希望掌握的高级技能。它能够有效地展现斗者的战斗能力与技巧，使得斗技成为一种技艺竞技的形式，角色们通过斗技来提升自身实力。因此，斗技在整个斗气大陆的生态中具备了非常重要的地位。</data>
+      <data key="d3">chunk-998a7d540a65548141f1f626a306aba4&lt;SEP&gt;chunk-b68fe7a0af905302b8e52bd5e9e2f82e&lt;SEP&gt;chunk-ecbfa0ab63fe38aff3beca5ad18464f9&lt;SEP&gt;chunk-ad83da03b7fbbfb93d743f93dbdc236f&lt;SEP&gt;chunk-1b0cedce249c27538909da8c6093d709&lt;SEP&gt;chunk-129e1687df23c27a0a7492071e3f9005&lt;SEP&gt;chunk-aeb9bc2067ac0b18290761a863105192&lt;SEP&gt;chunk-192eedc046d7aaf2d5c5a90cb74f051b&lt;SEP&gt;chunk-895e8845fedd4eaff2c8ee053254d568&lt;SEP&gt;chunk-a6e914a0bcd76ec8eb536d4819e445ed</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274317</data>
+    </node>
+    <node id="狂狮怒罡">
+      <data key="d0">狂狮怒罡</data>
+      <data key="d1">category</data>
+      <data key="d2">狂狮怒罡是一种风属性的高级斗气功法，仅有族长可修炼。&lt;SEP&gt;狂狮怒罡是萧战的顶级功法，属于玄阶中级。</data>
+      <data key="d3">chunk-ee08af84f5067fca3c7fa99f90db20ec&lt;SEP&gt;chunk-ecbfa0ab63fe38aff3beca5ad18464f9</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274317</data>
+    </node>
+    <node id="黑暗种族">
+      <data key="d0">黑暗种族</data>
+      <data key="d1">category</data>
+      <data key="d2">黑暗种族是斗气大陆上的一种以诡异阴狠著称的种族，增加了大陆的复杂性。</data>
+      <data key="d3">chunk-ecbfa0ab63fe38aff3beca5ad18464f9</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274317</data>
+    </node>
+    <node id="蛮族">
+      <data key="d0">蛮族</data>
+      <data key="d1">category</data>
+      <data key="d2">蛮族是斗气大陆北部的一种族群，以力量巨大和与兽魂合体闻名。</data>
+      <data key="d3">chunk-ecbfa0ab63fe38aff3beca5ad18464f9</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274317</data>
+    </node>
+    <node id="萧战">
+      <data key="d0">萧战</data>
+      <data key="d1">person</data>
+      <data key="d2">萧战是萧家的族长，同时也是萧炎的父亲，对萧炎的修炼天赋感到自豪，但内心又充满了担忧。他在拍卖会上表现出戏谑和冷静，同时作为主要竞标者之一，其出价引起了其他参与者的注意。在拍卖中，萧战与雅妃之间有礼节互动，体现出他的得意与兴奋。
+
+作为家族的长辈，萧战负责管理家族事务，关心着萧炎的安全和情绪，并试图维护家族的声誉。他对侄女纳兰嫣然的婚约问题感到愤怒且困惑，并对萧宁的表现寄予厚望，但同时对萧炎的胜算感到忧虑。
+
+在故事中，萧战不仅关注萧炎的修炼进展和未来计划，还在关键时刻试图控制儿子的冲动。作为一个重要角色，他与长老及老者进行重要谈话，体现出权威与责任。在斗气阁中，他负责向少年少女讲解规则，并在比赛中关注挑战的进展，内心感到紧张。
+
+萧战对萧炎的实力提升感到震惊和欣慰，表现出对其未来的期待与信心。他目睹了萧炎的成长，感到非常骄傲和兴奋，同时也提醒儿子准备成人仪式，体现出作为父亲的关爱与责任感。</data>
+      <data key="d3">chunk-f80e7a7eae53dbf97604fee08283dd67&lt;SEP&gt;chunk-aee8a3ad453beffa1023de8811b77ada&lt;SEP&gt;chunk-29fbd54579d5c63021028f860f5ef333&lt;SEP&gt;chunk-122ffeb1ab6e0f60cf925c5876621f09&lt;SEP&gt;chunk-24e6ba1d5a301503c4a29d0518150a04&lt;SEP&gt;chunk-5d2cde4cdd02799f99e4c6091c92dd7a&lt;SEP&gt;chunk-5e3fa3165564658305d0f01138d179c6&lt;SEP&gt;chunk-ad83da03b7fbbfb93d743f93dbdc236f&lt;SEP&gt;chunk-c2d61cb55f8091519a2b670689a7f178&lt;SEP&gt;chunk-998a7d540a65548141f1f626a306aba4&lt;SEP&gt;chunk-6c8d49eca3e42f4b03ee49fe63514cc6&lt;SEP&gt;chunk-1b0cedce249c27538909da8c6093d709&lt;SEP&gt;chunk-3168b429ed74027f386cf328ea2ee805&lt;SEP&gt;chunk-5733dbcfa3f5ed09b642d89af52055ef&lt;SEP&gt;chunk-a6e914a0bcd76ec8eb536d4819e445ed&lt;SEP&gt;chunk-d54618aa9f6b9d83d46914a2d986268d&lt;SEP&gt;chunk-ee08af84f5067fca3c7fa99f90db20ec&lt;SEP&gt;chunk-69528318e852992e545207216348c317&lt;SEP&gt;chunk-65c856afe8a55bfb85a0529eebcb6e50&lt;SEP&gt;chunk-d5edadea78660e8b0d87f7f2406376a1&lt;SEP&gt;chunk-5249452fc02634a65306233a8ef35c64&lt;SEP&gt;chunk-7ba8fe565ae410898375e813d446137a&lt;SEP&gt;chunk-51ec1d4f551cfa00a7a54a74c6442467&lt;SEP&gt;chunk-d1c1d6346efae058b7ecd4e647e0d6ca&lt;SEP&gt;chunk-c436dc32b77de4d846fb79cbafb3f0e6&lt;SEP&gt;chunk-1e0c5a1eef61ee136040df40b665c270&lt;SEP&gt;chunk-ce43ec547c6b3b0ac10afb7520f17e06&lt;SEP&gt;chunk-b27def825216bb59ff93eed34c3d5954&lt;SEP&gt;chunk-9b3e9ca77304d9c6ea1fb06404c38234&lt;SEP&gt;chunk-fcbb8b69d7ad6f7f9c62fb1d40b504a2&lt;SEP&gt;chunk-214f75c7448a21f6ca5df650e6f8cd98&lt;SEP&gt;chunk-4ce437a39ec1ae63d7ee0fcdae0e41a9&lt;SEP&gt;chunk-2cebe27e055f7e2525f166fc0f989b8b&lt;SEP&gt;chunk-f5d01de62dca89ac9bbe33b65e64c994&lt;SEP&gt;chunk-685b21823f8585b17d77b087211e0a5c</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274321</data>
+    </node>
+    <node id="黑色戒指">
+      <data key="d0">黑色戒指</data>
+      <data key="d1">organization</data>
+      <data key="d2">黑色戒指是药老的承载物，内含药老的灵魂。&lt;SEP&gt;黑色戒指是萧炎母亲临终前送给他的遗物，承载着情感的象征。&lt;SEP&gt;黑色戒指是萧炎的一件物品，具有投射灵液的功能。</data>
+      <data key="d3">chunk-71833742c3e7cd8ba19d4faae0ccb6a4&lt;SEP&gt;chunk-49ce97b4fce04870f698556acf5aecc1&lt;SEP&gt;chunk-f80e7a7eae53dbf97604fee08283dd67</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274321</data>
+    </node>
+    <node id="成年仪式">
+      <data key="d0">成年仪式</data>
+      <data key="d1">event</data>
+      <data key="d2">成年仪式是一项重要的家庭仪式，将决定萧炎的修炼资格。&lt;SEP&gt;成年仪式是萧炎即将参加的重要仪式，标志着他成长的一步。&lt;SEP&gt;成年仪式是萧炎即将经历的重要人生节点，标志着他进入成年阶段。</data>
+      <data key="d3">chunk-977cae48a0f89a9b64e73cc249349dfb&lt;SEP&gt;chunk-f80e7a7eae53dbf97604fee08283dd67&lt;SEP&gt;chunk-a1299d13dcd08a019d98a18fde7b8cea</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274321</data>
+    </node>
+    <node id="萧家">
+      <data key="d0">萧家</data>
+      <data key="d1">organization</data>
+      <data key="d2">萧家是一个位于乌坦城的主要家族，也是三大家族之一，拥有显著的影响力和地位。家族高层对年轻一辈的成就非常关注，且家族内有着严格的规矩和传统。萧家重视成人仪式，将其视为重要的传统仪式，参与这一仪式的年轻成员如萧炎和萧克，皆是承载着家族期望的代表。
+
+作为一个家族组织，萧家的年轻一辈成员积极参与各种挑战与考验，这不仅是为了证明自己的能力，也是家族荣誉的一部分。同时，萧家负责管理所在坊市，维护市场秩序，与其他家族存在着复杂的竞争关系。萧家与故事主角萧炎的身世和背景密切相关，是整个故事的重要背景机构。所有参与挑战的族人都来自于萧家，这更凸显了家族在故事中的关键角色。</data>
+      <data key="d3">chunk-f80e7a7eae53dbf97604fee08283dd67&lt;SEP&gt;chunk-998a7d540a65548141f1f626a306aba4&lt;SEP&gt;chunk-977cae48a0f89a9b64e73cc249349dfb&lt;SEP&gt;chunk-2029690f74ecd0f2ecc13fb5ae9ecbc0&lt;SEP&gt;chunk-a006f8a59bc42b6a28f27eaba7ea6c59&lt;SEP&gt;chunk-65c856afe8a55bfb85a0529eebcb6e50&lt;SEP&gt;chunk-62d5ed7153276d7b7031113c88d438b1&lt;SEP&gt;chunk-4e1834747640fb2093bcca55cb52f34c&lt;SEP&gt;chunk-ac4f3a47d82253a4d6bfeb3aa63432ca&lt;SEP&gt;chunk-88a1ddb28b8766f87583cd3fca9ce749&lt;SEP&gt;chunk-b25f15e48074c13f0e7ae9a8dc322a3d&lt;SEP&gt;chunk-d294ec2837ccf10ff79ebf54726f3152</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274325</data>
+    </node>
+    <node id="斗之气旋">
+      <data key="d0">斗之气旋</data>
+      <data key="d1">category</data>
+      <data key="d2">斗之气旋是萧炎辛苦修炼得到的力量，代表了他的天赋和能力。</data>
+      <data key="d3">chunk-f80e7a7eae53dbf97604fee08283dd67</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274325</data>
+    </node>
+    <node id="五星斗师">
+      <data key="d0">五星斗师</data>
+      <data key="d1">category</data>
+      <data key="d2">五星斗师是萧战的级别，代表其在斗气修炼中的实力和地位。</data>
+      <data key="d3">chunk-f80e7a7eae53dbf97604fee08283dd67</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274325</data>
+    </node>
+    <node id="古朴戒指">
+      <data key="d0">古朴戒指</data>
+      <data key="d1">category</data>
+      <data key="d2">古朴戒指是萧炎手中的神秘物品，具有特殊的光辉和潜在的能力。&lt;SEP&gt;古朴戒指是萧炎的重要物品，与他未来的发展有重要关系。</data>
+      <data key="d3">chunk-ce43ec547c6b3b0ac10afb7520f17e06&lt;SEP&gt;chunk-5733dbcfa3f5ed09b642d89af52055ef</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274325</data>
+    </node>
+    <node id="贵客">
+      <data key="d0">贵客</data>
+      <data key="d1">event</data>
+      <data key="d2">贵客指的是萧战提到的即将到来的重要客人，引发了萧炎的好奇。</data>
+      <data key="d3">chunk-5733dbcfa3f5ed09b642d89af52055ef</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274325</data>
+    </node>
+    <node id="长老">
+      <data key="d0">长老</data>
+      <data key="d1">organization</data>
+      <data key="d2">长老们是萧炎家族中的权威角色，参与决策和讨论。</data>
+      <data key="d3">chunk-5733dbcfa3f5ed09b642d89af52055ef</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274325</data>
+    </node>
+    <node id="三少爷">
+      <data key="d0">三少爷</data>
+      <data key="d1">person</data>
+      <data key="d2">三少爷是对萧炎的尊称，表明他在萧家中的地位。&lt;SEP&gt;三少爷是萧炎在家中的排行，标志着他的身份和地位。</data>
+      <data key="d3">chunk-ac4f3a47d82253a4d6bfeb3aa63432ca&lt;SEP&gt;chunk-5733dbcfa3f5ed09b642d89af52055ef</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274325</data>
+    </node>
+    <node id="青衫老者">
+      <data key="d0">青衫老者</data>
+      <data key="d1">person</data>
+      <data key="d2">青衫老者是萧炎的管家，关心萧炎的修炼和表现。</data>
+      <data key="d3">chunk-5733dbcfa3f5ed09b642d89af52055ef</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274325</data>
+    </node>
+    <node id="迎客大厅">
+      <data key="d0">迎客大厅</data>
+      <data key="d1">geo</data>
+      <data key="d2">迎客大厅是家族中举行重要会议及接待贵客的场所。</data>
+      <data key="d3">chunk-5733dbcfa3f5ed09b642d89af52055ef</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274325</data>
+    </node>
+    <node id="老者">
+      <data key="d0">老者</data>
+      <data key="d1">person</data>
+      <data key="d2">老者是一个神秘的人物，时而提供帮助时而吸收萧炎的斗之气。&lt;SEP&gt;老者是一位七星大斗师，展示了强大的实力。</data>
+      <data key="d3">chunk-a1299d13dcd08a019d98a18fde7b8cea&lt;SEP&gt;chunk-6c8d49eca3e42f4b03ee49fe63514cc6</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274325</data>
+    </node>
+    <node id="青年">
+      <data key="d0">青年</data>
+      <data key="d1">person</data>
+      <data key="d2">青年是一位五星斗者，因优秀的修炼天赋而引人注目。</data>
+      <data key="d3">chunk-6c8d49eca3e42f4b03ee49fe63514cc6</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274325</data>
+    </node>
+    <node id="少女">
+      <data key="d0">少女</data>
+      <data key="d1">person</data>
+      <data key="d2">少女是三星斗者，以美丽与实力引起萧炎的关注。</data>
+      <data key="d3">chunk-6c8d49eca3e42f4b03ee49fe63514cc6</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274325</data>
+    </node>
+    <node id="黄袍老者">
+      <data key="d0">黄袍老者</data>
+      <data key="d1">person</data>
+      <data key="d2">黄袍老者是一位与萧战和三位长老进行交谈的神秘角色。&lt;SEP&gt;黄袍老者是一位长老，表现出对萧炎的轻蔑和不屑。</data>
+      <data key="d3">chunk-5e3fa3165564658305d0f01138d179c6&lt;SEP&gt;chunk-6c8d49eca3e42f4b03ee49fe63514cc6</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274325</data>
+    </node>
+    <node id="萧熏儿">
+      <data key="d0">萧熏儿</data>
+      <data key="d1">person</data>
+      <data key="d2">萧熏儿是一个知性美的少女角色，经常帮助萧炎，并对过去的事情有深刻的思考。</data>
+      <data key="d3">chunk-5e3fa3165564658305d0f01138d179c6</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274325</data>
+    </node>
+    <node id="云岚宗">
+      <data key="d0">云岚宗</data>
+      <data key="d1">organization</data>
+      <data key="d2">云岚宗是一个具有强大实力和影响力的修炼组织，位于加玛帝国中，广为人知。萧炎计划在三年后前往云岚宗，并与纳兰嫣然重聚，因为纳兰嫣然对云岚宗寄予厚望。作为一个尊重炼药师的势力，云岚宗对年轻修士的学习提供了良好的机会。纳兰嫣然被云岚宗的宗主收为弟子，并在后期声称自己是宗主，要求解除与萧炎的婚约。
+
+云岚宗不仅支持纳兰嫣然，还影响了她的行为和自信，成为她的重要后盾。宗主对纳兰嫣然的寄予厚望，使得她在宗门中的地位更加巩固，与此同时，其他角色在宴会上的交流也表明了云岚宗在故事中的重要性。总的来说，云岚宗是一个强大的宗派，以其实力、支持与影响力在故事中扮演着关键角色。</data>
+      <data key="d3">chunk-ce43ec547c6b3b0ac10afb7520f17e06&lt;SEP&gt;chunk-aee8a3ad453beffa1023de8811b77ada&lt;SEP&gt;chunk-ee08af84f5067fca3c7fa99f90db20ec&lt;SEP&gt;chunk-9b3e9ca77304d9c6ea1fb06404c38234&lt;SEP&gt;chunk-2029690f74ecd0f2ecc13fb5ae9ecbc0&lt;SEP&gt;chunk-214f75c7448a21f6ca5df650e6f8cd98&lt;SEP&gt;chunk-24e6ba1d5a301503c4a29d0518150a04&lt;SEP&gt;chunk-7ba8fe565ae410898375e813d446137a&lt;SEP&gt;chunk-2cebe27e055f7e2525f166fc0f989b8b&lt;SEP&gt;chunk-5e3fa3165564658305d0f01138d179c6&lt;SEP&gt;chunk-822e02c1a53c663cff079cf8e57ae19b&lt;SEP&gt;chunk-c436dc32b77de4d846fb79cbafb3f0e6&lt;SEP&gt;chunk-d294ec2837ccf10ff79ebf54726f3152</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274328</data>
+    </node>
+    <node id="加玛帝国">
+      <data key="d0">加玛帝国</data>
+      <data key="d1">geo</data>
+      <data key="d2">加玛帝国是一个大型的帝国，位于乌坦城之下，是故事中的重要国家，与角色们的生活环境紧密相关。该国的背景设定中，药老声称在加玛帝国内无人能够炼制出与他相同的筑基灵液，这表明其在炼药方面有着独特的地位和传统。此外，加玛帝国在斗气大陆中被认知为一个重要地域，以其炼药师的水平和强大的斗气武者势力结构而闻名。
+
+在加玛帝国的背景中，著名的魔兽山脉也是一个重要的地理单位，进一步强调了这个国家的影响力。萧炎是加玛帝国的居民，他从未离开过这个国家，在这里经历了复杂的家族和权力斗争，同时国家中还涉及与丹药价格相关的背景信息。此外，云岚宗的宗主也是该国的重要角色，显示出加玛帝国在故事中的多维度和复杂性。总的来说，加玛帝国是一个在故事中占据核心地位的国家，其影响力、文化和人物角色都对情节发展产生重要作用。</data>
+      <data key="d3">chunk-80593513554fcfdef9546dedffbd9e69&lt;SEP&gt;chunk-ce43ec547c6b3b0ac10afb7520f17e06&lt;SEP&gt;chunk-54dfd40f096b9fa5bfbe557d62a499ca&lt;SEP&gt;chunk-ee08af84f5067fca3c7fa99f90db20ec&lt;SEP&gt;chunk-ecb3660f8cbf17bc85b8ed91fce5f4d5&lt;SEP&gt;chunk-5d2cde4cdd02799f99e4c6091c92dd7a&lt;SEP&gt;chunk-5249452fc02634a65306233a8ef35c64&lt;SEP&gt;chunk-1b3120c35b1ff11cdce1bccc22af33ab&lt;SEP&gt;chunk-5e3fa3165564658305d0f01138d179c6&lt;SEP&gt;chunk-fdf81810e72560519b15858e6c7f325b&lt;SEP&gt;chunk-822e02c1a53c663cff079cf8e57ae19b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274333</data>
+    </node>
+    <node id="三位长老">
+      <data key="d0">三位长老</data>
+      <data key="d1">organization</data>
+      <data key="d2">三位长老是与萧战一起对云岚宗成员进行热切交谈的角色，为家族事务提供指导。&lt;SEP&gt;三位长老是萧炎测试时的见证者，对其进步感到震惊和不可置信。&lt;SEP&gt;三位长老是负责家族事务的重要人物，他们对婚约问题持谨慎态度。&lt;SEP&gt;三位长老是负责管理与决策的角色，身处于讨论的中心。</data>
+      <data key="d3">chunk-5d2cde4cdd02799f99e4c6091c92dd7a&lt;SEP&gt;chunk-7ba8fe565ae410898375e813d446137a&lt;SEP&gt;chunk-685b21823f8585b17d77b087211e0a5c&lt;SEP&gt;chunk-5e3fa3165564658305d0f01138d179c6</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274333</data>
+    </node>
+    <node id="纳兰嫣然">
+      <data key="d0">纳兰嫣然</data>
+      <data key="d1">person</data>
+      <data key="d2">纳兰嫣然是一位自豪而骄傲的女性角色，身世显赫，作为加玛帝国将领的孙女和萧炎的未婚妻，她在情感和地位上展现出强烈的个性。她提议与萧炎解除婚约，表现出强势和决断，导致她在情感上对萧炎产生复杂的态度，同时也因萧炎的强硬决定而感到惊讶和愤怒。  
+
+在故事中，纳兰嫣然与萧炎之间的互动十分重要，她是萧炎心中念念不忘的女子，因其优秀的修炼天赋而受到云韵的重视。作为一名有天赋的年轻女子，纳兰嫣然正在接受云岚宗的特殊培养，并且被视为未来的宗主，展现出令人羡慕的魄力。  
+
+尽管她在身份地位上低于薰儿，但她依然是萧炎的对手，并激励着他不断进步。她和萧家的关系复杂，她的悔婚事件也使她对萧炎产生了一些不快。总的来看，纳兰嫣然在故事中是一个多层次、情感丰富的角色。</data>
+      <data key="d3">chunk-ce43ec547c6b3b0ac10afb7520f17e06&lt;SEP&gt;chunk-ee08af84f5067fca3c7fa99f90db20ec&lt;SEP&gt;chunk-9b3e9ca77304d9c6ea1fb06404c38234&lt;SEP&gt;chunk-2029690f74ecd0f2ecc13fb5ae9ecbc0&lt;SEP&gt;chunk-214f75c7448a21f6ca5df650e6f8cd98&lt;SEP&gt;chunk-24e6ba1d5a301503c4a29d0518150a04&lt;SEP&gt;chunk-69528318e852992e545207216348c317&lt;SEP&gt;chunk-5d2cde4cdd02799f99e4c6091c92dd7a&lt;SEP&gt;chunk-7ba8fe565ae410898375e813d446137a&lt;SEP&gt;chunk-e006674fd44e73a3d672c0740a510578&lt;SEP&gt;chunk-c436dc32b77de4d846fb79cbafb3f0e6&lt;SEP&gt;chunk-d294ec2837ccf10ff79ebf54726f3152</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274336</data>
+    </node>
+    <node id="纳兰桀">
+      <data key="d0">纳兰桀</data>
+      <data key="d1">person</data>
+      <data key="d2">纳兰桀是纳兰嫣然的祖父，狮心元帅，对家族有绝对权威。</data>
+      <data key="d3">chunk-2029690f74ecd0f2ecc13fb5ae9ecbc0</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274336</data>
+    </node>
+    <node id="云韵">
+      <data key="d0">云韵</data>
+      <data key="d1">person</data>
+      <data key="d2">云韵是云岚宗的宗主，位高权重，影响着纳兰嫣然的未来。&lt;SEP&gt;云韵是云岚宗的宗主，收纳兰嫣然为弟子，并对其极为宠爱。&lt;SEP&gt;云韵是将纳兰嫣然收为弟子的师父，具有重要地位。</data>
+      <data key="d3">chunk-ee08af84f5067fca3c7fa99f90db20ec&lt;SEP&gt;chunk-9b3e9ca77304d9c6ea1fb06404c38234&lt;SEP&gt;chunk-2029690f74ecd0f2ecc13fb5ae9ecbc0</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274336</data>
+    </node>
+    <node id="魔兽山脉">
+      <data key="d0">魔兽山脉</data>
+      <data key="d1">geo</data>
+      <data key="d2">魔兽山脉是乌坦城的地理背景，提供了城镇的战略位置和保护。&lt;SEP&gt;魔兽山脉是加玛帝国内的险峻地点，是萧炎思考和自省的地方。</data>
+      <data key="d3">chunk-2029690f74ecd0f2ecc13fb5ae9ecbc0&lt;SEP&gt;chunk-ce43ec547c6b3b0ac10afb7520f17e06</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274336</data>
+    </node>
+    <node id="仇人">
+      <data key="d0">仇人</data>
+      <data key="d1">category</data>
+      <data key="d2">仇人是指萧炎的祖父与其对手之间的敌对关系，对家族历史有深远影响。</data>
+      <data key="d3">chunk-2029690f74ecd0f2ecc13fb5ae9ecbc0</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274336</data>
+    </node>
+    <node id="葛叶">
+      <data key="d0">葛叶</data>
+      <data key="d1">person</data>
+      <data key="d2">葛叶向萧战表达敬意，并带来赔礼以抚平不礼貌的要求。&lt;SEP&gt;葛叶是一位参与互动的角色，表现出对萧炎和纳兰嫣然之间状况的关注。&lt;SEP&gt;葛叶是前来请求萧家的老者，对萧战表现出尊重。&lt;SEP&gt;葛叶是炼药师，负责展示丹药并引起长老们的关注。&lt;SEP&gt;葛叶是请求萧战解除纳兰嫣然婚约的使者，代表了云岚宗的意图。</data>
+      <data key="d3">chunk-ce43ec547c6b3b0ac10afb7520f17e06&lt;SEP&gt;chunk-ee08af84f5067fca3c7fa99f90db20ec&lt;SEP&gt;chunk-9b3e9ca77304d9c6ea1fb06404c38234&lt;SEP&gt;chunk-5d2cde4cdd02799f99e4c6091c92dd7a&lt;SEP&gt;chunk-c436dc32b77de4d846fb79cbafb3f0e6</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274336</data>
+    </node>
+    <node id="青木剑诀">
+      <data key="d0">青木剑诀</data>
+      <data key="d1">category</data>
+      <data key="d2">青木剑诀是葛叶使用的高深功法，属于玄阶低级。</data>
+      <data key="d3">chunk-ee08af84f5067fca3c7fa99f90db20ec</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274336</data>
+    </node>
+    <node id="聚气散">
+      <data key="d0">聚气散</data>
+      <data key="d1">category</data>
+      <data key="d2">聚气散是一种丹药，其主人是丹王古河。&lt;SEP&gt;聚气散是一种修炼用的道具，用于提升修士的能量。&lt;SEP&gt;聚气散是一种特殊药丸，可以提高斗气凝聚成功率。&lt;SEP&gt;聚气散是一种珍贵的丹药，其价值受到众人重视。</data>
+      <data key="d3">chunk-7ba8fe565ae410898375e813d446137a&lt;SEP&gt;chunk-822e02c1a53c663cff079cf8e57ae19b&lt;SEP&gt;chunk-c436dc32b77de4d846fb79cbafb3f0e6&lt;SEP&gt;chunk-5d2cde4cdd02799f99e4c6091c92dd7a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274336</data>
+    </node>
+    <node id="古玉盒子">
+      <data key="d0">古玉盒子</data>
+      <data key="d1">category</data>
+      <data key="d2">古玉盒子内盛放着聚气散，散发出诱人的异香。</data>
+      <data key="d3">chunk-c436dc32b77de4d846fb79cbafb3f0e6</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274336</data>
+    </node>
+    <node id="古河">
+      <data key="d0">古河</data>
+      <data key="d1">person</data>
+      <data key="d2">古河是加玛帝国的丹王，以强大的炼药术和斗王实力而闻名。</data>
+      <data key="d3">chunk-5d2cde4cdd02799f99e4c6091c92dd7a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274336</data>
+    </node>
+    <node id="解除婚约">
+      <data key="d0">解除婚约</data>
+      <data key="d1">event</data>
+      <data key="d2">解除婚约是文本中讨论的主要事件，涉及人物之间的纠葛与挑战。&lt;SEP&gt;解除婚约是萧炎和纳兰嫣然之间的重要事件，影响了他们的未来关系。</data>
+      <data key="d3">chunk-24e6ba1d5a301503c4a29d0518150a04&lt;SEP&gt;chunk-214f75c7448a21f6ca5df650e6f8cd98</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274336</data>
+    </node>
+    <node id="弱者">
+      <data key="d0">弱者</data>
+      <data key="d1">category</data>
+      <data key="d2">弱者用以描述萧炎当前的状态，反映了他在斗气大陆的困境。</data>
+      <data key="d3">chunk-214f75c7448a21f6ca5df650e6f8cd98</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274336</data>
+    </node>
+    <node id="短剑">
+      <data key="d0">短剑</data>
+      <data key="d1">equipment</data>
+      <data key="d2">短剑是萧炎用来划破手掌，留下血印以作契约的武器。</data>
+      <data key="d3">chunk-24e6ba1d5a301503c4a29d0518150a04</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274336</data>
+    </node>
+    <node id="血印契约">
+      <data key="d0">血印契约</data>
+      <data key="d1">event</data>
+      <data key="d2">血印契约是萧炎用血留下的契约，象征着他与纳兰嫣然的关系彻底结束。</data>
+      <data key="d3">chunk-24e6ba1d5a301503c4a29d0518150a04</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274336</data>
+    </node>
+    <node id="黑色古朴戒指">
+      <data key="d0">黑色古朴戒指</data>
+      <data key="d1">event</data>
+      <data key="d2">黑色古朴戒指是萧炎身上重要的物品，隐藏着吸收他的斗之气的秘密。</data>
+      <data key="d3">chunk-8bd4d5c018c7ef7d369092d47f6116be</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274336</data>
+    </node>
+    <node id="透明苍老人影">
+      <data key="d0">透明苍老人影</data>
+      <data key="d1">person</data>
+      <data key="d2">透明苍老人影是隐藏在戒指中的存在，对萧炎的斗之气有着直接影响。</data>
+      <data key="d3">chunk-8bd4d5c018c7ef7d369092d47f6116be</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274336</data>
+    </node>
+    <node id="三年">
+      <data key="d0">三年</data>
+      <data key="d1">event</data>
+      <data key="d2">三年是萧炎与戒指之间经历的时间段，也是斗之气被吸收的时期。</data>
+      <data key="d3">chunk-8bd4d5c018c7ef7d369092d47f6116be</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274336</data>
+    </node>
+    <node id="炼药师">
+      <data key="d0">炼药师</data>
+      <data key="d1">category</data>
+      <data key="d2">炼药师是在斗气大陆上备受尊重的角色，萧炎对成为炼药师表示向往。</data>
+      <data key="d3">chunk-a1299d13dcd08a019d98a18fde7b8cea</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274336</data>
+    </node>
+    <node id="药老">
+      <data key="d0">药老</data>
+      <data key="d1">person</data>
+      <data key="d2">药老是一个神秘且经验丰富的炼药师，扮演着萧炎的导师和指导者的角色。他不仅教授萧炎药水的使用和炼药技术，还帮助他掌握斗气的修炼方法。药老的指导涉及多方面，包括对萧炎修炼斗技的监督、放松心境的建议以及提供高级斗技的培训。在所参与的拍卖过程中，药老与雅妃进行了交流，显示出他在炼药领域的深厚背景。
+
+作为一位自傲的炼药师，药老愿意传授自己的知识与技巧，以便帮助萧炎变得更加强大。他的指导还涉及到药材配方的提供，尤其强调了筑基灵液的复杂性和重要性。药老通过灵魂状态的引导，密切关注萧炎的修炼进展，给予鼓励和赞扬，为萧炎的成长起到了关键的作用。虽然在故事中药老未直接出现，但他的影响力和教导始终贯穿于萧炎的修炼历程中。</data>
+      <data key="d3">chunk-122ffeb1ab6e0f60cf925c5876621f09&lt;SEP&gt;chunk-bbbc024cfb92170fa9cde255a2ffb7c4&lt;SEP&gt;chunk-f4240663ec6e36ccacef2f9775e3ab0b&lt;SEP&gt;chunk-54dfd40f096b9fa5bfbe557d62a499ca&lt;SEP&gt;chunk-463b3f1f54bf844cb7d8919648e8de15&lt;SEP&gt;chunk-173b2befc2dd2fdec779ba1588fa1512&lt;SEP&gt;chunk-8fddbe144d700050721251fca587d955&lt;SEP&gt;chunk-b5e538db39634a6114ec26262a158613&lt;SEP&gt;chunk-80593513554fcfdef9546dedffbd9e69&lt;SEP&gt;chunk-49ce97b4fce04870f698556acf5aecc1&lt;SEP&gt;chunk-e57b05ec2028b6c7c15a316bc5c5940a&lt;SEP&gt;chunk-e006674fd44e73a3d672c0740a510578&lt;SEP&gt;chunk-fdf81810e72560519b15858e6c7f325b&lt;SEP&gt;chunk-dc08944dd584ff37b1952784aaa63e8c&lt;SEP&gt;chunk-35581a8288c58f57133ce444419dab3b&lt;SEP&gt;chunk-822e02c1a53c663cff079cf8e57ae19b&lt;SEP&gt;chunk-011ad0b91e2b0cd0e50353097a72ef50&lt;SEP&gt;chunk-ecb3660f8cbf17bc85b8ed91fce5f4d5&lt;SEP&gt;chunk-794e082dade993bcaf4f5cb02cf3d6ee&lt;SEP&gt;chunk-aeb9bc2067ac0b18290761a863105192&lt;SEP&gt;chunk-192eedc046d7aaf2d5c5a90cb74f051b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274341</data>
+    </node>
+    <node id="丹王古河">
+      <data key="d0">丹王古河</data>
+      <data key="d1">person</data>
+      <data key="d2">丹王古河是一名六品炼药师，在加玛帝国的炼药界中地位显赫。</data>
+      <data key="d3">chunk-822e02c1a53c663cff079cf8e57ae19b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274341</data>
+    </node>
+    <node id="黄阶低级功法">
+      <data key="d0">黄阶低级功法</data>
+      <data key="d1">category</data>
+      <data key="d2">黄阶低级功法是一种被药老提到的功法，具有进化的特性。</data>
+      <data key="d3">chunk-fdf81810e72560519b15858e6c7f325b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274341</data>
+    </node>
+    <node id="天阶功法">
+      <data key="d0">天阶功法</data>
+      <data key="d1">category</data>
+      <data key="d2">天阶功法是一个高级功法，药老提到过，但药老表示没有。</data>
+      <data key="d3">chunk-fdf81810e72560519b15858e6c7f325b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274341</data>
+    </node>
+    <node id="紫叶兰草">
+      <data key="d0">紫叶兰草</data>
+      <data key="d1">category</data>
+      <data key="d2">紫叶兰草是一种在炼药过程中使用的材料，具有特殊的炼药属性。&lt;SEP&gt;紫叶兰草是用于炼药的低级材料，药老要求萧炎准备三支。&lt;SEP&gt;紫叶兰草是药材店出售的一种低级材料，萧炎购买了三支。&lt;SEP&gt;紫叶兰草是萧炎用于配制筑基灵液的药材之一。</data>
+      <data key="d3">chunk-4e1834747640fb2093bcca55cb52f34c&lt;SEP&gt;chunk-80593513554fcfdef9546dedffbd9e69&lt;SEP&gt;chunk-54dfd40f096b9fa5bfbe557d62a499ca&lt;SEP&gt;chunk-bbbc024cfb92170fa9cde255a2ffb7c4</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274341</data>
+    </node>
+    <node id="洗骨花">
+      <data key="d0">洗骨花</data>
+      <data key="d1">category</data>
+      <data key="d2">洗骨花也是药材店出售的一种低级材料，萧炎购买了两株。&lt;SEP&gt;洗骨花是一种在炼药过程中投放的材料，用于改善药液的性质。&lt;SEP&gt;洗骨花是药老要求的材料，两株的年份要求较为随意。&lt;SEP&gt;洗骨花是萧炎用于配制筑基灵液的另一个药材。</data>
+      <data key="d3">chunk-4e1834747640fb2093bcca55cb52f34c&lt;SEP&gt;chunk-80593513554fcfdef9546dedffbd9e69&lt;SEP&gt;chunk-54dfd40f096b9fa5bfbe557d62a499ca&lt;SEP&gt;chunk-bbbc024cfb92170fa9cde255a2ffb7c4</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274341</data>
+    </node>
+    <node id="一级魔核">
+      <data key="d0">一级魔核</data>
+      <data key="d1">category</data>
+      <data key="d2">木系的一级魔核是萧炎需要准备的另一种低级材料。</data>
+      <data key="d3">chunk-54dfd40f096b9fa5bfbe557d62a499ca</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274341</data>
+    </node>
+    <node id="紫色倩影">
+      <data key="d0">紫色倩影</data>
+      <data key="d1">person</data>
+      <data key="d2">紫色倩影是萧薰儿的描述，表现出轻灵的身姿和与萧炎的互动。</data>
+      <data key="d3">chunk-54dfd40f096b9fa5bfbe557d62a499ca</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274341</data>
+    </node>
+    <node id="紫金卡">
+      <data key="d0">紫金卡</data>
+      <data key="d1">category</data>
+      <data key="d2">紫金卡是在斗气大陆上象征特定身份的金卡，需要斗灵实力才能办理。</data>
+      <data key="d3">chunk-fe198b6172a04e625900d33335af8a2f</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274341</data>
+    </node>
+    <node id="父亲">
+      <data key="d0">父亲</data>
+      <data key="d1">person</data>
+      <data key="d2">萧炎的父亲是家族中重要的角色，萧炎在故事中提到向他借钱。</data>
+      <data key="d3">chunk-fe198b6172a04e625900d33335af8a2f</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274341</data>
+    </node>
+    <node id="薰儿">
+      <data key="d0">薰儿</data>
+      <data key="d1">person</data>
+      <data key="d2">薰儿是一位年轻的紫裙少女，性格温柔而美丽，常常对萧炎表现出亲昵和关心，令周围人感到嫉妒。作为萧炎在家族中最亲近的人，她对他怀有特殊的情感，持续地影响着他的地位和情感。薰儿不仅是萧炎的朋友，还被视为他的支持者，常常在他面临挑战时给予鼓励，并对他的修炼进展表示惊讶与赞赏。
+
+在故事中，薰儿还展现出她对萧家的关注，参与解决萧叔叔的经济问题，并在关心萧炎的安危时表现出忧虑。她与萧炎的互动不仅限于感情，还是萧战欣赏的对象，展现出她独特的气质和清纯的魅力。薰儿也在修炼上具备极高的天赋，成功晋升为一星斗者，成为萧宁的竞争对手。
+
+对于加列奥的追求，薰儿感到无奈，但这并不妨碍她在萧炎身边积极支持。他们之间的关系丰富而复杂，既是彼此的伴侣，也是家族中的亲密伙伴。薰儿不仅在萧炎的生活中扮演着重要的角色，她也在故事的关键时刻为他提供帮助和指导，与他一同面对来自外界的挑战。总而言之，薰儿是萧炎生活中不可或缺的存在，对他的影响深远且积极。</data>
+      <data key="d3">chunk-267e764351037f7c02061ea7fd1ab4aa&lt;SEP&gt;chunk-88a1ddb28b8766f87583cd3fca9ce749&lt;SEP&gt;chunk-065f9030874913c56b64cc011d5cd2af&lt;SEP&gt;chunk-aee8a3ad453beffa1023de8811b77ada&lt;SEP&gt;chunk-29fbd54579d5c63021028f860f5ef333&lt;SEP&gt;chunk-977cae48a0f89a9b64e73cc249349dfb&lt;SEP&gt;chunk-91ffcd09ddb4b23c078d7a7410ecf2a1&lt;SEP&gt;chunk-4e1834747640fb2093bcca55cb52f34c&lt;SEP&gt;chunk-f76ba95dc65e660409387d331348eac3&lt;SEP&gt;chunk-6127b0767d4b3024c42a58e5b6fd2a5e&lt;SEP&gt;chunk-1b3120c35b1ff11cdce1bccc22af33ab&lt;SEP&gt;chunk-c2d61cb55f8091519a2b670689a7f178&lt;SEP&gt;chunk-b25f15e48074c13f0e7ae9a8dc322a3d&lt;SEP&gt;chunk-ed421bb9d3015c957496a699068b3083&lt;SEP&gt;chunk-b68fe7a0af905302b8e52bd5e9e2f82e&lt;SEP&gt;chunk-38b29eccf7724830681fde217d501c12&lt;SEP&gt;chunk-463ecd092d16c3170efcba2f65334abe&lt;SEP&gt;chunk-173b2befc2dd2fdec779ba1588fa1512&lt;SEP&gt;chunk-b73c1fe92a6454ac06e40eefe29cffb7&lt;SEP&gt;chunk-d54618aa9f6b9d83d46914a2d986268d&lt;SEP&gt;chunk-69528318e852992e545207216348c317&lt;SEP&gt;chunk-65c856afe8a55bfb85a0529eebcb6e50&lt;SEP&gt;chunk-d5edadea78660e8b0d87f7f2406376a1&lt;SEP&gt;chunk-51ec1d4f551cfa00a7a54a74c6442467&lt;SEP&gt;chunk-3dbf363878b73e4de76b15b3275a9a19&lt;SEP&gt;chunk-35581a8288c58f57133ce444419dab3b&lt;SEP&gt;chunk-1e0c5a1eef61ee136040df40b665c270&lt;SEP&gt;chunk-d294ec2837ccf10ff79ebf54726f3152&lt;SEP&gt;chunk-4598c518958fd706cb2a17701688ebe0&lt;SEP&gt;chunk-c30b6d6abec0005f395d401603adf240&lt;SEP&gt;chunk-13e59f0be98715fe288ea4ba0b74cd29&lt;SEP&gt;chunk-794e082dade993bcaf4f5cb02cf3d6ee&lt;SEP&gt;chunk-62d5ed7153276d7b7031113c88d438b1&lt;SEP&gt;chunk-fcbb8b69d7ad6f7f9c62fb1d40b504a2&lt;SEP&gt;chunk-ac4f3a47d82253a4d6bfeb3aa63432ca&lt;SEP&gt;chunk-aeb9bc2067ac0b18290761a863105192&lt;SEP&gt;chunk-a62e6a628a15d5b00c8ff12281b40954&lt;SEP&gt;chunk-685b21823f8585b17d77b087211e0a5c&lt;SEP&gt;chunk-834e631785d78eda90238461974bfa34</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274345</data>
+    </node>
+    <node id="金色小匣子">
+      <data key="d0">金色小匣子</data>
+      <data key="d1">organization</data>
+      <data key="d2">金色小匣子是萧炎的家当，蕴含着重要的财富和力量。</data>
+      <data key="d3">chunk-1b3120c35b1ff11cdce1bccc22af33ab</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274345</data>
+    </node>
+    <node id="紫金卡片">
+      <data key="d0">紫金卡片</data>
+      <data key="d1">category</data>
+      <data key="d2">紫金卡片代表着薰儿的一种财务能力，象征她的身份与地位。</data>
+      <data key="d3">chunk-1b3120c35b1ff11cdce1bccc22af33ab</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274345</data>
+    </node>
+    <node id="木系魔核">
+      <data key="d0">木系魔核</data>
+      <data key="d1">category</data>
+      <data key="d2">木系魔核是斗气大陆的重要能量晶核，萧炎希望能够获得这一种类的材料。</data>
+      <data key="d3">chunk-4e1834747640fb2093bcca55cb52f34c</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274345</data>
+    </node>
+    <node id="坊市">
+      <data key="d0">坊市</data>
+      <data key="d1">event</data>
+      <data key="d2">坊市是一个繁忙的市场，那里销售各种物品，吸引力较大。&lt;SEP&gt;坊市是萧炎和薰儿到访的市场，有多家族把持。&lt;SEP&gt;坊市是萧炎和薰儿进行活动的地点，以繁忙的人流和潜在的利润著称。</data>
+      <data key="d3">chunk-4e1834747640fb2093bcca55cb52f34c&lt;SEP&gt;chunk-ac4f3a47d82253a4d6bfeb3aa63432ca&lt;SEP&gt;chunk-3dbf363878b73e4de76b15b3275a9a19</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274345</data>
+    </node>
+    <node id="佣兵团">
+      <data key="d0">佣兵团</data>
+      <data key="d1">organization</data>
+      <data key="d2">佣兵团是专注于捕杀魔兽以获取魔核的团队。</data>
+      <data key="d3">chunk-4e1834747640fb2093bcca55cb52f34c</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274345</data>
+    </node>
+    <node id="城市">
+      <data key="d0">城市</data>
+      <data key="d1">geo</data>
+      <data key="d2">城市是斗气大陆上的一个重要区域，包含多个坊市。</data>
+      <data key="d3">chunk-4e1834747640fb2093bcca55cb52f34c</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274345</data>
+    </node>
+    <node id="魔核">
+      <data key="d0">魔核</data>
+      <data key="d1">category</data>
+      <data key="d2">魔核是魔兽体内的能量晶核，被广泛用于炼药和强化武器。</data>
+      <data key="d3">chunk-4e1834747640fb2093bcca55cb52f34c</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274345</data>
+    </node>
+    <node id="佩恩">
+      <data key="d0">佩恩</data>
+      <data key="d1">person</data>
+      <data key="d2">佩恩是坊市护卫队的队长，负责维护秩序并保护萧炎。&lt;SEP&gt;佩恩是萧炎的护卫队长，负责保障坊市的安全，对萧炎表现出尊敬和忠诚。&lt;SEP&gt;佩恩是萧炎的支持者，尊重萧炎并愿意帮助他。</data>
+      <data key="d3">chunk-ac4f3a47d82253a4d6bfeb3aa63432ca&lt;SEP&gt;chunk-977cae48a0f89a9b64e73cc249349dfb&lt;SEP&gt;chunk-463ecd092d16c3170efcba2f65334abe</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274345</data>
+    </node>
+    <node id="六星斗者">
+      <data key="d0">六星斗者</data>
+      <data key="d1">category</data>
+      <data key="d2">六星斗者是佩恩的等级，表明他的实力和地位。</data>
+      <data key="d3">chunk-ac4f3a47d82253a4d6bfeb3aa63432ca</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274345</data>
+    </node>
+    <node id="加列奥">
+      <data key="d0">加列奥</data>
+      <data key="d1">person</data>
+      <data key="d2">加列奥是一个约二十岁的英俊年轻人，身穿华贵衣物，他在乌坦城以风流形象而知名。加列奥心中暗恋着薰儿，并希望用手链来取悦她。尽管如此，他对萧炎抱有竞争心态，对他们之间的互动表示讥讽，并流露出嫉妒的情绪。加列奥与萧炎之间存在冲突，并曾在见面时表现出侮辱和不尊重的态度。他的举止展现出强势的一面，同时也凸显了他作为竞争对手的角色。</data>
+      <data key="d3">chunk-ed421bb9d3015c957496a699068b3083&lt;SEP&gt;chunk-977cae48a0f89a9b64e73cc249349dfb&lt;SEP&gt;chunk-6127b0767d4b3024c42a58e5b6fd2a5e&lt;SEP&gt;chunk-463ecd092d16c3170efcba2f65334abe&lt;SEP&gt;chunk-3dbf363878b73e4de76b15b3275a9a19&lt;SEP&gt;chunk-834e631785d78eda90238461974bfa34</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274348</data>
+    </node>
+    <node id="魔晶">
+      <data key="d0">魔晶</data>
+      <data key="d1">category</data>
+      <data key="d2">魔晶是一种来自魔兽的资源，萧炎正在寻找以提升其力量。&lt;SEP&gt;魔晶是一种特殊的材料，萧炎在准备炼药时使用。&lt;SEP&gt;魔晶是一种能量丰富的材料，在炼药师的炼药过程中具有关键作用。&lt;SEP&gt;魔晶是萧炎在坊市中寻找的珍贵物品。</data>
+      <data key="d3">chunk-3dbf363878b73e4de76b15b3275a9a19&lt;SEP&gt;chunk-463ecd092d16c3170efcba2f65334abe&lt;SEP&gt;chunk-2cebe27e055f7e2525f166fc0f989b8b&lt;SEP&gt;chunk-bbbc024cfb92170fa9cde255a2ffb7c4</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274348</data>
+    </node>
+    <node id="摊贩">
+      <data key="d0">摊贩</data>
+      <data key="d1">organization</data>
+      <data key="d2">摊贩在坊市中售卖各种商品，服务于顾客。</data>
+      <data key="d3">chunk-3dbf363878b73e4de76b15b3275a9a19</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274348</data>
+    </node>
+    <node id="木灵手链">
+      <data key="d0">木灵手链</data>
+      <data key="d1">category</data>
+      <data key="d2">木灵手链是一条带有魔晶的手链，具有增幅斗之气的效果。</data>
+      <data key="d3">chunk-6127b0767d4b3024c42a58e5b6fd2a5e</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274348</data>
+    </node>
+    <node id="木属性魔晶">
+      <data key="d0">木属性魔晶</data>
+      <data key="d1">category</data>
+      <data key="d2">木属性魔晶是一种用于提升斗之气回复效果的魔晶，属于手链的一部分。</data>
+      <data key="d3">chunk-6127b0767d4b3024c42a58e5b6fd2a5e</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274348</data>
+    </node>
+    <node id="加列家族">
+      <data key="d0">加列家族</data>
+      <data key="d1">organization</data>
+      <data key="d2">加列家族是与萧家同列为乌坦城三大家族之一的家族。&lt;SEP&gt;加列家族是参与拍卖竞争的主要家庭之一。&lt;SEP&gt;加列家族是和萧家齐名的另一大家族，其族长出现在拍卖场。</data>
+      <data key="d3">chunk-e3f41bb63e8c46647a93f6859c48c0a5&lt;SEP&gt;chunk-6127b0767d4b3024c42a58e5b6fd2a5e&lt;SEP&gt;chunk-d1c1d6346efae058b7ecd4e647e0d6ca</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274348</data>
+    </node>
+    <node id="魔晶首饰">
+      <data key="d0">魔晶首饰</data>
+      <data key="d1">category</data>
+      <data key="d2">魔晶首饰是高价值的首饰，代表了萧炎家族的地位。</data>
+      <data key="d3">chunk-834e631785d78eda90238461974bfa34</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274348</data>
+    </node>
+    <node id="手链">
+      <data key="d0">手链</data>
+      <data key="d1">category</data>
+      <data key="d2">手链是一个地摊货，象征着萧炎为薰儿提供的简单礼物。</data>
+      <data key="d3">chunk-834e631785d78eda90238461974bfa34</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274348</data>
+    </node>
+    <node id="纳兰家族">
+      <data key="d0">纳兰家族</data>
+      <data key="d1">organization</data>
+      <data key="d2">纳兰家族是与特米尔家族和特尔家族并称的加玛三巨头之一，拥有强大的影响力。&lt;SEP&gt;纳兰家族是涉及萧炎解除婚约的家族，对萧炎产生了影响。</data>
+      <data key="d3">chunk-977cae48a0f89a9b64e73cc249349dfb&lt;SEP&gt;chunk-ecb3660f8cbf17bc85b8ed91fce5f4d5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274348</data>
+    </node>
+    <node id="吞木狐">
+      <data key="d0">吞木狐</data>
+      <data key="d1">category</data>
+      <data key="d2">吞木狐是一种一阶魔兽，其魔晶被描述为极品，并且猎杀它的过程被提及。&lt;SEP&gt;吞木狐是一种一阶魔兽，其魔晶被认为是极品。</data>
+      <data key="d3">chunk-192eedc046d7aaf2d5c5a90cb74f051b&lt;SEP&gt;chunk-463ecd092d16c3170efcba2f65334abe</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274348</data>
+    </node>
+    <node id="尖牙佣兵团">
+      <data key="d0">尖牙佣兵团</data>
+      <data key="d1">organization</data>
+      <data key="d2">尖牙佣兵团是一支为了获取吞木狐的魔晶而持续作战的佣兵团队。&lt;SEP&gt;尖牙佣兵团是负责捕猎吞木狐并获得魔晶的团队。</data>
+      <data key="d3">chunk-192eedc046d7aaf2d5c5a90cb74f051b&lt;SEP&gt;chunk-463ecd092d16c3170efcba2f65334abe</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274348</data>
+    </node>
+    <node id="黑色铁片">
+      <data key="d0">黑色铁片</data>
+      <data key="d1">category</data>
+      <data key="d2">黑色铁片是一块古旧物品，具有神秘的背景和潜在的价值。</data>
+      <data key="d3">chunk-463ecd092d16c3170efcba2f65334abe</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274348</data>
+    </node>
+    <node id="黑铁片">
+      <data key="d0">黑铁片</data>
+      <data key="d1">物品</data>
+      <data key="d2">黑铁片似乎包含一种斗技，只有灵魂感知力强的人才能感应到。&lt;SEP&gt;黑铁片是用于学习斗技的一种材料，萧炎对其表示了浓厚的兴趣。&lt;SEP&gt;黑铁片是萧炎用来修炼的一种特殊工具，蕴含斗技的能量和技巧。</data>
+      <data key="d3">chunk-192eedc046d7aaf2d5c5a90cb74f051b&lt;SEP&gt;chunk-f4240663ec6e36ccacef2f9775e3ab0b&lt;SEP&gt;chunk-bbbc024cfb92170fa9cde255a2ffb7c4</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274348</data>
+    </node>
+    <node id="金币">
+      <data key="d0">金币</data>
+      <data key="d1">物品</data>
+      <data key="d2">金币是用于交易的货币，萧炎用金币进行购买。</data>
+      <data key="d3">chunk-192eedc046d7aaf2d5c5a90cb74f051b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274348</data>
+    </node>
+    <node id="吸掌">
+      <data key="d0">吸掌</data>
+      <data key="d1">斗技</data>
+      <data key="d2">吸掌是一种斗技，允许使用者产生强大的吸力。&lt;SEP&gt;吸掌是一种玄阶低级斗技，具有强大的吸力和攻击能力。&lt;SEP&gt;吸掌是一种能产生强大吸力的斗技，萧炎正在学习和运用。</data>
+      <data key="d3">chunk-192eedc046d7aaf2d5c5a90cb74f051b&lt;SEP&gt;chunk-e57b05ec2028b6c7c15a316bc5c5940a&lt;SEP&gt;chunk-463b3f1f54bf844cb7d8919648e8de15</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274348</data>
+    </node>
+    <node id="青色药水">
+      <data key="d0">青色药水</data>
+      <data key="d1">category</data>
+      <data key="d2">青色药水是经过炼药过程生成的，有助于提升萧炎的修炼能力。</data>
+      <data key="d3">chunk-bbbc024cfb92170fa9cde255a2ffb7c4</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274348</data>
+    </node>
+    <node id="火焰">
+      <data key="d0">火焰</data>
+      <data key="d1">category</data>
+      <data key="d2">火焰是药老在炼药过程中使用的一种能量形式，具有重要的炼制作用。</data>
+      <data key="d3">chunk-bbbc024cfb92170fa9cde255a2ffb7c4</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274348</data>
+    </node>
+    <node id="青色水液">
+      <data key="d0">青色水液</data>
+      <data key="d1">category</data>
+      <data key="d2">青色水液是一种具有药力的水，帮助萧炎洗去伤痕并增强身体。&lt;SEP&gt;青色水液是一种用于修炼的灵液，具有增强斗之气的效果。&lt;SEP&gt;青色水液是一种用于治疗和恢复的特殊液体，萧炎用其来缓解身体的疼痛。&lt;SEP&gt;青色水液是含有能量的液体，助力萧炎突破斗之气的关键。</data>
+      <data key="d3">chunk-b5e538db39634a6114ec26262a158613&lt;SEP&gt;chunk-71833742c3e7cd8ba19d4faae0ccb6a4&lt;SEP&gt;chunk-dc08944dd584ff37b1952784aaa63e8c&lt;SEP&gt;chunk-49ce97b4fce04870f698556acf5aecc1</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274348</data>
+    </node>
+    <node id="第五段斗之气">
+      <data key="d0">第五段斗之气</data>
+      <data key="d1">category</data>
+      <data key="d2">第五段斗之气是萧炎修炼到达的一个重要境界，代表其修炼进展。&lt;SEP&gt;第五段斗之气是萧炎修炼目标之一，代表较高的修炼成就。</data>
+      <data key="d3">chunk-b5e538db39634a6114ec26262a158613&lt;SEP&gt;chunk-dc08944dd584ff37b1952784aaa63e8c</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274348</data>
+    </node>
+    <node id="灵液">
+      <data key="d0">灵液</data>
+      <data key="d1">category</data>
+      <data key="d2">灵液是一种药物，萧炎带来进行拍卖，具有二品丹药的级别。&lt;SEP&gt;灵液是帮助萧炎快速提升修炼进度的重要资源。&lt;SEP&gt;灵液是药老炼制的强化修炼效果的药水，具有强大的药力。</data>
+      <data key="d3">chunk-8fddbe144d700050721251fca587d955&lt;SEP&gt;chunk-e006674fd44e73a3d672c0740a510578&lt;SEP&gt;chunk-dc08944dd584ff37b1952784aaa63e8c</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274348</data>
+    </node>
+    <node id="斗技堂">
+      <data key="d0">斗技堂</data>
+      <data key="d1">organization</data>
+      <data key="d2">斗技堂是一个供修炼者学习和掌握斗技的场所，萧炎计划去那里寻找新技能。&lt;SEP&gt;斗技堂是一个训练场所，承载着家族的斗技文化和比赛活动。&lt;SEP&gt;斗技堂是进行斗技学习和比赛的场所，影响着家族成员的修炼与竞争。&lt;SEP&gt;斗技堂是进行武技训练和比试的场所，萧媚邀请萧炎一起去。</data>
+      <data key="d3">chunk-f4240663ec6e36ccacef2f9775e3ab0b&lt;SEP&gt;chunk-f76ba95dc65e660409387d331348eac3&lt;SEP&gt;chunk-1e0c5a1eef61ee136040df40b665c270&lt;SEP&gt;chunk-aeb9bc2067ac0b18290761a863105192</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274348</data>
+    </node>
+    <node id="青花瓶">
+      <data key="d0">青花瓶</data>
+      <data key="d1">object</data>
+      <data key="d2">青花瓶是萧炎在修炼过程中产生破坏的物品，象征着斗技的威力。</data>
+      <data key="d3">chunk-f4240663ec6e36ccacef2f9775e3ab0b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274348</data>
+    </node>
+    <node id="萧宁">
+      <data key="d0">萧宁</data>
+      <data key="d1">person</data>
+      <data key="d2">萧宁是一名年轻的斗者，身为萧家大长老的孙子，他与表哥萧炎的关系复杂而充满敌意。萧宁对萧炎心怀嫉妒，尤其因为萧炎与薰儿的关系，使得他渴望得到薰儿的青睐。在与萧炎的多次对抗中，尽管萧宁实力强大，掌握多种斗技，并在修炼上达到了八段斗之气的高层次，但他多次被萧炎击败，甚至在一次挑战中因违规服用丹药而受伤，这进一步增添了他对萧炎的愤怒与不满。
+
+萧宁不仅对萧炎的提升感到震惊，同时对自己的能力也产生了疑惑。他曾对萧炎表现出明显的蔑视，试图通过攻击来教训对方，并威胁萧炎不准接近薰儿。尽管在竞争和关系中充满敌意，萧宁的爱慕之情与对荣誉的追求使得他在家族中代表着年轻一辈的出色一员。总的来说，萧宁是一个对萧炎感情复杂的角色，既有敌对又有竞争，他希望通过不断的努力在成人仪式上超越萧炎。</data>
+      <data key="d3">chunk-a006f8a59bc42b6a28f27eaba7ea6c59&lt;SEP&gt;chunk-91ffcd09ddb4b23c078d7a7410ecf2a1&lt;SEP&gt;chunk-f76ba95dc65e660409387d331348eac3&lt;SEP&gt;chunk-ad83da03b7fbbfb93d743f93dbdc236f&lt;SEP&gt;chunk-ed421bb9d3015c957496a699068b3083&lt;SEP&gt;chunk-96b791b3d90a3f1df5b348173dc3cd96&lt;SEP&gt;chunk-998a7d540a65548141f1f626a306aba4&lt;SEP&gt;chunk-b68fe7a0af905302b8e52bd5e9e2f82e&lt;SEP&gt;chunk-129e1687df23c27a0a7492071e3f9005&lt;SEP&gt;chunk-1b0cedce249c27538909da8c6093d709&lt;SEP&gt;chunk-3168b429ed74027f386cf328ea2ee805&lt;SEP&gt;chunk-d54618aa9f6b9d83d46914a2d986268d&lt;SEP&gt;chunk-69528318e852992e545207216348c317&lt;SEP&gt;chunk-d5edadea78660e8b0d87f7f2406376a1&lt;SEP&gt;chunk-223dc4e58bd735300057dd7aeacdbef7&lt;SEP&gt;chunk-1e0c5a1eef61ee136040df40b665c270&lt;SEP&gt;chunk-13e59f0be98715fe288ea4ba0b74cd29&lt;SEP&gt;chunk-4ce437a39ec1ae63d7ee0fcdae0e41a9&lt;SEP&gt;chunk-aeb9bc2067ac0b18290761a863105192</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274356</data>
+    </node>
+    <node id="训练场">
+      <data key="d0">训练场</data>
+      <data key="d1">geo</data>
+      <data key="d2">训练场是一个重要的背景场所，在这里发生了多个人物之间的互动和情感交流。它不仅是家族进行重要测试的地点，也是挑战和比试举行的地方。众多人在旁观看，形成了紧张的氛围。在训练场上，萧炎曾公开展示他的成果，同时还进行了斗之力的测验和武道的比试。训练场成为年轻人们紧张地接受评定与测试的场所，尤其是在萧宁与薰儿的较量中，见证了他们的实力比拼。</data>
+      <data key="d3">chunk-d54618aa9f6b9d83d46914a2d986268d&lt;SEP&gt;chunk-ed421bb9d3015c957496a699068b3083&lt;SEP&gt;chunk-69528318e852992e545207216348c317&lt;SEP&gt;chunk-65c856afe8a55bfb85a0529eebcb6e50&lt;SEP&gt;chunk-38b29eccf7724830681fde217d501c12&lt;SEP&gt;chunk-51ec1d4f551cfa00a7a54a74c6442467&lt;SEP&gt;chunk-685b21823f8585b17d77b087211e0a5c</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274359</data>
+    </node>
+    <node id="碎石掌">
+      <data key="d0">碎石掌</data>
+      <data key="d1">category</data>
+      <data key="d2">碎石掌是一种修炼武技，萧炎研究其修炼方法。&lt;SEP&gt;碎石掌是萧炎所使用的低级斗技，能够轻易击败对手。</data>
+      <data key="d3">chunk-ed421bb9d3015c957496a699068b3083&lt;SEP&gt;chunk-a6e914a0bcd76ec8eb536d4819e445ed</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274359</data>
+    </node>
+    <node id="大堂">
+      <data key="d0">大堂</data>
+      <data key="d1">geo</data>
+      <data key="d2">大堂是故事发生的地点，多个角色在此汇聚并互动。&lt;SEP&gt;大堂是比试和互动发生的场所，分为喧哗与安静两部分。</data>
+      <data key="d3">chunk-ed421bb9d3015c957496a699068b3083&lt;SEP&gt;chunk-b68fe7a0af905302b8e52bd5e9e2f82e</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274359</data>
+    </node>
+    <node id="书架">
+      <data key="d0">书架</data>
+      <data key="d1">geo</data>
+      <data key="d2">书架是大堂中的一处设施，萧薰儿和萧炎在其旁边互动。</data>
+      <data key="d3">chunk-223dc4e58bd735300057dd7aeacdbef7</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274359</data>
+    </node>
+    <node id="成人仪式">
+      <data key="d0">成人仪式</data>
+      <data key="d1">event</data>
+      <data key="d2">成人仪式在故事中是一个重要的事件，对于萧家来说具有重大意义。萧炎和萧宁都对此仪式寄予了重要的期望，因为这标志着他们的成长与责任。成人仪式不仅是一个象征年轻一代成熟的典礼，还决定了家族成员未来的修炼资格，是萧炎修炼生涯中的重要标志，预示着他将迈入全新的阶段。
+
+仪式即将举行，萧炎将参与其中，这对他来说是一个重要的生活转折点，既是他成年的测试，也是个人荣誉与地位的体现。该仪式的程序相对繁琐，代表着家族青年在成年时必须面对的重大挑战。在故事中，成人仪式不仅象征着成长，还承载着个人与家族的期望。</data>
+      <data key="d3">chunk-88a1ddb28b8766f87583cd3fca9ce749&lt;SEP&gt;chunk-96b791b3d90a3f1df5b348173dc3cd96&lt;SEP&gt;chunk-aee8a3ad453beffa1023de8811b77ada&lt;SEP&gt;chunk-463b3f1f54bf844cb7d8919648e8de15&lt;SEP&gt;chunk-794e082dade993bcaf4f5cb02cf3d6ee&lt;SEP&gt;chunk-4ce437a39ec1ae63d7ee0fcdae0e41a9&lt;SEP&gt;chunk-173b2befc2dd2fdec779ba1588fa1512&lt;SEP&gt;chunk-a62e6a628a15d5b00c8ff12281b40954&lt;SEP&gt;chunk-aeb9bc2067ac0b18290761a863105192&lt;SEP&gt;chunk-223dc4e58bd735300057dd7aeacdbef7&lt;SEP&gt;chunk-1e0c5a1eef61ee136040df40b665c270&lt;SEP&gt;chunk-d294ec2837ccf10ff79ebf54726f3152</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274362</data>
+    </node>
+    <node id="穷山僻壤">
+      <data key="d0">穷山僻壤</data>
+      <data key="d1">geo</data>
+      <data key="d2">穷山僻壤是萧宁威胁萧炎时提到的偏远之地。</data>
+      <data key="d3">chunk-aeb9bc2067ac0b18290761a863105192</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274362</data>
+    </node>
+    <node id="八极崩">
+      <data key="d0">八极崩</data>
+      <data key="d1">category</data>
+      <data key="d2">八极崩是一种玄阶高级斗技，以强大的攻击力著称。&lt;SEP&gt;八极崩是一种高级斗技，萧炎用它成功击倒了大树。</data>
+      <data key="d3">chunk-35581a8288c58f57133ce444419dab3b&lt;SEP&gt;chunk-011ad0b91e2b0cd0e50353097a72ef50</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274362</data>
+    </node>
+    <node id="后山">
+      <data key="d0">后山</data>
+      <data key="d1">geo</data>
+      <data key="d2">后山是萧炎进行肉体训练的地点，环境隐蔽且适合训练。</data>
+      <data key="d3">chunk-011ad0b91e2b0cd0e50353097a72ef50</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274362</data>
+    </node>
+    <node id="青色淤痕">
+      <data key="d0">青色淤痕</data>
+      <data key="d1">category</data>
+      <data key="d2">青色淤痕是萧炎在训练过程中因肉体接触而产生的伤痕。</data>
+      <data key="d3">chunk-011ad0b91e2b0cd0e50353097a72ef50</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274362</data>
+    </node>
+    <node id="筑基灵液">
+      <data key="d0">筑基灵液</data>
+      <data key="d1">category</data>
+      <data key="d2">筑基灵液是一种特殊的修炼材料，主要用于提升斗者的修炼速度和效果。在故事中，筑基灵液被视为关键的灵药，与金钱和权力的斗争紧密相关，深受竞标者的重视。它专门针对斗者以下的修炼者，能够帮助他们提高斗之气的修炼效率。萧炎作为主要受益者，已经将筑基灵液消耗殆尽，并利用这一重要药水来加速自己的实力提升。筑基灵液不仅用于增强力量，还是修复和增强修炼者身体的重要药剂。
+
+此外，筑基灵液在拍卖会上备受瞩目，其拍卖价格高达四万金币，销售后的收入将在扣除税金后归萧炎所有。萧战为萧炎购买此灵药，进一步显示了筑基灵液在故事发展中的重要性，对萧炎的成长起到了至关重要的作用。总之，筑基灵液是一种关键的修炼液体，能够显著加快修炼速度，帮助修炼者在斗气的修炼过程中获得显著进步。</data>
+      <data key="d3">chunk-b5e538db39634a6114ec26262a158613&lt;SEP&gt;chunk-80593513554fcfdef9546dedffbd9e69&lt;SEP&gt;chunk-c30b6d6abec0005f395d401603adf240&lt;SEP&gt;chunk-b27def825216bb59ff93eed34c3d5954&lt;SEP&gt;chunk-c0a6233baeede11a07d259411ea6d7d3&lt;SEP&gt;chunk-aee8a3ad453beffa1023de8811b77ada&lt;SEP&gt;chunk-71833742c3e7cd8ba19d4faae0ccb6a4&lt;SEP&gt;chunk-ecb3660f8cbf17bc85b8ed91fce5f4d5&lt;SEP&gt;chunk-122ffeb1ab6e0f60cf925c5876621f09&lt;SEP&gt;chunk-463b3f1f54bf844cb7d8919648e8de15&lt;SEP&gt;chunk-4ce437a39ec1ae63d7ee0fcdae0e41a9&lt;SEP&gt;chunk-2cebe27e055f7e2525f166fc0f989b8b&lt;SEP&gt;chunk-173b2befc2dd2fdec779ba1588fa1512&lt;SEP&gt;chunk-d1c1d6346efae058b7ecd4e647e0d6ca&lt;SEP&gt;chunk-685b21823f8585b17d77b087211e0a5c&lt;SEP&gt;chunk-35581a8288c58f57133ce444419dab3b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274365</data>
+    </node>
+    <node id="第七段斗之气">
+      <data key="d0">第七段斗之气</data>
+      <data key="d1">category</data>
+      <data key="d2">第七段斗之气是修炼的目标，代表着更高的实力层次。&lt;SEP&gt;第七段斗之气是萧炎目标达到的更高修炼境界。</data>
+      <data key="d3">chunk-b5e538db39634a6114ec26262a158613&lt;SEP&gt;chunk-e006674fd44e73a3d672c0740a510578</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274365</data>
+    </node>
+    <node id="筑基灵液配制">
+      <data key="d0">筑基灵液配制</data>
+      <data key="d1">event</data>
+      <data key="d2">筑基灵液配制是一个关键的过程，涉及萧炎和药老的互动。</data>
+      <data key="d3">chunk-80593513554fcfdef9546dedffbd9e69</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274365</data>
+    </node>
+    <node id="特米尔拍卖场">
+      <data key="d0">特米尔拍卖场</data>
+      <data key="d1">organization</data>
+      <data key="d2">特米尔拍卖场是一个提供贵宾待遇并收取低税率的拍卖机构。&lt;SEP&gt;特米尔拍卖场是一个重要的拍卖机构，雅妃是其首席拍卖师。&lt;SEP&gt;特米尔拍卖场是乌坦城一个知名的拍卖机构，雅妃的工作地点。&lt;SEP&gt;特米尔拍卖场是乌坦城最大的拍卖场，隶属于特米尔家族。</data>
+      <data key="d3">chunk-ecb3660f8cbf17bc85b8ed91fce5f4d5&lt;SEP&gt;chunk-c2d61cb55f8091519a2b670689a7f178&lt;SEP&gt;chunk-c0a6233baeede11a07d259411ea6d7d3&lt;SEP&gt;chunk-88a1ddb28b8766f87583cd3fca9ce749</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274365</data>
+    </node>
+    <node id="特米尔家族">
+      <data key="d0">特米尔家族</data>
+      <data key="d1">organization</data>
+      <data key="d2">特米尔家族是加玛帝国中最富有的家族之一，在商业和军事方面都有很大影响力。&lt;SEP&gt;特米尔家族是支持特米尔拍卖场的家族，提供贵宾待遇与低税率。</data>
+      <data key="d3">chunk-ecb3660f8cbf17bc85b8ed91fce5f4d5&lt;SEP&gt;chunk-c0a6233baeede11a07d259411ea6d7d3</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274365</data>
+    </node>
+    <node id="谷尼">
+      <data key="d0">谷尼</data>
+      <data key="d1">person</data>
+      <data key="d2">谷尼是一位三星大斗师和二品炼药师，负责鉴别萧炎的灵液。&lt;SEP&gt;谷尼是一位对雅妃提供建议的老者，具有炼药师的身份与经验。&lt;SEP&gt;谷尼是一名炼药师，对一位神秘炼药师的身份感到疑惑。&lt;SEP&gt;谷尼是雅妃的亲戚，关心雅妃的行为和决策。</data>
+      <data key="d3">chunk-8fddbe144d700050721251fca587d955&lt;SEP&gt;chunk-2cebe27e055f7e2525f166fc0f989b8b&lt;SEP&gt;chunk-c0a6233baeede11a07d259411ea6d7d3&lt;SEP&gt;chunk-e3f41bb63e8c46647a93f6859c48c0a5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274365</data>
+    </node>
+    <node id="中年人">
+      <data key="d0">中年人</data>
+      <data key="d1">person</data>
+      <data key="d2">中年人是谷尼的同伴，建议调查神秘炼药师的身份。&lt;SEP&gt;中年人是负责与萧炎和谷尼对话的拍卖场工作人员。</data>
+      <data key="d3">chunk-8fddbe144d700050721251fca587d955&lt;SEP&gt;chunk-e3f41bb63e8c46647a93f6859c48c0a5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274365</data>
+    </node>
+    <node id="拍卖场">
+      <data key="d0">拍卖场</data>
+      <data key="d1">organization</data>
+      <data key="d2">拍卖场是一个进行拍卖活动的场所，萧炎在这里进行灵液的拍卖。&lt;SEP&gt;拍卖场是故事发生的主要场景，进行着拍卖活动。</data>
+      <data key="d3">chunk-8fddbe144d700050721251fca587d955&lt;SEP&gt;chunk-e3f41bb63e8c46647a93f6859c48c0a5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274365</data>
+    </node>
+    <node id="白玉瓶">
+      <data key="d0">白玉瓶</data>
+      <data key="d1">category</data>
+      <data key="d2">白玉瓶是一种用来装灵液的容器，重要于拍卖过程。</data>
+      <data key="d3">chunk-8fddbe144d700050721251fca587d955</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274365</data>
+    </node>
+    <node id="魔晶防护">
+      <data key="d0">魔晶防护</data>
+      <data key="d1">category</data>
+      <data key="d2">魔晶防护是一种增强衣物的特殊技术，用于炼药师的服装。</data>
+      <data key="d3">chunk-8fddbe144d700050721251fca587d955</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274365</data>
+    </node>
+    <node id="雅妃">
+      <data key="d0">雅妃</data>
+      <data key="d1">person</data>
+      <data key="d2">雅妃是一位在特米尔与米特尔拍卖场担任首席拍卖师的女性角色，以其美貌、聪明才智和交际能力受到关注。她在此次拍卖会上负责引导竞标过程，展示拍卖品，并以其吸引力和沉稳的气质吸引了许多参与者。雅妃对萧炎的潜力与表现表现出浓厚的兴趣，时常对他的修炼天赋表示赞赏。
+
+作为一名具备炼药师背景的女性，雅妃展现了对朋友和炼药师的尊重。在比赛中，她既是引导者，也是观战者，对萧炎所使用的斗技感到震撼。她的优雅气质和智慧使她在贵宾席上成为观察者，频频关注比赛进程，并对萧炎的实力表示惊讶和信心。雅妃的形象不仅是拍卖的主持人，还是引领观众情感与关注的核心角色。</data>
+      <data key="d3">chunk-b27def825216bb59ff93eed34c3d5954&lt;SEP&gt;chunk-c0a6233baeede11a07d259411ea6d7d3&lt;SEP&gt;chunk-998a7d540a65548141f1f626a306aba4&lt;SEP&gt;chunk-122ffeb1ab6e0f60cf925c5876621f09&lt;SEP&gt;chunk-a006f8a59bc42b6a28f27eaba7ea6c59&lt;SEP&gt;chunk-4ce437a39ec1ae63d7ee0fcdae0e41a9&lt;SEP&gt;chunk-e3f41bb63e8c46647a93f6859c48c0a5&lt;SEP&gt;chunk-5249452fc02634a65306233a8ef35c64&lt;SEP&gt;chunk-ad83da03b7fbbfb93d743f93dbdc236f&lt;SEP&gt;chunk-1b0cedce249c27538909da8c6093d709&lt;SEP&gt;chunk-2cebe27e055f7e2525f166fc0f989b8b&lt;SEP&gt;chunk-129e1687df23c27a0a7492071e3f9005&lt;SEP&gt;chunk-3168b429ed74027f386cf328ea2ee805&lt;SEP&gt;chunk-88a1ddb28b8766f87583cd3fca9ce749&lt;SEP&gt;chunk-d1c1d6346efae058b7ecd4e647e0d6ca&lt;SEP&gt;chunk-f5d01de62dca89ac9bbe33b65e64c994&lt;SEP&gt;chunk-c2d61cb55f8091519a2b670689a7f178</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274368</data>
+    </node>
+    <node id="奥巴家族">
+      <data key="d0">奥巴家族</data>
+      <data key="d1">organization</data>
+      <data key="d2">奥巴家族是和萧家齐名的大家族之一，其族长也参与了拍卖。</data>
+      <data key="d3">chunk-e3f41bb63e8c46647a93f6859c48c0a5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274368</data>
+    </node>
+    <node id="米特尔拍卖场">
+      <data key="d0">米特尔拍卖场</data>
+      <data key="d1">organization</data>
+      <data key="d2">米特尔拍卖场是拍卖活动的地点，与雅妃的表演相结合。&lt;SEP&gt;米特尔拍卖场是进行拍卖和交易的机构。</data>
+      <data key="d3">chunk-e3f41bb63e8c46647a93f6859c48c0a5&lt;SEP&gt;chunk-122ffeb1ab6e0f60cf925c5876621f09</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274368</data>
+    </node>
+    <node id="拍卖物品">
+      <data key="d0">拍卖物品</data>
+      <data key="d1">category</data>
+      <data key="d2">拍卖物品是雅妃为观众解读带来的商品。</data>
+      <data key="d3">chunk-e3f41bb63e8c46647a93f6859c48c0a5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274368</data>
+    </node>
+    <node id="谷尼大师">
+      <data key="d0">谷尼大师</data>
+      <data key="d1">person</data>
+      <data key="d2">谷尼大师是二品炼药师，负责鉴定筑基灵液的品质，具有极高的威望。&lt;SEP&gt;谷尼大师是拍卖场的一位专家，与雅妃有互动。</data>
+      <data key="d3">chunk-d1c1d6346efae058b7ecd4e647e0d6ca&lt;SEP&gt;chunk-122ffeb1ab6e0f60cf925c5876621f09</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274368</data>
+    </node>
+    <node id="白玉小瓶">
+      <data key="d0">白玉小瓶</data>
+      <data key="d1">category</data>
+      <data key="d2">白玉小瓶是装有筑基灵液的容器，在拍卖会上被展示。</data>
+      <data key="d3">chunk-d1c1d6346efae058b7ecd4e647e0d6ca</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274368</data>
+    </node>
+    <node id="二品丹药">
+      <data key="d0">二品丹药</data>
+      <data key="d1">category</data>
+      <data key="d2">二品丹药是指被认证为二品的药剂，用于提升斗者的修炼效果。</data>
+      <data key="d3">chunk-d1c1d6346efae058b7ecd4e647e0d6ca</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274368</data>
+    </node>
+    <node id="加列毕">
+      <data key="d0">加列毕</data>
+      <data key="d1">person</data>
+      <data key="d2">加列毕对萧战的报价感到愤怒，是竞争者之一。&lt;SEP&gt;加列毕是参与拍卖的竞争者之一，对萧战的出价反应明显。&lt;SEP&gt;加列毕是奥巴家族的族长，在拍卖中参与竞价。</data>
+      <data key="d3">chunk-f5d01de62dca89ac9bbe33b65e64c994&lt;SEP&gt;chunk-b27def825216bb59ff93eed34c3d5954&lt;SEP&gt;chunk-122ffeb1ab6e0f60cf925c5876621f09</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274368</data>
+    </node>
+    <node id="奥玛帕">
+      <data key="d0">奥玛帕</data>
+      <data key="d1">person</data>
+      <data key="d2">奥玛帕是一位参与者，在萧战出价后选择撤回自己的竞标。</data>
+      <data key="d3">chunk-b27def825216bb59ff93eed34c3d5954</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274368</data>
+    </node>
+    <node id="风卷决">
+      <data key="d0">风卷决</data>
+      <data key="d1">category</data>
+      <data key="d2">风卷决是拍卖会中引入的高阶斗气功法，吸引了众多竞标者的注意。</data>
+      <data key="d3">chunk-b27def825216bb59ff93eed34c3d5954</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274368</data>
+    </node>
+    <node id="青色卷轴">
+      <data key="d0">青色卷轴</data>
+      <data key="d1">event</data>
+      <data key="d2">青色卷轴是拍卖中的神秘物品，被众多竞标者所追捧。</data>
+      <data key="d3">chunk-b27def825216bb59ff93eed34c3d5954</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274368</data>
+    </node>
+    <node id="拍卖会">
+      <data key="d0">拍卖会</data>
+      <data key="d1">event</data>
+      <data key="d2">拍卖会是一场集中展示并竞争定价的活动，吸引众多参与者。</data>
+      <data key="d3">chunk-f5d01de62dca89ac9bbe33b65e64c994</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274368</data>
+    </node>
+    <node id="奥巴帕">
+      <data key="d0">奥巴帕</data>
+      <data key="d1">person</data>
+      <data key="d2">奥巴帕是竞争对手，参与拍卖并与加列毕争夺物品。</data>
+      <data key="d3">chunk-f5d01de62dca89ac9bbe33b65e64c994</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274368</data>
+    </node>
+    <node id="秃顶中年人">
+      <data key="d0">秃顶中年人</data>
+      <data key="d1">person</data>
+      <data key="d2">秃顶中年人是乌坦城的武器大亨，参与拍卖并首次出价。</data>
+      <data key="d3">chunk-f5d01de62dca89ac9bbe33b65e64c994</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274368</data>
+    </node>
+    <node id="黄衣老者">
+      <data key="d0">黄衣老者</data>
+      <data key="d1">person</data>
+      <data key="d2">黄衣老者是乌坦城的大药商，参与拍卖并跟随出价。</data>
+      <data key="d3">chunk-f5d01de62dca89ac9bbe33b65e64c994</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274368</data>
+    </node>
+    <node id="药草">
+      <data key="d0">药草</data>
+      <data key="d1">category</data>
+      <data key="d2">药草是萧炎购买的材料之一，用于炼药和修炼。</data>
+      <data key="d3">chunk-2cebe27e055f7e2525f166fc0f989b8b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274368</data>
+    </node>
+    <node id="四万金币">
+      <data key="d0">四万金币</data>
+      <data key="d1">category</data>
+      <data key="d2">四万金币是争吵的核心财务问题，涉及长老的利益。</data>
+      <data key="d3">chunk-aee8a3ad453beffa1023de8811b77ada</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274368</data>
+    </node>
+    <node id="斗气阁">
+      <data key="d0">斗气阁</data>
+      <data key="d1">organization</data>
+      <data key="d2">斗气阁是一个与斗气紧密相关的重要机构，主要用于修炼和筛选斗气功法。它对萧炎来说具有特别的意义，他希望能够进入斗气阁寻求适合自己的功法。斗气阁不仅是一个提供功法的地方，今天的斗气阁显得特别热闹，吸引了众多角色前来探寻和测试斗气功法。此外，斗气阁也是萧家最重要的地点，存放着该家族数百年来收集的斗气功法，成为角色们寻找斗气力量的心灵归宿。萧炎计划在五日后前往斗气阁，期望能够进一步提升自己的修炼水平。</data>
+      <data key="d3">chunk-065f9030874913c56b64cc011d5cd2af&lt;SEP&gt;chunk-29fbd54579d5c63021028f860f5ef333&lt;SEP&gt;chunk-fcbb8b69d7ad6f7f9c62fb1d40b504a2&lt;SEP&gt;chunk-794e082dade993bcaf4f5cb02cf3d6ee&lt;SEP&gt;chunk-62d5ed7153276d7b7031113c88d438b1&lt;SEP&gt;chunk-35581a8288c58f57133ce444419dab3b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274376</data>
+    </node>
+    <node id="大树">
+      <data key="d0">大树</data>
+      <data key="d1">geo</data>
+      <data key="d2">大树在萧炎使用八极崩时被击倒，成为他修炼成果的见证。</data>
+      <data key="d3">chunk-35581a8288c58f57133ce444419dab3b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274376</data>
+    </node>
+    <node id="巨石">
+      <data key="d0">巨石</data>
+      <data key="d1">geo</data>
+      <data key="d2">巨石是萧炎进行修炼时的重要环境背景，影响他的修炼状态。</data>
+      <data key="d3">chunk-e006674fd44e73a3d672c0740a510578</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274376</data>
+    </node>
+    <node id="木盆">
+      <data key="d0">木盆</data>
+      <data key="d1">event</data>
+      <data key="d2">木盆是萧炎吸收能量的媒介，承载着青色水液。&lt;SEP&gt;木盆是萧炎进行修炼的环境，帮助他达到斗之气充盈的状态。</data>
+      <data key="d3">chunk-71833742c3e7cd8ba19d4faae0ccb6a4&lt;SEP&gt;chunk-e57b05ec2028b6c7c15a316bc5c5940a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274376</data>
+    </node>
+    <node id="花瓶">
+      <data key="d0">花瓶</data>
+      <data key="d1">event</data>
+      <data key="d2">花瓶被萧炎的吸力和反推力斗技相互作用而破碎，展示了力量的效果。</data>
+      <data key="d3">chunk-e57b05ec2028b6c7c15a316bc5c5940a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274376</data>
+    </node>
+    <node id="反推力">
+      <data key="d0">反推力</data>
+      <data key="d1">category</data>
+      <data key="d2">反推力是萧炎在使用吸掌时产生的力量，与吸力相互作用。</data>
+      <data key="d3">chunk-e57b05ec2028b6c7c15a316bc5c5940a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274376</data>
+    </node>
+    <node id="吹火掌">
+      <data key="d0">吹火掌</data>
+      <data key="d1">技艺</data>
+      <data key="d2">吹火掌是一种玄阶斗技，萧炎在战斗中使用，展现了强大的推力。&lt;SEP&gt;吹火掌是一种辅助斗技，产生强大风压，萧炎经过药老的指导掌握了它。</data>
+      <data key="d3">chunk-a006f8a59bc42b6a28f27eaba7ea6c59&lt;SEP&gt;chunk-463b3f1f54bf844cb7d8919648e8de15</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274376</data>
+    </node>
+    <node id="修炼">
+      <data key="d0">修炼</data>
+      <data key="d1">category</data>
+      <data key="d2">修炼是萧炎通过斗气提升自身实力的过程。</data>
+      <data key="d3">chunk-a62e6a628a15d5b00c8ff12281b40954</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274376</data>
+    </node>
+    <node id="黑石碑">
+      <data key="d0">黑石碑</data>
+      <data key="d1">event</data>
+      <data key="d2">黑石碑是一种被广大实力家族所拥有的测试和测验结果的记录工具。它不仅仅是一个简单的设备，还代表了一种被人们尊敬的力量，令年轻一代感到畏惧。黑石碑在各种测验中用于评定斗之力的重要性，能清楚地显示出选手的实力，成为每次斗者级别测试的焦点。在其中，萧炎通过黑石碑展示了他的修炼成果，令现场观众感到震惊，而薰儿也通过这一设备证明了她的能力。此外，黑石碑还被用来测试修炼者的实力和斗之气强度，见证了萧炎的突破，因而吸引了众人的目光，成为测验斗者级别的重要场所。</data>
+      <data key="d3">chunk-d54618aa9f6b9d83d46914a2d986268d&lt;SEP&gt;chunk-998a7d540a65548141f1f626a306aba4&lt;SEP&gt;chunk-91ffcd09ddb4b23c078d7a7410ecf2a1&lt;SEP&gt;chunk-38b29eccf7724830681fde217d501c12&lt;SEP&gt;chunk-5249452fc02634a65306233a8ef35c64&lt;SEP&gt;chunk-51ec1d4f551cfa00a7a54a74c6442467&lt;SEP&gt;chunk-685b21823f8585b17d77b087211e0a5c&lt;SEP&gt;chunk-b25f15e48074c13f0e7ae9a8dc322a3d</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274380</data>
+    </node>
+    <node id="斗之气第七段">
+      <data key="d0">斗之气第七段</data>
+      <data key="d1">category</data>
+      <data key="d2">斗之气第七段是测试合格的标准，标志着能力的达到。</data>
+      <data key="d3">chunk-d54618aa9f6b9d83d46914a2d986268d</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274380</data>
+    </node>
+    <node id="二长老">
+      <data key="d0">二长老</data>
+      <data key="d1">person</data>
+      <data key="d2">二长老是萧家中的长者，负责监督萧宁与萧炎之间的比试，并在场地中央正式公告这场对决。他对这场挑战表现出深深的担忧，尤其是对于萧炎的快速提升感到难以置信，对筑基灵液的效果也表示惊讶。作为比赛的主持人，二长老需严格监管比赛的规则和秩序，他对萧玉发出警告，以确保比赛不失控。此外，他是萧战身边的顾问，性格冷酷，常常发表怀疑的意见，显示出他对年轻一辈的谨慎态度。总体而言，二长老在这场比试中不仅是监督者，也是萧家长辈对于家族未来发展的见证者。</data>
+      <data key="d3">chunk-d54618aa9f6b9d83d46914a2d986268d&lt;SEP&gt;chunk-998a7d540a65548141f1f626a306aba4&lt;SEP&gt;chunk-13e59f0be98715fe288ea4ba0b74cd29&lt;SEP&gt;chunk-91ffcd09ddb4b23c078d7a7410ecf2a1&lt;SEP&gt;chunk-129e1687df23c27a0a7492071e3f9005&lt;SEP&gt;chunk-1b0cedce249c27538909da8c6093d709&lt;SEP&gt;chunk-3168b429ed74027f386cf328ea2ee805&lt;SEP&gt;chunk-685b21823f8585b17d77b087211e0a5c</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274383</data>
+    </node>
+    <node id="大长老">
+      <data key="d0">大长老</data>
+      <data key="d1">person</data>
+      <data key="d2">大长老是萧家高层人士之一，负责维持测试的秩序。</data>
+      <data key="d3">chunk-d54618aa9f6b9d83d46914a2d986268d</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274383</data>
+    </node>
+    <node id="测验员">
+      <data key="d0">测验员</data>
+      <data key="d1">person</data>
+      <data key="d2">测验员是负责评估和宣布斗者级别的角色，反映出对薰儿成就的震惊。&lt;SEP&gt;测验员负责宣布测验结果，对参赛者进行评定。</data>
+      <data key="d3">chunk-38b29eccf7724830681fde217d501c12&lt;SEP&gt;chunk-b25f15e48074c13f0e7ae9a8dc322a3d</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274383</data>
+    </node>
+    <node id="萧克">
+      <data key="d0">萧克</data>
+      <data key="d1">person</data>
+      <data key="d2">萧克是一个壮硕的少年，最先向萧炎发起挑战，显示出一些质疑的态度。&lt;SEP&gt;萧克是挑战者，因表现不佳而被萧炎打败。&lt;SEP&gt;萧克是萧炎的对手，在交手中被萧炎轻易击败。</data>
+      <data key="d3">chunk-65c856afe8a55bfb85a0529eebcb6e50&lt;SEP&gt;chunk-d5edadea78660e8b0d87f7f2406376a1&lt;SEP&gt;chunk-a6e914a0bcd76ec8eb536d4819e445ed</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274383</data>
+    </node>
+    <node id="挑衅性的目光">
+      <data key="d0">挑衅性的目光</data>
+      <data key="d1">category</data>
+      <data key="d2">挑衅性的目光是对场中其他族人态度的描述，体现了竞争气氛。</data>
+      <data key="d3">chunk-65c856afe8a55bfb85a0529eebcb6e50</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274383</data>
+    </node>
+    <node id="青石训练场">
+      <data key="d0">青石训练场</data>
+      <data key="d1">geo</data>
+      <data key="d2">青石训练场是交手的地点，场中聚集了众多观众。</data>
+      <data key="d3">chunk-a6e914a0bcd76ec8eb536d4819e445ed</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274383</data>
+    </node>
+    <node id="劈山掌">
+      <data key="d0">劈山掌</data>
+      <data key="d1">category</data>
+      <data key="d2">劈山掌是萧克所使用的中级斗技，要求较高的斗之气。</data>
+      <data key="d3">chunk-a6e914a0bcd76ec8eb536d4819e445ed</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274383</data>
+    </node>
+    <node id="黑衫少年">
+      <data key="d0">黑衫少年</data>
+      <data key="d1">person</data>
+      <data key="d2">黑衫少年是场中表现突出的年轻选手，引起了观众的关注。&lt;SEP&gt;黑衫少年是场中观众目光聚焦的神秘角色，表现出强大的实力。&lt;SEP&gt;黑衫少年是萧炎在成人仪式上受到关注的角色。</data>
+      <data key="d3">chunk-129e1687df23c27a0a7492071e3f9005&lt;SEP&gt;chunk-794e082dade993bcaf4f5cb02cf3d6ee&lt;SEP&gt;chunk-d5edadea78660e8b0d87f7f2406376a1</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274383</data>
+    </node>
+    <node id="小水谭">
+      <data key="d0">小水谭</data>
+      <data key="d1">geo</data>
+      <data key="d2">小水谭是故事中出现的场所，薰儿在这里独自欣赏自己的美丽。</data>
+      <data key="d3">chunk-c30b6d6abec0005f395d401603adf240</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274383</data>
+    </node>
+    <node id="柳树">
+      <data key="d0">柳树</data>
+      <data key="d1">geo</data>
+      <data key="d2">柳树为故事中薰儿的背景，衬托出她的美丽。</data>
+      <data key="d3">chunk-c30b6d6abec0005f395d401603adf240</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274383</data>
+    </node>
+    <node id="家族少年">
+      <data key="d0">家族少年</data>
+      <data key="d1">person</data>
+      <data key="d2">家族少年是故事中经过的小道的路人，惊艳于薰儿的美丽。</data>
+      <data key="d3">chunk-c30b6d6abec0005f395d401603adf240</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274383</data>
+    </node>
+    <node id="萧玉">
+      <data key="d0">萧玉</data>
+      <data key="d1">person</data>
+      <data key="d2">萧玉是一个年轻且高挑的女性角色，具有强烈的个性和反抗精神。她在场中观察比赛时感到不满，对萧炎充满怨恨和怒火，因此奋力反击。作为萧炎的姐姐，她因弟弟受伤而愤怒地找萧炎对质，并对他的成功表示疑虑。萧玉与弟弟的关系使她经历了心理上的挣扎，同时她也是萧宁的姐姐，担心萧宁与萧炎的对决可能导致受伤。
+
+在与萧炎的互动中，萧玉表现出倔强、愤怒和骄傲的性格，常常使萧炎表现出不同的情绪。她对萧炎的力量变化感到震惊，并主动向他挑战，展现出对其攻击的强烈反应。作为萧家的年轻一辈，萧玉在家族内部的地位和情感复杂，使得她与萧炎之间存在明显的敌对关系。</data>
+      <data key="d3">chunk-4598c518958fd706cb2a17701688ebe0&lt;SEP&gt;chunk-96b791b3d90a3f1df5b348173dc3cd96&lt;SEP&gt;chunk-998a7d540a65548141f1f626a306aba4&lt;SEP&gt;chunk-a006f8a59bc42b6a28f27eaba7ea6c59&lt;SEP&gt;chunk-91ffcd09ddb4b23c078d7a7410ecf2a1&lt;SEP&gt;chunk-13e59f0be98715fe288ea4ba0b74cd29&lt;SEP&gt;chunk-62d5ed7153276d7b7031113c88d438b1&lt;SEP&gt;chunk-4ce437a39ec1ae63d7ee0fcdae0e41a9&lt;SEP&gt;chunk-5249452fc02634a65306233a8ef35c64&lt;SEP&gt;chunk-173b2befc2dd2fdec779ba1588fa1512&lt;SEP&gt;chunk-7866becd2b1e801191b1587797c378d3&lt;SEP&gt;chunk-3168b429ed74027f386cf328ea2ee805&lt;SEP&gt;chunk-a46a49f0ae36e080bd584f50885647d2&lt;SEP&gt;chunk-c2d61cb55f8091519a2b670689a7f178</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274387</data>
+    </node>
+    <node id="迦南学院">
+      <data key="d0">迦南学院</data>
+      <data key="d1">organization</data>
+      <data key="d2">迦南学院是萧玉去进修的地方，影响了她的实力和性格。</data>
+      <data key="d3">chunk-4598c518958fd706cb2a17701688ebe0</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274387</data>
+    </node>
+    <node id="长剑">
+      <data key="d0">长剑</data>
+      <data key="d1">equipment</data>
+      <data key="d2">长剑是萧玉的主要武器，象征其战斗能力和性格。</data>
+      <data key="d3">chunk-4598c518958fd706cb2a17701688ebe0</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274387</data>
+    </node>
+    <node id="温泉">
+      <data key="d0">温泉</data>
+      <data key="d1">event</data>
+      <data key="d2">温泉是萧炎与萧玉有过冲突的地点，成为两人关系的一个重要节点。</data>
+      <data key="d3">chunk-4598c518958fd706cb2a17701688ebe0</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274387</data>
+    </node>
+    <node id="二长老萧鹰">
+      <data key="d0">二长老萧鹰</data>
+      <data key="d1">person</data>
+      <data key="d2">二长老萧鹰负责成人仪式的主持，并对萧炎的能力有所改观。</data>
+      <data key="d3">chunk-96b791b3d90a3f1df5b348173dc3cd96</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274387</data>
+    </node>
+    <node id="黑石测验碑">
+      <data key="d0">黑石测验碑</data>
+      <data key="d1">event</data>
+      <data key="d2">黑石测验碑是用于测验斗之气的设备，在成人仪式中扮演重要角色。</data>
+      <data key="d3">chunk-96b791b3d90a3f1df5b348173dc3cd96</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274387</data>
+    </node>
+    <node id="斗皇">
+      <data key="d0">斗皇</data>
+      <data key="d1">category</data>
+      <data key="d2">斗皇是一个强大而稀少的斗气级别，被认为在帝国中拥有极高的地位。</data>
+      <data key="d3">chunk-5249452fc02634a65306233a8ef35c64</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274387</data>
+    </node>
+    <node id="挑战">
+      <data key="d0">挑战</data>
+      <data key="d1">event</data>
+      <data key="d2">挑战是年轻一辈成员与萧炎之间的竞争活动。</data>
+      <data key="d3">chunk-998a7d540a65548141f1f626a306aba4</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274387</data>
+    </node>
+    <node id="增气散">
+      <data key="d0">增气散</data>
+      <data key="d1">category</data>
+      <data key="d2">增气散是一种二品丹药，能够短时间内提升斗者的实力。&lt;SEP&gt;增气散是一种药物，使萧宁的斗之气忽然暴增。</data>
+      <data key="d3">chunk-1b0cedce249c27538909da8c6093d709&lt;SEP&gt;chunk-91ffcd09ddb4b23c078d7a7410ecf2a1</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274387</data>
+    </node>
+    <node id="八段斗之气">
+      <data key="d0">八段斗之气</data>
+      <data key="d1">category</data>
+      <data key="d2">八段斗之气是一种高等级的斗气状态，萧炎展现了这种实力。</data>
+      <data key="d3">chunk-91ffcd09ddb4b23c078d7a7410ecf2a1</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274387</data>
+    </node>
+    <node id="斗技比试">
+      <data key="d0">斗技比试</data>
+      <data key="d1">event</data>
+      <data key="d2">斗技比试是萧炎与萧宁之间的比赛，决定两人之间的实力对决。</data>
+      <data key="d3">chunk-ad83da03b7fbbfb93d743f93dbdc236f</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274387</data>
+    </node>
+    <node id="裂爪击">
+      <data key="d0">裂爪击</data>
+      <data key="d1">category</data>
+      <data key="d2">裂爪击是一种黄阶中级斗技，萧宁用来攻击萧炎。</data>
+      <data key="d3">chunk-ad83da03b7fbbfb93d743f93dbdc236f</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274387</data>
+    </node>
+    <node id="铁山拳">
+      <data key="d0">铁山拳</data>
+      <data key="d1">category</data>
+      <data key="d2">铁山拳是一种黄阶高级斗技，威力不俗，需斗之气七段以上方可修习。</data>
+      <data key="d3">chunk-a006f8a59bc42b6a28f27eaba7ea6c59</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274387</data>
+    </node>
+    <node id="怒狮狂罡">
+      <data key="d0">怒狮狂罡</data>
+      <data key="d1">category</data>
+      <data key="d2">怒狮狂罡是萧家一项高级别斗技的名称。</data>
+      <data key="d3">chunk-129e1687df23c27a0a7492071e3f9005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274387</data>
+    </node>
+    <node id="狮山裂">
+      <data key="d0">狮山裂</data>
+      <data key="d1">category</data>
+      <data key="d2">狮山裂是一种高水平的斗技，具有强大的攻击力。&lt;SEP&gt;狮山裂是萧家的一种玄阶低级斗技，其与怒狮狂罡相匹配。</data>
+      <data key="d3">chunk-3168b429ed74027f386cf328ea2ee805&lt;SEP&gt;chunk-129e1687df23c27a0a7492071e3f9005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274387</data>
+    </node>
+    <node id="斗灵强者">
+      <data key="d0">斗灵强者</data>
+      <data key="d1">category</data>
+      <data key="d2">斗灵强者是一种强大的斗者，能够传授高级斗技。</data>
+      <data key="d3">chunk-129e1687df23c27a0a7492071e3f9005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274387</data>
+    </node>
+    <node id="比试">
+      <data key="d0">比试</data>
+      <data key="d1">event</data>
+      <data key="d2">比试是文本中的主要事件，萧炎与其他角色之间的竞争和冲突的场合。</data>
+      <data key="d3">chunk-13e59f0be98715fe288ea4ba0b74cd29</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274387</data>
+    </node>
+    <node id="丹药">
+      <data key="d0">丹药</data>
+      <data key="d1">category</data>
+      <data key="d2">丹药是一种在比试中被违规使用的药物。</data>
+      <data key="d3">chunk-13e59f0be98715fe288ea4ba0b74cd29</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274387</data>
+    </node>
+    <node id="玄阶中级的怒狮狂罡">
+      <data key="d0">玄阶中级的怒狮狂罡</data>
+      <data key="d1">category</data>
+      <data key="d2">玄阶中级的怒狮狂罡是一种高级斗气功法，目前萧炎没有权限修炼。</data>
+      <data key="d3">chunk-794e082dade993bcaf4f5cb02cf3d6ee</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274387</data>
+    </node>
+    <node id="表姐">
+      <data key="d0">表姐</data>
+      <data key="d1">category</data>
+      <data key="d2">表姐是萧炎的名义上的亲属，影响他们之间的互动。</data>
+      <data key="d3">chunk-a46a49f0ae36e080bd584f50885647d2</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274387</data>
+    </node>
+    <node id="山脚">
+      <data key="d0">山脚</data>
+      <data key="d1">geo</data>
+      <data key="d2">山脚是萧炎和萧玉冲突发生的地点。&lt;SEP&gt;山脚是萧炎和萧玉相遇的地点，具有重要的情节背景。</data>
+      <data key="d3">chunk-62d5ed7153276d7b7031113c88d438b1&lt;SEP&gt;chunk-a46a49f0ae36e080bd584f50885647d2</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274387</data>
+    </node>
+    <node id="水晶球">
+      <data key="d0">水晶球</data>
+      <data key="d1">equipment</data>
+      <data key="d2">水晶球在故事中破碎，象征着某种变化或结束。&lt;SEP&gt;水晶球用于测试角色的属性，并通过变色显示结果。</data>
+      <data key="d3">chunk-29fbd54579d5c63021028f860f5ef333&lt;SEP&gt;chunk-fcbb8b69d7ad6f7f9c62fb1d40b504a2</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274387</data>
+    </node>
+    <node id="火属性">
+      <data key="d0">火属性</data>
+      <data key="d1">category</data>
+      <data key="d2">火属性是萧炎和薰儿在水晶球测试中认定的属性。</data>
+      <data key="d3">chunk-29fbd54579d5c63021028f860f5ef333</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274387</data>
+    </node>
+    <node id="木属性">
+      <data key="d0">木属性</data>
+      <data key="d1">category</data>
+      <data key="d2">木属性是萧战在评价薰儿时提到的属性，表示她可能成为炼药师的潜力。</data>
+      <data key="d3">chunk-29fbd54579d5c63021028f860f5ef333</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274387</data>
+    </node>
+    <node id="火道">
+      <data key="d0">火道</data>
+      <data key="d1">category</data>
+      <data key="d2">火道是斗气阁中的一条通道，与火属性相关。</data>
+      <data key="d3">chunk-fcbb8b69d7ad6f7f9c62fb1d40b504a2</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274387</data>
+    </node>
+    <node id="木门">
+      <data key="d0">木门</data>
+      <data key="d1">event</data>
+      <data key="d2">木门是斗气阁中的关键设施，内含需要打破的光幕以取得功法。</data>
+      <data key="d3">chunk-fcbb8b69d7ad6f7f9c62fb1d40b504a2</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274387</data>
+    </node>
+    <node id="光罩">
+      <data key="d0">光罩</data>
+      <data key="d1">organization</data>
+      <data key="d2">光罩是一个防御设备，阻挡了其他族人进入特定房间。</data>
+      <data key="d3">chunk-267e764351037f7c02061ea7fd1ab4aa</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274387</data>
+    </node>
+    <node id="黄阶高级功法：炼火焚">
+      <data key="d0">黄阶高级功法：炼火焚</data>
+      <data key="d1">category</data>
+      <data key="d2">这是家族中顶尖的火属性功法，具有重要价值。</data>
+      <data key="d3">chunk-267e764351037f7c02061ea7fd1ab4aa</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274387</data>
+    </node>
+    <node id="萧叔叔">
+      <data key="d0">萧叔叔</data>
+      <data key="d1">person</data>
+      <data key="d2">萧叔叔为萧炎提供了支持和顶尖功法的重要角色。</data>
+      <data key="d3">chunk-267e764351037f7c02061ea7fd1ab4aa</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274387</data>
+    </node>
+    <node id="红色光幕">
+      <data key="d0">红色光幕</data>
+      <data key="d1">category</data>
+      <data key="d2">红色光幕是萧炎攻击的目标，展示了防御力和萧炎的斗技效果。</data>
+      <data key="d3">chunk-267e764351037f7c02061ea7fd1ab4aa</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274387</data>
+    </node>
+    <node id="黄阶高级功法">
+      <data key="d0">黄阶高级功法</data>
+      <data key="d1">category</data>
+      <data key="d2">黄阶高级功法是武学修炼中一种高级的功法，具有重要的修炼价值。</data>
+      <data key="d3">chunk-065f9030874913c56b64cc011d5cd2af</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274387</data>
+    </node>
+    <node id="黄阶低级斗气功法">
+      <data key="d0">黄阶低级斗气功法</data>
+      <data key="d1">category</data>
+      <data key="d2">黄阶低级斗气功法是薰儿在斗气阁中找到的一种低级修炼法。</data>
+      <data key="d3">chunk-065f9030874913c56b64cc011d5cd2af</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274387</data>
+    </node>
+    <node id="火属性的玄阶高级功法">
+      <data key="d0">火属性的玄阶高级功法</data>
+      <data key="d1">category</data>
+      <data key="d2">火属性的玄阶高级功法是薰儿提供给萧炎的功法，具有较高的修炼潜力。</data>
+      <data key="d3">chunk-065f9030874913c56b64cc011d5cd2af</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274387</data>
+    </node>
+    <node id="风属性功法">
+      <data key="d0">风属性功法</data>
+      <data key="d1">category</data>
+      <data key="d2">风属性功法是萧媚想要获得的高级功法，关系到她的修炼进步。</data>
+      <data key="d3">chunk-065f9030874913c56b64cc011d5cd2af</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274387</data>
+    </node>
+    <node id="光幕">
+      <data key="d0">光幕</data>
+      <data key="d1">event</data>
+      <data key="d2">光幕是阻挡萧媚获取斗气功法的护罩，萧炎最终将其打破。</data>
+      <data key="d3">chunk-b73c1fe92a6454ac06e40eefe29cffb7</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274387</data>
+    </node>
+    <node id="小路">
+      <data key="d0">小路</data>
+      <data key="d1">geo</data>
+      <data key="d2">小路是角色们互动的场所，见证了萧媚和萧炎之间的情感变化。</data>
+      <data key="d3">chunk-b73c1fe92a6454ac06e40eefe29cffb7</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274387</data>
+    </node>
+    <node id="佣兵男子">
+      <data key="d0">佣兵男子</data>
+      <data key="d3">chunk-463ecd092d16c3170efcba2f65334abe</data>
+      <data key="d2">佣兵男子介绍吞木狐的魔晶，说明其猎捕过程与价值。</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274408</data>
+    </node>
+    <node id="神秘炼药师">
+      <data key="d0">神秘炼药师</data>
+      <data key="d3">chunk-e3f41bb63e8c46647a93f6859c48c0a5</data>
+      <data key="d2">谷尼对一名神秘炼药师的身份表示疑虑，并考虑是否调查。</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274417</data>
+    </node>
+    <node id="测试">
+      <data key="d0">测试</data>
+      <data key="d3">chunk-d54618aa9f6b9d83d46914a2d986268d</data>
+      <data key="d2">测试的合格标准是斗之气达到第七段及以上。</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274421</data>
+    </node>
+    <node id="族人">
+      <data key="d0">族人</data>
+      <data key="d3">chunk-d54618aa9f6b9d83d46914a2d986268d</data>
+      <data key="d2">大长老负责组织家族的测试并对族人发出指示。</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274421</data>
+    </node>
+    <node id="黄阶高级风属性功法">
+      <data key="d0">黄阶高级风属性功法</data>
+      <data key="d3">chunk-065f9030874913c56b64cc011d5cd2af</data>
+      <data key="d2">萧媚的父亲特别叮嘱她获得该功法以提升修炼。</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1749274424</data>
+    </node>
+    <edge source="萧炎" target="测验魔石碑">
+      <data key="d6">8.0</data>
+      <data key="d7">萧炎的斗之力测试结果在测试魔石碑上被公布，导致他受到嘲讽.</data>
+      <data key="d8">羞辱,能力测试</data>
+      <data key="d9">chunk-ab2b531aecd438872fdbb61685a86dbb</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274387</data>
+    </edge>
+    <edge source="萧炎" target="萧媚">
+      <data key="d6">77.0</data>
+      <data key="d7">萧媚因萧炎的受关注而感到尴尬与不满。尽管她对萧炎心怀喜欢，但由于与薰儿的竞争，她感到无奈。萧媚曾对萧炎有过倾慕，然而现在她感受到两人之间的差距以及他所展现出的卓越天赋。她对萧炎的能力感到难以置信，并对他的表现表示震惊。她对萧炎的请求逐渐产生依赖，并最终得到了他的帮助。
+
+萧媚曾是萧炎身边的美丽少女，但萧炎对她毫不留恋。她的进步与萧炎的期望形成了一种轻微的竞争关系。两人之间的关系因为一些误解而发生变化，他们的命运形成鲜明对比：萧炎经历了落魄，而萧媚则前途无限。此外，萧炎对萧媚在修炼上的良好表现感到钦佩和惊讶，同时也常常对她的表现有所嘲讽和关注。整体来看，萧媚与萧炎的关系复杂交织，既包含了一种微妙的竞争，也反映出彼此间不同的命运轨迹。</data>
+      <data key="d8">亲情,关系变化,命运,家庭关系,对比,情感冲突,情感竞争,竞争,观察与反应,观察与赞赏,请求与帮助,过去关系,进步,震惊情感</data>
+      <data key="d9">chunk-ab2b531aecd438872fdbb61685a86dbb&lt;SEP&gt;chunk-69528318e852992e545207216348c317&lt;SEP&gt;chunk-d294ec2837ccf10ff79ebf54726f3152&lt;SEP&gt;chunk-38b29eccf7724830681fde217d501c12&lt;SEP&gt;chunk-f76ba95dc65e660409387d331348eac3&lt;SEP&gt;chunk-1e0c5a1eef61ee136040df40b665c270&lt;SEP&gt;chunk-b73c1fe92a6454ac06e40eefe29cffb7&lt;SEP&gt;chunk-f4240663ec6e36ccacef2f9775e3ab0b&lt;SEP&gt;chunk-b25f15e48074c13f0e7ae9a8dc322a3d&lt;SEP&gt;chunk-a6e914a0bcd76ec8eb536d4819e445ed</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274390</data>
+    </edge>
+    <edge source="萧炎" target="族长">
+      <data key="d6">13.0</data>
+      <data key="d7">族长召唤萧炎前往大厅，显示出萧炎在家族中的地位与责任。&lt;SEP&gt;萧炎因族长是其父亲而在家族中受到特殊待遇，尽管表现不佳.</data>
+      <data key="d8">家庭关系,家族召唤,特殊身份</data>
+      <data key="d9">chunk-ab2b531aecd438872fdbb61685a86dbb&lt;SEP&gt;chunk-5733dbcfa3f5ed09b642d89af52055ef</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274390</data>
+    </edge>
+    <edge source="萧炎" target="萧薰儿">
+      <data key="d6">38.0</data>
+      <data key="d7">萧炎和萧薰儿之间存在友好的关系，过去的互动让他们更加亲近。&lt;SEP&gt;萧炎在与萧薰儿的目光接触中感受到自信的变化。&lt;SEP&gt;萧薰儿对萧炎依然保持尊敬，尽管萧炎已失去光环。&lt;SEP&gt;萧薰儿认同萧炎的斗气修炼进展，表明两人之间的亲密关系。&lt;SEP&gt;萧薰儿鼓励萧炎重新振作，关心他的情感状态。</data>
+      <data key="d8">互动,互相欣赏,亲密关系,亲情,友情,友谊,友谊、互动,尊敬,情感支持</data>
+      <data key="d9">chunk-54dfd40f096b9fa5bfbe557d62a499ca&lt;SEP&gt;chunk-fe198b6172a04e625900d33335af8a2f&lt;SEP&gt;chunk-aa079703239977b5ad6462205bd933b5&lt;SEP&gt;chunk-223dc4e58bd735300057dd7aeacdbef7&lt;SEP&gt;chunk-895e8845fedd4eaff2c8ee053254d568</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274390</data>
+    </edge>
+    <edge source="萧炎" target="斗之气">
+      <data key="d6">61.0</data>
+      <data key="d7">萧炎是一位专注于提升自身斗之气的修炼者，他致力于通过增强斗之气的实力，以展现更强大的斗技。在他的修炼过程中，萧炎利用斗之气来抵御来自萧宁的攻击，显示出他强大的能力。同时，萧炎正在努力为未来的成就打下基础，通过不断修炼斗之气，实现自身力量的成长。
+
+然而，萧炎的修炼之路并非一帆风顺。他经历了斗之气的消失，导致他从天才的巅峰跌落到普通人的境地。这一事件对他的能力产生了显著影响，甚至他的斗之气被透明苍老人影所吸收，使得他的实力受到严重削弱。尽管面临诸多挑战，萧炎在斗之气的修炼中依然取得了显著的进展，并通过斗之气的锻炼提升了自己的肉体素质，以增强战斗能力。通过这些努力，萧炎展现出他不屈不挠的精神和持续成长的决心。</data>
+      <data key="d8">修炼过程,力量吸收,力量展示,力量应用、修炼结合,力量提升,实力提升,强度提升、训练目标,影响,成长,斗者的困境</data>
+      <data key="d9">chunk-011ad0b91e2b0cd0e50353097a72ef50&lt;SEP&gt;chunk-ad83da03b7fbbfb93d743f93dbdc236f&lt;SEP&gt;chunk-8bd4d5c018c7ef7d369092d47f6116be&lt;SEP&gt;chunk-e57b05ec2028b6c7c15a316bc5c5940a&lt;SEP&gt;chunk-aa079703239977b5ad6462205bd933b5&lt;SEP&gt;chunk-223dc4e58bd735300057dd7aeacdbef7&lt;SEP&gt;chunk-fdf81810e72560519b15858e6c7f325b&lt;SEP&gt;chunk-dc08944dd584ff37b1952784aaa63e8c</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274393</data>
+    </edge>
+    <edge source="萧炎" target="斗气大陆">
+      <data key="d6">23.0</data>
+      <data key="d7">萧炎在斗气大陆上生活，经历着与之相关的修炼与成长。&lt;SEP&gt;萧炎在斗气大陆上追求成为斗者的目标，经历了诸多挑战与变化。&lt;SEP&gt;萧炎的成长与修炼发生在斗气大陆这个设定中。</data>
+      <data key="d8">主角经历,主角背景,努力追求,成长背景,生活环境</data>
+      <data key="d9">chunk-895e8845fedd4eaff2c8ee053254d568&lt;SEP&gt;chunk-822e02c1a53c663cff079cf8e57ae19b&lt;SEP&gt;chunk-ecbfa0ab63fe38aff3beca5ad18464f9</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274393</data>
+    </edge>
+    <edge source="萧炎" target="斗技">
+      <data key="d6">19.0</data>
+      <data key="d7">萧炎将经历斗技挑战，检验他的实力。&lt;SEP&gt;萧炎展示出强横的斗技，引起了观众的注意。"&lt;|"斗技,实力展示&lt;SEP&gt;萧炎需学习斗技以增强自己在斗气大陆的实力。</data>
+      <data key="d8">7,增强实力,实力检验,技能学习,挑战</data>
+      <data key="d9">chunk-129e1687df23c27a0a7492071e3f9005&lt;SEP&gt;chunk-895e8845fedd4eaff2c8ee053254d568&lt;SEP&gt;chunk-998a7d540a65548141f1f626a306aba4</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274393</data>
+    </edge>
+    <edge source="萧炎" target="狂狮怒罡">
+      <data key="d6">7.0</data>
+      <data key="d7">萧炎的家族中存在狂狮怒罡这种高级斗气功法，代表他修炼的潜力。</data>
+      <data key="d8">修炼背景,家族传承</data>
+      <data key="d9">chunk-ecbfa0ab63fe38aff3beca5ad18464f9</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274393</data>
+    </edge>
+    <edge source="萧炎" target="萧战">
+      <data key="d6">170.0</data>
+      <data key="d7">萧战是萧炎的父亲，同时也是家族的族长，他对萧炎的成长和表现充满关心与支持。萧战反对解除萧炎的婚约，是为了保护家族的声誉。他为萧炎在各种测试中的表现感到骄傲，并对其巨大进步和提升感到欣慰，逐渐放下了心中的担忧。作为父亲，萧战对萧炎的努力表示认可，并给予他鼓励。他关注萧炎的安全，询问他与萧玉的冲突，提醒他避免对抗。
+
+然而，萧战内心对萧炎的情感变化仍感到担忧。他对萧炎的修炼天赋感到自豪，并对其未来寄予厚望。在萧炎即将进行成人仪式之前，萧战也做出了提示，表现出他对儿子成长的深切关心。尽管有时萧战对萧炎的关心让后者感到尴尬，但这并不影响他们父子之间深厚的情感和关系。萧战见证了萧炎在斗之力测试中的成就，并为此感到自豪，还推测有人在教导萧炎的斗技，可能是他自己传授的。
+
+总体来看，萧战与萧炎之间的关系紧密，萧战不仅是一位关心子女的父亲，也是一位鼓励萧炎追求目标的支持者。</data>
+      <data key="d8">6,亲子关系,仪式准备,保护,关心,关怀,关注,家庭关系,家庭担忧,家庭支持,家族自豪感,家族责任,成就感,担忧,推测,支持,更高层次的指导,欣慰情感,父子关系,社会地位,骄傲</data>
+      <data key="d9">chunk-f80e7a7eae53dbf97604fee08283dd67&lt;SEP&gt;chunk-aee8a3ad453beffa1023de8811b77ada&lt;SEP&gt;chunk-24e6ba1d5a301503c4a29d0518150a04&lt;SEP&gt;chunk-c2d61cb55f8091519a2b670689a7f178&lt;SEP&gt;chunk-6c8d49eca3e42f4b03ee49fe63514cc6&lt;SEP&gt;chunk-129e1687df23c27a0a7492071e3f9005&lt;SEP&gt;chunk-1b0cedce249c27538909da8c6093d709&lt;SEP&gt;chunk-3168b429ed74027f386cf328ea2ee805&lt;SEP&gt;chunk-5733dbcfa3f5ed09b642d89af52055ef&lt;SEP&gt;chunk-a6e914a0bcd76ec8eb536d4819e445ed&lt;SEP&gt;chunk-d54618aa9f6b9d83d46914a2d986268d&lt;SEP&gt;chunk-69528318e852992e545207216348c317&lt;SEP&gt;chunk-65c856afe8a55bfb85a0529eebcb6e50&lt;SEP&gt;chunk-d5edadea78660e8b0d87f7f2406376a1&lt;SEP&gt;chunk-5249452fc02634a65306233a8ef35c64&lt;SEP&gt;chunk-51ec1d4f551cfa00a7a54a74c6442467&lt;SEP&gt;chunk-1e0c5a1eef61ee136040df40b665c270&lt;SEP&gt;chunk-ce43ec547c6b3b0ac10afb7520f17e06&lt;SEP&gt;chunk-214f75c7448a21f6ca5df650e6f8cd98&lt;SEP&gt;chunk-4ce437a39ec1ae63d7ee0fcdae0e41a9&lt;SEP&gt;chunk-2cebe27e055f7e2525f166fc0f989b8b&lt;SEP&gt;chunk-685b21823f8585b17d77b087211e0a5c</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274397</data>
+    </edge>
+    <edge source="萧炎" target="成年仪式">
+      <data key="d6">13.0</data>
+      <data key="d7">成年仪式将决定萧炎的修炼未来及家族认可.&lt;SEP&gt;萧炎即将参加成年仪式，以达到新的成长阶段。</data>
+      <data key="d8">个人成长,仪式,制度约束,成长</data>
+      <data key="d9">chunk-f80e7a7eae53dbf97604fee08283dd67&lt;SEP&gt;chunk-a1299d13dcd08a019d98a18fde7b8cea</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274397</data>
+    </edge>
+    <edge source="萧炎" target="黑色戒指">
+      <data key="d6">15.0</data>
+      <data key="d7">萧炎通过黑色戒指与药老的灵魂进行沟通和互动。&lt;SEP&gt;黑色戒指是萧炎母亲的遗物，承载着情感和期望.</data>
+      <data key="d8">情感纽带,灵魂交流,物品,物品象征</data>
+      <data key="d9">chunk-49ce97b4fce04870f698556acf5aecc1&lt;SEP&gt;chunk-f80e7a7eae53dbf97604fee08283dd67</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274397</data>
+    </edge>
+    <edge source="萧炎" target="斗之气旋">
+      <data key="d6">6.0</data>
+      <data key="d7">斗之气旋是萧炎修炼后获得的力量，代表了他的努力和潜能.</data>
+      <data key="d8">努力,能力象征</data>
+      <data key="d9">chunk-f80e7a7eae53dbf97604fee08283dd67</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274397</data>
+    </edge>
+    <edge source="萧炎" target="古朴戒指">
+      <data key="d6">13.0</data>
+      <data key="d7">古朴戒指与萧炎之间存在神秘的联系，可能提供帮助。&lt;SEP&gt;古朴戒指在萧炎修炼过程中的异光暗示其可能的重要性和力量。</data>
+      <data key="d8">神秘关系,神秘物品</data>
+      <data key="d9">chunk-ce43ec547c6b3b0ac10afb7520f17e06&lt;SEP&gt;chunk-5733dbcfa3f5ed09b642d89af52055ef</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274397</data>
+    </edge>
+    <edge source="萧炎" target="迎客大厅">
+      <data key="d6">7.0</data>
+      <data key="d7">萧炎被召唤进入迎客大厅，标志着将要进行的重要会议。</data>
+      <data key="d8">重要会议</data>
+      <data key="d9">chunk-5733dbcfa3f5ed09b642d89af52055ef</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274397</data>
+    </edge>
+    <edge source="萧炎" target="老者">
+      <data key="d6">15.0</data>
+      <data key="d7">萧炎与老者之间存在互相利用的关系，老者吸收萧炎的斗之气。&lt;SEP&gt;萧炎惊讶于老者的实力，认为其超过了自己的父亲。</data>
+      <data key="d8">互惠,实力比较,师徒关系,惊讶</data>
+      <data key="d9">chunk-a1299d13dcd08a019d98a18fde7b8cea&lt;SEP&gt;chunk-6c8d49eca3e42f4b03ee49fe63514cc6</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274397</data>
+    </edge>
+    <edge source="萧炎" target="家族">
+      <data key="d6">32.0</data>
+      <data key="d7">萧炎在家族内的地位正在下降，遭到年轻人的嘲笑。&lt;SEP&gt;萧炎在家族内的表现直接关系到他的未来修炼与地位。&lt;SEP&gt;萧炎是乌坦城一个重要家族的成员，该家族与其他家族有长期的斗争关系。&lt;SEP&gt;萧炎的测试结果影响了他的家族声望。</data>
+      <data key="d8">家族归属,家族荣誉,影响,未来,社会地位,竞争关系,羞辱</data>
+      <data key="d9">chunk-51ec1d4f551cfa00a7a54a74c6442467&lt;SEP&gt;chunk-2029690f74ecd0f2ecc13fb5ae9ecbc0&lt;SEP&gt;chunk-a62e6a628a15d5b00c8ff12281b40954&lt;SEP&gt;chunk-6c8d49eca3e42f4b03ee49fe63514cc6</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274397</data>
+    </edge>
+    <edge source="萧炎" target="黄袍老者">
+      <data key="d6">6.0</data>
+      <data key="d7">黄袍老者对萧炎表现出不屑和讥讽。</data>
+      <data key="d8">不屑,权力斗争</data>
+      <data key="d9">chunk-6c8d49eca3e42f4b03ee49fe63514cc6</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274397</data>
+    </edge>
+    <edge source="萧炎" target="萧熏儿">
+      <data key="d6">8.0</data>
+      <data key="d7">萧熏儿帮助萧炎解围，维持着友好的关系。</data>
+      <data key="d8">友谊,相互支持</data>
+      <data key="d9">chunk-5e3fa3165564658305d0f01138d179c6</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274397</data>
+    </edge>
+    <edge source="萧炎" target="纳兰嫣然">
+      <data key="d6">67.0</data>
+      <data key="d7">纳兰嫣然是萧炎的未婚妻，但两人之间的关系因重婚事宜而变得紧张。纳兰嫣然对萧炎表示不满，并试图通过各种条件来解除婚约，这导致了两人之间的冲突和压力。萧炎感到不满，认为纳兰嫣然将来会后悔自己的决定，尽管他对她怀有深情，并期待着与她的重逢。
+
+萧炎在表达强烈情感的同时，承诺将在三年后与纳兰嫣然重聚。他将她视为自己修炼的动力，以此激励自己不断进步。此外，萧炎还关心纳兰嫣然的悔婚情况，询问她对于解除婚约的想法。在面临困境时，萧炎毅然作出决定，选择解除与纳兰嫣然的婚约，这一决定展示了他的决心和态度。</data>
+      <data key="d8">不满情绪,关心、问询,冲突,冲突、预言,婚约争议,婚约冲突,婚约解除,情感承诺,情感羁绊,未婚妻关系,竞争关系</data>
+      <data key="d9">chunk-ce43ec547c6b3b0ac10afb7520f17e06&lt;SEP&gt;chunk-9b3e9ca77304d9c6ea1fb06404c38234&lt;SEP&gt;chunk-2029690f74ecd0f2ecc13fb5ae9ecbc0&lt;SEP&gt;chunk-214f75c7448a21f6ca5df650e6f8cd98&lt;SEP&gt;chunk-24e6ba1d5a301503c4a29d0518150a04&lt;SEP&gt;chunk-5d2cde4cdd02799f99e4c6091c92dd7a&lt;SEP&gt;chunk-7ba8fe565ae410898375e813d446137a&lt;SEP&gt;chunk-e006674fd44e73a3d672c0740a510578&lt;SEP&gt;chunk-d294ec2837ccf10ff79ebf54726f3152</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274400</data>
+    </edge>
+    <edge source="萧炎" target="云岚宗">
+      <data key="d6">34.0</data>
+      <data key="d7">萧炎为了得到纳兰嫣然的承诺，考虑进入云岚宗进行修炼。&lt;SEP&gt;萧炎对云岚宗的实力感到敬畏，认为其出身的弟子非同一般。&lt;SEP&gt;萧炎对云岚宗的期望表明他渴望获得强大力量。&lt;SEP&gt;萧炎计划前往云岚宗，显示出他追求更高实力的决心。&lt;SEP&gt;萧炎面临云岚宗的威胁和压力，影响其自信。</data>
+      <data key="d8">修炼机会,威胁、压力,尊重与竞争,期待,未来计划,目标与期望</data>
+      <data key="d9">chunk-aee8a3ad453beffa1023de8811b77ada&lt;SEP&gt;chunk-9b3e9ca77304d9c6ea1fb06404c38234&lt;SEP&gt;chunk-7ba8fe565ae410898375e813d446137a&lt;SEP&gt;chunk-2cebe27e055f7e2525f166fc0f989b8b&lt;SEP&gt;chunk-d294ec2837ccf10ff79ebf54726f3152</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274400</data>
+    </edge>
+    <edge source="萧炎" target="三位长老">
+      <data key="d6">16.0</data>
+      <data key="d7">三位长老因萧炎的言辞而感到压力，避免冒犯死去的长辈。&lt;SEP&gt;萧炎对三位长老在丹药交易中的行为表示反对。</data>
+      <data key="d8">家族责任,权威,辩论、对立</data>
+      <data key="d9">chunk-7ba8fe565ae410898375e813d446137a&lt;SEP&gt;chunk-5d2cde4cdd02799f99e4c6091c92dd7a</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274400</data>
+    </edge>
+    <edge source="萧炎" target="乌坦城">
+      <data key="d6">28.0</data>
+      <data key="d7">萧炎在乌坦城闲逛，体验城市的活力与人气。&lt;SEP&gt;萧炎的家族声誉与乌坦城的地位密切相关，影响其决定。&lt;SEP&gt;萧炎的表现曾让乌坦城为之惊艳，吸引了众多关注。&lt;SEP&gt;萧炎计划前往乌坦城进行筑基灵液的拍卖。</data>
+      <data key="d8">交易,地方认同,城市探访、日常生活,家族声誉,才华,目的地</data>
+      <data key="d9">chunk-80593513554fcfdef9546dedffbd9e69&lt;SEP&gt;chunk-96b791b3d90a3f1df5b348173dc3cd96&lt;SEP&gt;chunk-214f75c7448a21f6ca5df650e6f8cd98&lt;SEP&gt;chunk-1b3120c35b1ff11cdce1bccc22af33ab</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274400</data>
+    </edge>
+    <edge source="萧炎" target="短剑">
+      <data key="d6">7.0</data>
+      <data key="d7">萧炎用短剑划破手掌形成血印契约，以示决心和态度。</data>
+      <data key="d8">决心,象征</data>
+      <data key="d9">chunk-24e6ba1d5a301503c4a29d0518150a04</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274400</data>
+    </edge>
+    <edge source="萧炎" target="血印契约">
+      <data key="d6">8.0</data>
+      <data key="d7">萧炎通过血印契约正式解除与纳兰嫣然的婚约。</data>
+      <data key="d8">决策,婚约解除</data>
+      <data key="d9">chunk-24e6ba1d5a301503c4a29d0518150a04</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274400</data>
+    </edge>
+    <edge source="萧炎" target="葛叶">
+      <data key="d6">7.0</data>
+      <data key="d7">萧炎与葛叶之间存在合作关系，葛叶对萧炎的保护显而易见。</data>
+      <data key="d8">合作关系</data>
+      <data key="d9">chunk-ce43ec547c6b3b0ac10afb7520f17e06</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274400</data>
+    </edge>
+    <edge source="萧炎" target="魔兽山脉">
+      <data key="d6">9.0</data>
+      <data key="d7">萧炎在魔兽山脉进行内心反思，表达了对力量的渴望。</data>
+      <data key="d8">内心挣扎</data>
+      <data key="d9">chunk-ce43ec547c6b3b0ac10afb7520f17e06</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274400</data>
+    </edge>
+    <edge source="萧炎" target="黑色古朴戒指">
+      <data key="d6">9.0</data>
+      <data key="d7">萧炎与黑色古朴戒指之间有密切联系，戒指吸收了他的斗之气。</data>
+      <data key="d8">灵魂关系,物品影响</data>
+      <data key="d9">chunk-8bd4d5c018c7ef7d369092d47f6116be</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274400</data>
+    </edge>
+    <edge source="萧炎" target="透明苍老人影">
+      <data key="d6">8.0</data>
+      <data key="d7">透明苍老人影向萧炎透露了他吸收斗之气的秘密，从而影响了萧炎的情绪。</data>
+      <data key="d8">情感波动,秘密揭示</data>
+      <data key="d9">chunk-8bd4d5c018c7ef7d369092d47f6116be</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274400</data>
+    </edge>
+    <edge source="萧炎" target="炼药师">
+      <data key="d6">8.0</data>
+      <data key="d7">萧炎渴望成为炼药师，表示他对提升自己的潜力的追求。</data>
+      <data key="d8">目标追求,职业向往</data>
+      <data key="d9">chunk-a1299d13dcd08a019d98a18fde7b8cea</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274400</data>
+    </edge>
+    <edge source="萧炎" target="药老">
+      <data key="d6">142.0</data>
+      <data key="d7">药老是萧炎的重要导师，专注于指导他在修炼斗技和炼药方面的成长。药老为萧炎提供了全面的修炼指导，帮助他掌握斗技技巧，传授了斗之气的修炼方法，并强调基础的重要性。在教学过程中，药老对萧炎的修炼速度感到惊讶，这显示了他对学生的期待。同时，药老也关注萧炎的斗技学习，给予他适时的指导，并建议其在修炼时放松心境，以避免误入歧途。
+
+萧炎在药老的教导下，学习使用药水进行修炼，进行斗气锻炼，并在训练中接受反馈。此外，药老教授萧炎高级斗技，以提高他的战斗能力，并帮助他为即将到来的成人仪式做好准备。在这个过程中，药老赞扬了萧炎使用吸掌强化斗技的创造性。
+
+萧炎表现出对药老的依赖，向他请教关于黑铁片和斗技的信息，展现出他们之间密切的师徒关系。他还向药老请教关于材料和筑基灵液的配制问题，表明他渴望进一步提高自己的炼药术水平。同时，萧炎在药老的指导下积极进行修炼，得到了鼓励和支持。总的来说，药老在萧炎的修炼之路上扮演了不可或缺的角色，提供了全面的指导与帮助。</data>
+      <data key="d8">8,修炼建议,学习,导师指导,师徒关系,师徒关系、技能提升,指导,指导、师徒关系,教学,训练指导</data>
+      <data key="d9">chunk-b5e538db39634a6114ec26262a158613&lt;SEP&gt;chunk-80593513554fcfdef9546dedffbd9e69&lt;SEP&gt;chunk-54dfd40f096b9fa5bfbe557d62a499ca&lt;SEP&gt;chunk-011ad0b91e2b0cd0e50353097a72ef50&lt;SEP&gt;chunk-463b3f1f54bf844cb7d8919648e8de15&lt;SEP&gt;chunk-35581a8288c58f57133ce444419dab3b&lt;SEP&gt;chunk-e006674fd44e73a3d672c0740a510578&lt;SEP&gt;chunk-192eedc046d7aaf2d5c5a90cb74f051b&lt;SEP&gt;chunk-49ce97b4fce04870f698556acf5aecc1&lt;SEP&gt;chunk-bbbc024cfb92170fa9cde255a2ffb7c4&lt;SEP&gt;chunk-aeb9bc2067ac0b18290761a863105192&lt;SEP&gt;chunk-fdf81810e72560519b15858e6c7f325b&lt;SEP&gt;chunk-f4240663ec6e36ccacef2f9775e3ab0b&lt;SEP&gt;chunk-e57b05ec2028b6c7c15a316bc5c5940a&lt;SEP&gt;chunk-173b2befc2dd2fdec779ba1588fa1512&lt;SEP&gt;chunk-dc08944dd584ff37b1952784aaa63e8c&lt;SEP&gt;chunk-822e02c1a53c663cff079cf8e57ae19b</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274405</data>
+    </edge>
+    <edge source="萧炎" target="紫叶兰草">
+      <data key="d6">20.0</data>
+      <data key="d7">萧炎在药材店中购买了紫叶兰草作为低级材料。&lt;SEP&gt;萧炎选择紫叶兰草作为配制筑基灵液的材料之一。&lt;SEP&gt;萧炎需为药老准备三支完整的紫叶兰草作为修炼材料。</data>
+      <data key="d8">交易,学习过程,材料,材料准备,药材选择</data>
+      <data key="d9">chunk-4e1834747640fb2093bcca55cb52f34c&lt;SEP&gt;chunk-80593513554fcfdef9546dedffbd9e69&lt;SEP&gt;chunk-54dfd40f096b9fa5bfbe557d62a499ca</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274405</data>
+    </edge>
+    <edge source="萧炎" target="洗骨花">
+      <data key="d6">20.0</data>
+      <data key="d7">萧炎在药材店中购买了洗骨花以作为药剂材料。&lt;SEP&gt;萧炎选用洗骨花作为配制筑基灵液的材料。&lt;SEP&gt;萧炎需准备两株洗骨花作为炼药的材料。</data>
+      <data key="d8">交易,学习过程,材料,材料准备,药材选择</data>
+      <data key="d9">chunk-4e1834747640fb2093bcca55cb52f34c&lt;SEP&gt;chunk-80593513554fcfdef9546dedffbd9e69&lt;SEP&gt;chunk-54dfd40f096b9fa5bfbe557d62a499ca</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274405</data>
+    </edge>
+    <edge source="萧炎" target="一级魔核">
+      <data key="d6">7.0</data>
+      <data key="d7">萧炎需准备一枚木系的一级魔核以供药老使用。</data>
+      <data key="d8">学习过程,材料准备</data>
+      <data key="d9">chunk-54dfd40f096b9fa5bfbe557d62a499ca</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274405</data>
+    </edge>
+    <edge source="萧炎" target="父亲">
+      <data key="d6">12.0</data>
+      <data key="d7">萧炎在拍卖会上发现其父亲的存在，表示惊讶。&lt;SEP&gt;萧炎在故事中提到因丢面子而不敢向父亲借钱。</data>
+      <data key="d8">家庭关系、意外发现,家庭关系、经济</data>
+      <data key="d9">chunk-e3f41bb63e8c46647a93f6859c48c0a5&lt;SEP&gt;chunk-fe198b6172a04e625900d33335af8a2f</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274405</data>
+    </edge>
+    <edge source="萧炎" target="薰儿">
+      <data key="d6">271.0</data>
+      <data key="d7">萧炎与薰儿之间的关系密切且复杂，展现出深厚的友谊与亲密互动。两人共同进入斗气阁，萧炎对薰儿表现出关心，展现出了他的支持与保护意图。薰儿不仅关心萧炎的成长与表现，还支持他的挑战决策，对他的能力与成熟表示赞赏。在生活中，萧炎承诺保护薰儿，并多次向她展示出关爱，提醒她不应被物质诱惑所动。
+
+两人之间的互动频繁，常在闲暇时光相伴，萧炎会与薰儿分享自己的成就，递赠手链，表明他对她的重视。与此同时，薰儿为萧炎准备金卡，显示了她对他的支持和热情。两者在成人仪式期间分享感受，彼此情感深厚且有吸引力，展现出对彼此未来的规划和信任。
+
+薰儿对萧炎的安危感到担忧，尤其是面对萧玉的挑战时，她积极尝试帮助萧炎以避免不必要的冲突。此外，薰儿的存在也对萧炎的自信与家庭地位产生了积极的影响。总体而言，萧炎与薰儿之间的友谊充满支持、理解与关爱，两人共同面对生活中的各种挑战，展现出兄妹间深厚的情感联系。</data>
+      <data key="d8">friendship,interaction,亲密关系,亲昵关系,伙伴关系,保护,信任,信任与支持,兄妹关系,关心,关注,友情,友谊,友谊、情感互动,家庭关系,家族关系,情感交流,情感关系,情感支持,情感联系,感情关心,支持,支持、热情,支持关系,朋友支持,礼物转赠,荣誉,表妹支持,角色互动,认可与支持,赞赏,陪伴</data>
+      <data key="d9">chunk-267e764351037f7c02061ea7fd1ab4aa&lt;SEP&gt;chunk-88a1ddb28b8766f87583cd3fca9ce749&lt;SEP&gt;chunk-065f9030874913c56b64cc011d5cd2af&lt;SEP&gt;chunk-aee8a3ad453beffa1023de8811b77ada&lt;SEP&gt;chunk-977cae48a0f89a9b64e73cc249349dfb&lt;SEP&gt;chunk-4e1834747640fb2093bcca55cb52f34c&lt;SEP&gt;chunk-6127b0767d4b3024c42a58e5b6fd2a5e&lt;SEP&gt;chunk-1b3120c35b1ff11cdce1bccc22af33ab&lt;SEP&gt;chunk-c2d61cb55f8091519a2b670689a7f178&lt;SEP&gt;chunk-b25f15e48074c13f0e7ae9a8dc322a3d&lt;SEP&gt;chunk-ed421bb9d3015c957496a699068b3083&lt;SEP&gt;chunk-b68fe7a0af905302b8e52bd5e9e2f82e&lt;SEP&gt;chunk-38b29eccf7724830681fde217d501c12&lt;SEP&gt;chunk-463ecd092d16c3170efcba2f65334abe&lt;SEP&gt;chunk-173b2befc2dd2fdec779ba1588fa1512&lt;SEP&gt;chunk-b73c1fe92a6454ac06e40eefe29cffb7&lt;SEP&gt;chunk-d54618aa9f6b9d83d46914a2d986268d&lt;SEP&gt;chunk-69528318e852992e545207216348c317&lt;SEP&gt;chunk-65c856afe8a55bfb85a0529eebcb6e50&lt;SEP&gt;chunk-d5edadea78660e8b0d87f7f2406376a1&lt;SEP&gt;chunk-51ec1d4f551cfa00a7a54a74c6442467&lt;SEP&gt;chunk-3dbf363878b73e4de76b15b3275a9a19&lt;SEP&gt;chunk-1e0c5a1eef61ee136040df40b665c270&lt;SEP&gt;chunk-d294ec2837ccf10ff79ebf54726f3152&lt;SEP&gt;chunk-4598c518958fd706cb2a17701688ebe0&lt;SEP&gt;chunk-c30b6d6abec0005f395d401603adf240&lt;SEP&gt;chunk-13e59f0be98715fe288ea4ba0b74cd29&lt;SEP&gt;chunk-794e082dade993bcaf4f5cb02cf3d6ee&lt;SEP&gt;chunk-62d5ed7153276d7b7031113c88d438b1&lt;SEP&gt;chunk-fcbb8b69d7ad6f7f9c62fb1d40b504a2&lt;SEP&gt;chunk-ac4f3a47d82253a4d6bfeb3aa63432ca&lt;SEP&gt;chunk-aeb9bc2067ac0b18290761a863105192&lt;SEP&gt;chunk-a62e6a628a15d5b00c8ff12281b40954&lt;SEP&gt;chunk-685b21823f8585b17d77b087211e0a5c&lt;SEP&gt;chunk-834e631785d78eda90238461974bfa34</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="萧炎" target="金色小匣子">
+      <data key="d6">6.0</data>
+      <data key="d7">萧炎抱着金色小匣子，表示他对于财富的珍视。</data>
+      <data key="d8">财富、珍视</data>
+      <data key="d9">chunk-1b3120c35b1ff11cdce1bccc22af33ab</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="萧炎" target="佩恩">
+      <data key="d6">22.0</data>
+      <data key="d7">佩恩对萧炎表现出尊敬，并愿意支持他。&lt;SEP&gt;佩恩是萧炎的护卫队长，忠诚于萧炎并负责保护他的安全。&lt;SEP&gt;佩恩是萧炎的护卫，负责保护他的安全。</data>
+      <data key="d8">主从关系,保护者,忠诚,护卫,支持与尊重</data>
+      <data key="d9">chunk-ac4f3a47d82253a4d6bfeb3aa63432ca&lt;SEP&gt;chunk-977cae48a0f89a9b64e73cc249349dfb&lt;SEP&gt;chunk-463ecd092d16c3170efcba2f65334abe</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="萧炎" target="坊市">
+      <data key="d6">7.0</data>
+      <data key="d7">萧炎和薰儿在坊市中活动，探讨其繁荣和潜在的风险。</data>
+      <data key="d8">探讨,活动地点</data>
+      <data key="d9">chunk-ac4f3a47d82253a4d6bfeb3aa63432ca</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="萧炎" target="萧家">
+      <data key="d6">7.0</data>
+      <data key="d7">萧炎是萧家的成员，家族背景影响着他的身份和地位。</data>
+      <data key="d8">家族关系,身份</data>
+      <data key="d9">chunk-ac4f3a47d82253a4d6bfeb3aa63432ca</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="萧炎" target="加列奥">
+      <data key="d6">31.0</data>
+      <data key="d7">加列奥与萧炎之间存在竞争关系，争夺薰儿的关注。&lt;SEP&gt;加列奥对萧炎的表现感到嫉妒，并在他们的互动中表现出不满。&lt;SEP&gt;萧炎与加列奥之间存在敌对关系，交流中充满了挑衅与戏谑。&lt;SEP&gt;萧炎受到加列奥的侮辱，表现出强烈的不满与反击意图。</data>
+      <data key="d8">冲突,敌对关系,竞争,竞争与嫉妒</data>
+      <data key="d9">chunk-977cae48a0f89a9b64e73cc249349dfb&lt;SEP&gt;chunk-6127b0767d4b3024c42a58e5b6fd2a5e&lt;SEP&gt;chunk-834e631785d78eda90238461974bfa34&lt;SEP&gt;chunk-463ecd092d16c3170efcba2f65334abe</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="萧炎" target="手链">
+      <data key="d6">6.0</data>
+      <data key="d7">萧炎对手链的态度表现出他对物质价值的轻视。</data>
+      <data key="d8">物品价值</data>
+      <data key="d9">chunk-834e631785d78eda90238461974bfa34</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="萧炎" target="纳兰家族">
+      <data key="d6">6.0</data>
+      <data key="d7">纳兰家族解除婚约的行为对萧炎造成了打击。</data>
+      <data key="d8">婚约解除,影响</data>
+      <data key="d9">chunk-977cae48a0f89a9b64e73cc249349dfb</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="萧炎" target="黑色铁片">
+      <data key="d6">7.0</data>
+      <data key="d7">萧炎对黑色铁片产生了兴趣，认为它可能有特殊价值。</data>
+      <data key="d8">宝物发现</data>
+      <data key="d9">chunk-463ecd092d16c3170efcba2f65334abe</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="萧炎" target="吞木狐">
+      <data key="d6">8.0</data>
+      <data key="d7">萧炎通过佣兵团了解并购买了吞木狐的魔晶。</data>
+      <data key="d8">交易,获取资源</data>
+      <data key="d9">chunk-192eedc046d7aaf2d5c5a90cb74f051b</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="萧炎" target="吸掌">
+      <data key="d6">24.0</data>
+      <data key="d7">萧炎展示了吸掌的能力，表明其在修炼中的进展。&lt;SEP&gt;萧炎得到的黑铁片中包含吸掌斗技的信息。&lt;SEP&gt;萧炎正在学习吸掌，通过它提升自己的斗技水平。</data>
+      <data key="d8">技能学习,斗技学习,斗技展示、修炼进展,继承</data>
+      <data key="d9">chunk-192eedc046d7aaf2d5c5a90cb74f051b&lt;SEP&gt;chunk-e57b05ec2028b6c7c15a316bc5c5940a&lt;SEP&gt;chunk-463b3f1f54bf844cb7d8919648e8de15</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="萧炎" target="青色药水">
+      <data key="d6">10.0</data>
+      <data key="d7">青色药水用于帮助萧炎进行修炼，提升修炼境界。</data>
+      <data key="d8">能力提升</data>
+      <data key="d9">chunk-bbbc024cfb92170fa9cde255a2ffb7c4</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="萧炎" target="黑铁片">
+      <data key="d6">15.0</data>
+      <data key="d7">萧炎对黑铁片表现出极大的热情，决定学习其上的斗技。&lt;SEP&gt;萧炎正在利用黑铁片修炼斗技，提升自身能力。</data>
+      <data key="d8">修炼工具,学习兴趣</data>
+      <data key="d9">chunk-f4240663ec6e36ccacef2f9775e3ab0b&lt;SEP&gt;chunk-bbbc024cfb92170fa9cde255a2ffb7c4</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="萧炎" target="青色水液">
+      <data key="d6">32.0</data>
+      <data key="d7">萧炎使用青色水液来缓解锻炼后身体的疼痛。&lt;SEP&gt;萧炎通过青色水液提升自己的斗之气。&lt;SEP&gt;青色水液在萧炎沉睡期间发挥了药力，促进身体的恢复和强化。&lt;SEP&gt;青色水液提供能量，促进萧炎的斗之气提升.</data>
+      <data key="d8">修炼、能量获取,恢复,治疗,能量来源,角色发展,身体恢复</data>
+      <data key="d9">chunk-b5e538db39634a6114ec26262a158613&lt;SEP&gt;chunk-71833742c3e7cd8ba19d4faae0ccb6a4&lt;SEP&gt;chunk-dc08944dd584ff37b1952784aaa63e8c&lt;SEP&gt;chunk-49ce97b4fce04870f698556acf5aecc1</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="萧炎" target="第五段斗之气">
+      <data key="d6">14.0</data>
+      <data key="d7">萧炎终于晋升到了第五段斗之气，表明了其修炼的成功。&lt;SEP&gt;萧炎致力于尽快达到第五段斗之气的修炼目标。</data>
+      <data key="d8">修炼成果,目标设定、修炼进展</data>
+      <data key="d9">chunk-b5e538db39634a6114ec26262a158613&lt;SEP&gt;chunk-dc08944dd584ff37b1952784aaa63e8c</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="萧炎" target="斗技堂">
+      <data key="d6">23.0</data>
+      <data key="d7">萧炎在斗技堂登记，准备学习斗技以备战成人仪式。&lt;SEP&gt;萧炎计划前往斗技堂寻找适合自己的低级斗技。&lt;SEP&gt;萧炎进入斗技堂，感受到了大规模的欢呼和比赛气氛。</data>
+      <data key="d8">准备,学习,寻求技能,比赛场所</data>
+      <data key="d9">chunk-f4240663ec6e36ccacef2f9775e3ab0b&lt;SEP&gt;chunk-f76ba95dc65e660409387d331348eac3&lt;SEP&gt;chunk-aeb9bc2067ac0b18290761a863105192</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="萧炎" target="青花瓶">
+      <data key="d6">7.0</data>
+      <data key="d7">萧炎在修炼过程中不小心打破了青花瓶，展示了他的斗气修炼效果。</data>
+      <data key="d8">修炼影响</data>
+      <data key="d9">chunk-f4240663ec6e36ccacef2f9775e3ab0b</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="萧炎" target="萧宁">
+      <data key="d6">106.0</data>
+      <data key="d7">萧宁与萧炎之间的关系受到紧张气氛的影响，主要源于萧宁的嫉妒心理。萧宁因妒忌萧炎与薰儿的亲密关系，对萧炎产生了强烈的敌意，表现出竞争精神。她多次向萧炎发起挑战，并在成人仪式上意图打败萧炎，以证明自己的实力。萧宁对萧炎的关注和成功表现出嫉妒情绪，她的态度充满了愤怒和敌意，因此对萧炎发出威胁，意在打击其自信。
+
+在斗技比试中，萧炎与萧宁成为对手，双方的实力进行了较量。最终，萧炎取得了胜利，并在战斗中重伤了萧宁，导致她昏迷。萧炎在与萧宁的较量中展现了其强大的斗技能力，体现出他们之间激烈的对抗关系。</data>
+      <data key="d8">9,伤害,威胁,嫉妒,嫉妒情绪,家庭关系,对手,对抗关系,情感冲突,挑战关系,敌对关系,比赛对抗,竞争关系,竞争对手,紧张,胜利</data>
+      <data key="d9">chunk-d54618aa9f6b9d83d46914a2d986268d&lt;SEP&gt;chunk-ed421bb9d3015c957496a699068b3083&lt;SEP&gt;chunk-b68fe7a0af905302b8e52bd5e9e2f82e&lt;SEP&gt;chunk-69528318e852992e545207216348c317&lt;SEP&gt;chunk-91ffcd09ddb4b23c078d7a7410ecf2a1&lt;SEP&gt;chunk-a006f8a59bc42b6a28f27eaba7ea6c59&lt;SEP&gt;chunk-d5edadea78660e8b0d87f7f2406376a1&lt;SEP&gt;chunk-4ce437a39ec1ae63d7ee0fcdae0e41a9&lt;SEP&gt;chunk-129e1687df23c27a0a7492071e3f9005&lt;SEP&gt;chunk-1b0cedce249c27538909da8c6093d709&lt;SEP&gt;chunk-3168b429ed74027f386cf328ea2ee805&lt;SEP&gt;chunk-aeb9bc2067ac0b18290761a863105192&lt;SEP&gt;chunk-ad83da03b7fbbfb93d743f93dbdc236f&lt;SEP&gt;chunk-1e0c5a1eef61ee136040df40b665c270</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274412</data>
+    </edge>
+    <edge source="萧炎" target="成人仪式">
+      <data key="d6">45.0</data>
+      <data key="d7">萧炎参加成人仪式，以证明自己的能力，并争取在家族中的地位。这一仪式不仅引起了周围人的关注，更是让众人对他的表现感到震惊。萧炎对此次成人仪式表现出极大的重视，他提到即将到来的仪式，表达了对自己成长的关注。此外，萧炎的修炼目标就是为了能够顺利通过成人仪式，这个仪式也标志着他修炼生活的开始以及责任的承担。通过这一过程，萧炎展现了他对未来的期待和对家族责任的认同。</data>
+      <data key="d8">个人成长,人生阶段,成长,新阶段,未来计划,社会仪式,表现,资格,震撼</data>
+      <data key="d9">chunk-463b3f1f54bf844cb7d8919648e8de15&lt;SEP&gt;chunk-794e082dade993bcaf4f5cb02cf3d6ee&lt;SEP&gt;chunk-4ce437a39ec1ae63d7ee0fcdae0e41a9&lt;SEP&gt;chunk-173b2befc2dd2fdec779ba1588fa1512&lt;SEP&gt;chunk-a62e6a628a15d5b00c8ff12281b40954&lt;SEP&gt;chunk-223dc4e58bd735300057dd7aeacdbef7</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274414</data>
+    </edge>
+    <edge source="萧炎" target="后山">
+      <data key="d6">6.0</data>
+      <data key="d7">萧炎在后山进行激烈的肉体训练。</data>
+      <data key="d8">训练地点</data>
+      <data key="d9">chunk-011ad0b91e2b0cd0e50353097a72ef50</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274414</data>
+    </edge>
+    <edge source="萧炎" target="斗气">
+      <data key="d6">14.0</data>
+      <data key="d7">萧炎在面对萧玉时也使用了斗气以维持平衡。&lt;SEP&gt;萧炎正在通过承受斗气的鞭挞来增强自己的斗气能力。</data>
+      <data key="d8">力量体系,能力提升,锻炼</data>
+      <data key="d9">chunk-49ce97b4fce04870f698556acf5aecc1&lt;SEP&gt;chunk-7866becd2b1e801191b1587797c378d3</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274414</data>
+    </edge>
+    <edge source="萧炎" target="筑基灵液">
+      <data key="d6">76.0</data>
+      <data key="d7">筑基灵液帮助萧炎提高修炼效率，能够有效恢复他的疲惫。萧炎利用筑基灵液来增强自己的力量，并期望以此突破到第八段斗之气。在他的修炼过程中，萧炎已经消耗完所有的筑基灵液，这表明他的修炼进展显著。此外，萧炎打算通过拍卖筑基灵液来筹集修炼资金，这为他提供了必要的财力支持。他的快速提升被认为与他使用的筑基灵液密切相关，同时萧炎父亲所购买的筑基灵液也是他斗之气突破的重要因素。总的来说，筑基灵液在萧炎的修炼过程中扮演了关键的角色，帮助他不断增强和修复自己的身体，以便继续他的修炼之路。</data>
+      <data key="d8">修炼提升,修炼目标,修炼资本,修炼辅助,修炼需求,力量增强,投资期望、收益,拍卖收益,药物影响,计划,购买关系,资源使用,资金筹集,进展</data>
+      <data key="d9">chunk-b5e538db39634a6114ec26262a158613&lt;SEP&gt;chunk-80593513554fcfdef9546dedffbd9e69&lt;SEP&gt;chunk-c30b6d6abec0005f395d401603adf240&lt;SEP&gt;chunk-c0a6233baeede11a07d259411ea6d7d3&lt;SEP&gt;chunk-463b3f1f54bf844cb7d8919648e8de15&lt;SEP&gt;chunk-122ffeb1ab6e0f60cf925c5876621f09&lt;SEP&gt;chunk-4ce437a39ec1ae63d7ee0fcdae0e41a9&lt;SEP&gt;chunk-173b2befc2dd2fdec779ba1588fa1512&lt;SEP&gt;chunk-d1c1d6346efae058b7ecd4e647e0d6ca&lt;SEP&gt;chunk-685b21823f8585b17d77b087211e0a5c&lt;SEP&gt;chunk-35581a8288c58f57133ce444419dab3b</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274417</data>
+    </edge>
+    <edge source="萧炎" target="第七段斗之气">
+      <data key="d6">15.0</data>
+      <data key="d7">萧炎希望在一年内修炼至第七段斗之气，展示了其修炼的决心。&lt;SEP&gt;萧炎的目标是突破到第七段斗之气，以提升个人实力。</data>
+      <data key="d8">修炼目标,未来目标</data>
+      <data key="d9">chunk-b5e538db39634a6114ec26262a158613&lt;SEP&gt;chunk-e006674fd44e73a3d672c0740a510578</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274417</data>
+    </edge>
+    <edge source="萧炎" target="特米尔拍卖场">
+      <data key="d6">15.0</data>
+      <data key="d7">萧炎前往特米尔拍卖场以鉴定他手中的灵药。&lt;SEP&gt;萧炎持有特米尔拍卖场的贵宾卡，享受低税率待遇。</data>
+      <data key="d8">交易场所,目的地,积分,贵宾待遇</data>
+      <data key="d9">chunk-ecb3660f8cbf17bc85b8ed91fce5f4d5&lt;SEP&gt;chunk-c0a6233baeede11a07d259411ea6d7d3</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274417</data>
+    </edge>
+    <edge source="萧炎" target="灵液">
+      <data key="d6">8.0</data>
+      <data key="d7">萧炎准备在拍卖场拍卖灵液，显示其流通重要性。</data>
+      <data key="d8">拍卖,灵药</data>
+      <data key="d9">chunk-8fddbe144d700050721251fca587d955</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274417</data>
+    </edge>
+    <edge source="萧炎" target="雅妃">
+      <data key="d6">75.0</data>
+      <data key="d7">萧炎与雅妃之间的互动充满了观察与评论。萧炎对雅妃的魅力及在拍卖场的活动进行了细致的观察，特别关注了雅妃的拍卖策略，对她的一些高价行为进行了评价。在拍卖会上，雅妃对萧炎表现出了询问和调侃的关系，并为其提供了贵宾待遇的服务。
+
+雅妃对萧炎的潜力非常关注，计划与萧家建立良好关系。她不仅认为萧炎在比试中能够获胜，还对他的修炼成就表现出极大的兴趣。雅妃对萧炎的实力感到惊讶，观察到他的潜力与努力，并且在他斗技的表现上表现出震撼与敬畏。此外，雅妃也对萧炎的突破感到惊异，特别注意到他的情感控制能力。总体而言，雅妃与萧炎的关系在多层次的观察、互动与支持中逐渐深化。</data>
+      <data key="d8">8,互动,人际关系,信心与期待,关注,实力认同,情感控制,惊讶与观察,拍卖服务,朋友关系,潜力关注,能力评价,观察,观察评价,角色观察、吸引力,评论,调侃和询问</data>
+      <data key="d9">chunk-c0a6233baeede11a07d259411ea6d7d3&lt;SEP&gt;chunk-998a7d540a65548141f1f626a306aba4&lt;SEP&gt;chunk-122ffeb1ab6e0f60cf925c5876621f09&lt;SEP&gt;chunk-a006f8a59bc42b6a28f27eaba7ea6c59&lt;SEP&gt;chunk-4ce437a39ec1ae63d7ee0fcdae0e41a9&lt;SEP&gt;chunk-e3f41bb63e8c46647a93f6859c48c0a5&lt;SEP&gt;chunk-129e1687df23c27a0a7492071e3f9005&lt;SEP&gt;chunk-1b0cedce249c27538909da8c6093d709&lt;SEP&gt;chunk-ad83da03b7fbbfb93d743f93dbdc236f&lt;SEP&gt;chunk-f5d01de62dca89ac9bbe33b65e64c994&lt;SEP&gt;chunk-c2d61cb55f8091519a2b670689a7f178</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="萧炎" target="风卷决">
+      <data key="d6">9.0</data>
+      <data key="d7">萧炎对风卷决的存在感到震撼，认为其价值超出一般丹药。</data>
+      <data key="d8">价值认知</data>
+      <data key="d9">chunk-b27def825216bb59ff93eed34c3d5954</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="萧炎" target="青色卷轴">
+      <data key="d6">6.0</data>
+      <data key="d7">萧炎对青色卷轴的出价表现出浓厚的兴趣。</data>
+      <data key="d8">兴趣表现</data>
+      <data key="d9">chunk-b27def825216bb59ff93eed34c3d5954</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="萧炎" target="药草">
+      <data key="d6">6.0</data>
+      <data key="d7">萧炎购买大量药草以支持他的修炼过程。</data>
+      <data key="d8">修炼支持</data>
+      <data key="d9">chunk-2cebe27e055f7e2525f166fc0f989b8b</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="萧炎" target="魔晶">
+      <data key="d6">7.0</data>
+      <data key="d7">萧炎使用魔晶进行炼药，显示出其与材料的关联。</data>
+      <data key="d8">炼药使用</data>
+      <data key="d9">chunk-2cebe27e055f7e2525f166fc0f989b8b</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="萧炎" target="八极崩">
+      <data key="d6">9.0</data>
+      <data key="d7">萧炎成功使用八极崩，展现出其斗技能力。</data>
+      <data key="d8">技术应用</data>
+      <data key="d9">chunk-35581a8288c58f57133ce444419dab3b</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="萧炎" target="斗气阁">
+      <data key="d6">31.0</data>
+      <data key="d7">萧炎对斗气阁的重视显示了家族传统的重要性.&lt;SEP&gt;萧炎希望晋入第七段以获取斗气阁寻找功法的资格。&lt;SEP&gt;萧炎计划前往斗气阁以寻找斗气功法。&lt;SEP&gt;萧炎进入斗气阁寻找功法，显示出寻求力量的决心.</data>
+      <data key="d8">关心,家族传统,寻求,寻求力量,目标,计划,资格提升</data>
+      <data key="d9">chunk-fcbb8b69d7ad6f7f9c62fb1d40b504a2&lt;SEP&gt;chunk-794e082dade993bcaf4f5cb02cf3d6ee&lt;SEP&gt;chunk-35581a8288c58f57133ce444419dab3b&lt;SEP&gt;chunk-62d5ed7153276d7b7031113c88d438b1</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="萧炎" target="木盆">
+      <data key="d6">9.0</data>
+      <data key="d7">萧炎在木盆中吸收能量以冲击第七段斗之气.</data>
+      <data key="d8">突破过程,能量吸收</data>
+      <data key="d9">chunk-71833742c3e7cd8ba19d4faae0ccb6a4</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="萧炎" target="反推力">
+      <data key="d6">6.0</data>
+      <data key="d7">萧炎利用反推力与吸力的结合来展示技能的潜力。</data>
+      <data key="d8">技能结合、力量增强</data>
+      <data key="d9">chunk-e57b05ec2028b6c7c15a316bc5c5940a</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="萧炎" target="吹火掌">
+      <data key="d6">17.0</data>
+      <data key="d7">在药老的指导下，萧炎掌握了吹火掌并将其用于战斗。&lt;SEP&gt;萧炎使用吹火掌进行反击，有效抵挡了萧宁的进攻。</data>
+      <data key="d8">技能合成,斗技应用,防御</data>
+      <data key="d9">chunk-a006f8a59bc42b6a28f27eaba7ea6c59&lt;SEP&gt;chunk-463b3f1f54bf844cb7d8919648e8de15</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="萧炎" target="黑石碑">
+      <data key="d6">42.0</data>
+      <data key="d7">萧炎在黑石碑上测试出第七段斗之气，展示了他的修炼成就。&lt;SEP&gt;萧炎在黑石碑下进行斗之力测试，等待结果。&lt;SEP&gt;萧炎的斗气状态受到黑石碑的震慑和影响。&lt;SEP&gt;萧炎通过黑石碑展示出他的斗之气提升，引发现场观众的震惊。&lt;SEP&gt;萧炎通过黑石碑显示了斗之气的提升，震惊在场众人。</data>
+      <data key="d8">引起注意,成绩展示,期待,权威影响,测试,测验,突破记录,表现</data>
+      <data key="d9">chunk-998a7d540a65548141f1f626a306aba4&lt;SEP&gt;chunk-91ffcd09ddb4b23c078d7a7410ecf2a1&lt;SEP&gt;chunk-5249452fc02634a65306233a8ef35c64&lt;SEP&gt;chunk-51ec1d4f551cfa00a7a54a74c6442467&lt;SEP&gt;chunk-685b21823f8585b17d77b087211e0a5c</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="萧炎" target="二长老">
+      <data key="d6">22.0</data>
+      <data key="d7">二长老对萧炎的修炼速度表示惊讶。&lt;SEP&gt;二长老对萧炎的实力感到复杂，试图维护比试的公正。&lt;SEP&gt;二长老对萧炎的提升感到不可置信，显示了对萧炎实力的认可。</data>
+      <data key="d8">关注与监督,实力认可,惊讶,评估</data>
+      <data key="d9">chunk-1b0cedce249c27538909da8c6093d709&lt;SEP&gt;chunk-685b21823f8585b17d77b087211e0a5c&lt;SEP&gt;chunk-998a7d540a65548141f1f626a306aba4</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="萧炎" target="萧克">
+      <data key="d6">25.0</data>
+      <data key="d7">萧克向萧炎发起挑战，代表了他对萧炎实力的质疑.&lt;SEP&gt;萧炎在挑战中战胜了萧克，赢得了胜利。&lt;SEP&gt;萧炎轻松击败了萧克，证明了自己的实力。</data>
+      <data key="d8">实力对决,实力对比,挑战,挑战胜利,竞争,竞争关系</data>
+      <data key="d9">chunk-65c856afe8a55bfb85a0529eebcb6e50&lt;SEP&gt;chunk-d5edadea78660e8b0d87f7f2406376a1&lt;SEP&gt;chunk-a6e914a0bcd76ec8eb536d4819e445ed</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="萧炎" target="青石训练场">
+      <data key="d6">7.0</data>
+      <data key="d7">萧炎在青石训练场展现了自己的战斗实力。</data>
+      <data key="d8">实力展示,战斗地点</data>
+      <data key="d9">chunk-a6e914a0bcd76ec8eb536d4819e445ed</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="萧炎" target="黑衫少年">
+      <data key="d6">12.0</data>
+      <data key="d7">萧炎以惊人的表现让黑衫少年感到敬畏。&lt;SEP&gt;萧炎在成人仪式上获得了许多目光，类似于黑衫少年引起的注意。</data>
+      <data key="d8">关注,实力对比、尊重,比较</data>
+      <data key="d9">chunk-794e082dade993bcaf4f5cb02cf3d6ee&lt;SEP&gt;chunk-d5edadea78660e8b0d87f7f2406376a1</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="萧炎" target="柳树">
+      <data key="d6">6.0</data>
+      <data key="d7">萧炎与薰儿的互动发生在柳树下，这个环境强调了情感的氛围。</data>
+      <data key="d8">环境影响</data>
+      <data key="d9">chunk-c30b6d6abec0005f395d401603adf240</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="萧炎" target="萧玉">
+      <data key="d6">89.0</data>
+      <data key="d7">萧炎与萧玉之间存在着明显的敌对关系，二人时常发生冲突。萧玉曾追杀萧炎，并因其弟弟重伤而愤怒地面对萧炎，要求他为此负责。在这场对抗中，萧炎对萧玉的攻击反应激烈，表现出强烈的情绪。萧炎不仅是萧玉的挑战对象，二人之间的竞争关系也十分激烈。
+
+尽管存在敌对关系，萧玉对萧炎的强大实力感到不可置信，从而显现出她对他的关注。然而，同时，她也对萧炎的能力表示怀疑，这进一步影响了她的情感状态，使她感到羞愧和愤怒。总的来说，萧炎与萧玉之间不仅是竞争与敌对，更夹杂着复杂的情感纠葛和强烈的冲突。</data>
+      <data key="d8">关心,关注,冲突,家庭冲突,家族对立,对抗关系,对质,强迫行为,怀疑,情感激烈,情感纠葛,挑战,敌对关系,竞争关系,震惊</data>
+      <data key="d9">chunk-4598c518958fd706cb2a17701688ebe0&lt;SEP&gt;chunk-96b791b3d90a3f1df5b348173dc3cd96&lt;SEP&gt;chunk-a006f8a59bc42b6a28f27eaba7ea6c59&lt;SEP&gt;chunk-13e59f0be98715fe288ea4ba0b74cd29&lt;SEP&gt;chunk-62d5ed7153276d7b7031113c88d438b1&lt;SEP&gt;chunk-173b2befc2dd2fdec779ba1588fa1512&lt;SEP&gt;chunk-7866becd2b1e801191b1587797c378d3&lt;SEP&gt;chunk-3168b429ed74027f386cf328ea2ee805&lt;SEP&gt;chunk-a46a49f0ae36e080bd584f50885647d2&lt;SEP&gt;chunk-c2d61cb55f8091519a2b670689a7f178</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="萧炎" target="长剑">
+      <data key="d6">6.0</data>
+      <data key="d7">萧玉用长剑威胁萧炎，展示了她的敌意和战斗意图。</data>
+      <data key="d8">冲突,威胁</data>
+      <data key="d9">chunk-4598c518958fd706cb2a17701688ebe0</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="萧炎" target="二长老萧鹰">
+      <data key="d6">9.0</data>
+      <data key="d7">萧鹰主持着成人仪式，并亲自验证萧炎的能力。</data>
+      <data key="d8">成人仪式,能力验证</data>
+      <data key="d9">chunk-96b791b3d90a3f1df5b348173dc3cd96</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="萧炎" target="黑石测验碑">
+      <data key="d6">8.0</data>
+      <data key="d7">萧炎正在黑石测验碑前进行斗之气的测试，受到全场注视。</data>
+      <data key="d8">公众关注,测验</data>
+      <data key="d9">chunk-96b791b3d90a3f1df5b348173dc3cd96</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="萧炎" target="加玛帝国">
+      <data key="d6">7.0</data>
+      <data key="d7">萧炎的修炼天赋可能影响加玛帝国中的势力动态。</data>
+      <data key="d8">影响力,潜力</data>
+      <data key="d9">chunk-5249452fc02634a65306233a8ef35c64</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="萧炎" target="斗皇">
+      <data key="d6">8.0</data>
+      <data key="d7">萧炎的修炼进度，使得他有可能在未来成为斗皇级别的强者。</data>
+      <data key="d8">强者,潜力</data>
+      <data key="d9">chunk-5249452fc02634a65306233a8ef35c64</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="萧炎" target="八段斗之气">
+      <data key="d6">8.0</data>
+      <data key="d7">萧炎已经达到了八段斗之气的水平，显示出其强大的实力。</data>
+      <data key="d8">实力体现</data>
+      <data key="d9">chunk-91ffcd09ddb4b23c078d7a7410ecf2a1</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="萧炎" target="狮山裂">
+      <data key="d6">8.0</data>
+      <data key="d7">萧炎使用狮山裂进行攻击，展现出其斗技的高超。</data>
+      <data key="d8">攻击,斗技展示</data>
+      <data key="d9">chunk-3168b429ed74027f386cf328ea2ee805</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="萧炎" target="水晶球">
+      <data key="d6">15.0</data>
+      <data key="d7">萧炎对水晶球的破碎表现出一种无奈与思考。&lt;SEP&gt;萧炎通过水晶球测试自己的属性，并显示出火属性结果。</data>
+      <data key="d8">变化,属性测试,思考,角色发展</data>
+      <data key="d9">chunk-29fbd54579d5c63021028f860f5ef333&lt;SEP&gt;chunk-fcbb8b69d7ad6f7f9c62fb1d40b504a2</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="萧炎" target="木门">
+      <data key="d6">7.0</data>
+      <data key="d7">萧炎与木门互动，目标是获取火道中的功法.</data>
+      <data key="d8">互动,获取目标</data>
+      <data key="d9">chunk-fcbb8b69d7ad6f7f9c62fb1d40b504a2</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="萧炎" target="光罩">
+      <data key="d6">9.0</data>
+      <data key="d7">萧炎通过斗技成功击破光罩，展示其力量与技巧。</data>
+      <data key="d8">斗技应用</data>
+      <data key="d9">chunk-267e764351037f7c02061ea7fd1ab4aa</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="萧炎" target="黄阶高级功法：炼火焚">
+      <data key="d6">8.0</data>
+      <data key="d7">萧炎在房间中找到并确认了这部高级功法的存在。</data>
+      <data key="d8">知识发现</data>
+      <data key="d9">chunk-267e764351037f7c02061ea7fd1ab4aa</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="萧炎" target="萧叔叔">
+      <data key="d6">8.0</data>
+      <data key="d7">萧叔叔为萧炎提供重要的功法资源以帮助其成长。</data>
+      <data key="d8">资源支持</data>
+      <data key="d9">chunk-267e764351037f7c02061ea7fd1ab4aa</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="萧炎" target="红色光幕">
+      <data key="d6">9.0</data>
+      <data key="d7">红色光幕被萧炎的斗技破坏，展现其力量与技巧。</data>
+      <data key="d8">斗技挑战</data>
+      <data key="d9">chunk-267e764351037f7c02061ea7fd1ab4aa</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="萧炎" target="光幕">
+      <data key="d6">9.0</data>
+      <data key="d7">萧炎以强大的力量打破了光幕，帮助萧媚。</data>
+      <data key="d8">破坏与助力</data>
+      <data key="d9">chunk-b73c1fe92a6454ac06e40eefe29cffb7</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="萧媚" target="测验魔石碑">
+      <data key="d6">9.0</data>
+      <data key="d7">萧媚在测验魔石碑上取得优异成绩，成为瞩目的焦点.</data>
+      <data key="d8">成就,能力测试</data>
+      <data key="d9">chunk-ab2b531aecd438872fdbb61685a86dbb</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274387</data>
+    </edge>
+    <edge source="萧媚" target="家族">
+      <data key="d6">8.0</data>
+      <data key="d7">萧媚是家族中的种子级人物，受到高度关注和培养.</data>
+      <data key="d8">培养,家族地位</data>
+      <data key="d9">chunk-ab2b531aecd438872fdbb61685a86dbb</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274390</data>
+    </edge>
+    <edge source="萧媚" target="萧薰儿">
+      <data key="d6">6.0</data>
+      <data key="d7">萧媚对萧薰儿的崛起感到嫉妒，让她对其产生了负面情感。</data>
+      <data key="d8">嫉妒,竞争</data>
+      <data key="d9">chunk-aa079703239977b5ad6462205bd933b5</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274393</data>
+    </edge>
+    <edge source="萧媚" target="青年">
+      <data key="d6">7.0</data>
+      <data key="d7">萧媚对青年有好感，表现出青春的吸引力。</data>
+      <data key="d8">吸引力,情感</data>
+      <data key="d9">chunk-6c8d49eca3e42f4b03ee49fe63514cc6</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274397</data>
+    </edge>
+    <edge source="萧媚" target="测验员">
+      <data key="d6">9.0</data>
+      <data key="d7">测验员公布萧媚的斗之力成绩，展示她的实力提升。</data>
+      <data key="d8">实力评定,成就</data>
+      <data key="d9">chunk-38b29eccf7724830681fde217d501c12</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="萧媚" target="薰儿">
+      <data key="d6">20.0</data>
+      <data key="d7">薰儿对萧媚的期待显示出她对朋友的关心与好奇。&lt;SEP&gt;薰儿对萧媚表现出不屑，显示出两人间的紧张关系。&lt;SEP&gt;薰儿的成功引起了萧媚的嫉妒与颓败情绪。</data>
+      <data key="d8">关心,友谊,敌对情绪,竞争与情感</data>
+      <data key="d9">chunk-38b29eccf7724830681fde217d501c12&lt;SEP&gt;chunk-69528318e852992e545207216348c317&lt;SEP&gt;chunk-b25f15e48074c13f0e7ae9a8dc322a3d</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="萧媚" target="斗技堂">
+      <data key="d6">6.0</data>
+      <data key="d7">萧媚邀请萧炎一起去斗技堂，显示她对萧炎的关注。</data>
+      <data key="d8">关注,邀请</data>
+      <data key="d9">chunk-1e0c5a1eef61ee136040df40b665c270</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="萧媚" target="斗气阁">
+      <data key="d6">9.0</data>
+      <data key="d7">萧媚在斗气阁中努力尝试获取功法，表现出迫切的心情。</data>
+      <data key="d8">努力,追求</data>
+      <data key="d9">chunk-065f9030874913c56b64cc011d5cd2af</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="萧媚" target="黄阶高级风属性功法">
+      <data key="d6">8.0</data>
+      <data key="d7">萧媚的父亲特别叮嘱她获得该功法以提升修炼。</data>
+      <data key="d8">渴望,父女关系</data>
+      <data key="d9">chunk-065f9030874913c56b64cc011d5cd2af</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="乌坦城" target="加玛帝国">
+      <data key="d6">18.0</data>
+      <data key="d7">乌坦城是加玛帝国内的一座繁华城市。&lt;SEP&gt;乌坦城是加玛帝国的一部分，显示其地理与政治关系。</data>
+      <data key="d8">地理归属,城市、国家,政治关系</data>
+      <data key="d9">chunk-1b3120c35b1ff11cdce1bccc22af33ab&lt;SEP&gt;chunk-5e3fa3165564658305d0f01138d179c6</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274397</data>
+    </edge>
+    <edge source="乌坦城" target="坊市">
+      <data key="d6">9.0</data>
+      <data key="d7">坊市是乌坦城内的一个重要市场，提供珍贵的商品.</data>
+      <data key="d8">城市,市场</data>
+      <data key="d9">chunk-3dbf363878b73e4de76b15b3275a9a19</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="乌坦城" target="薰儿">
+      <data key="d6">7.0</data>
+      <data key="d7">薰儿计划陪萧炎一起去乌坦城，表现出对他的依恋。</data>
+      <data key="d8">情感,陪伴</data>
+      <data key="d9">chunk-1e0c5a1eef61ee136040df40b665c270</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="乌坦城" target="萧家">
+      <data key="d6">8.0</data>
+      <data key="d7">萧家的成人仪式在乌坦城举行，吸引了城市内的各方势力。</data>
+      <data key="d8">event location,family tradition</data>
+      <data key="d9">chunk-88a1ddb28b8766f87583cd3fca9ce749</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="乌坦城" target="特米尔拍卖场">
+      <data key="d6">7.0</data>
+      <data key="d7">特米尔拍卖场位于乌坦城，是一个重要的商业活动场所。</data>
+      <data key="d8">business location,market</data>
+      <data key="d9">chunk-88a1ddb28b8766f87583cd3fca9ce749</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="斗之力" target="黑石碑">
+      <data key="d6">8.0</data>
+      <data key="d7">黑石碑用于检测斗之力，显示萧炎的测试结果。</data>
+      <data key="d8">测试工具,结果显示</data>
+      <data key="d9">chunk-51ec1d4f551cfa00a7a54a74c6442467</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="族长" target="萧宁">
+      <data key="d6">6.0</data>
+      <data key="d7">萧宁因是族长的孙子，不敢真正对萧炎出手。</data>
+      <data key="d8">权力关系</data>
+      <data key="d9">chunk-b68fe7a0af905302b8e52bd5e9e2f82e</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274414</data>
+    </edge>
+    <edge source="家族" target="萧薰儿">
+      <data key="d6">9.0</data>
+      <data key="d7">萧薰儿是家族年轻一辈的第一人，代表着家族的希望与未来。</data>
+      <data key="d8">家族继承,年轻一代</data>
+      <data key="d9">chunk-aa079703239977b5ad6462205bd933b5</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274390</data>
+    </edge>
+    <edge source="家族" target="成人仪式">
+      <data key="d6">6.0</data>
+      <data key="d7">家族通过成人仪式来筛选具有修炼潜力的成员。</data>
+      <data key="d8">家族结构,筛选</data>
+      <data key="d9">chunk-a62e6a628a15d5b00c8ff12281b40954</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="萧薰儿" target="三位长老">
+      <data key="d6">8.0</data>
+      <data key="d7">萧薰儿劝说三位长老冷静，缓解现场紧张气氛。</data>
+      <data key="d8">劝解、和解</data>
+      <data key="d9">chunk-5d2cde4cdd02799f99e4c6091c92dd7a</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274400</data>
+    </edge>
+    <edge source="萧薰儿" target="紫金卡">
+      <data key="d6">9.0</data>
+      <data key="d7">萧薰儿拥有紫金卡，意味着她在斗气大陆拥有较高的身份和实力。</data>
+      <data key="d8">身份象征、实力</data>
+      <data key="d9">chunk-fe198b6172a04e625900d33335af8a2f</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274405</data>
+    </edge>
+    <edge source="萧薰儿" target="萧宁">
+      <data key="d6">7.0</data>
+      <data key="d7">萧宁对萧薰儿表现出明显的爱慕之情，增加了故事中的情感冲突。</data>
+      <data key="d8">情感,爱慕</data>
+      <data key="d9">chunk-223dc4e58bd735300057dd7aeacdbef7</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274412</data>
+    </edge>
+    <edge source="斗之气" target="魔石碑">
+      <data key="d6">9.0</data>
+      <data key="d7">魔石碑用于检测斗之气级别，揭示了萧薰儿的强大实力。</data>
+      <data key="d8">实力,测试</data>
+      <data key="d9">chunk-aa079703239977b5ad6462205bd933b5</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274393</data>
+    </edge>
+    <edge source="斗之气" target="透明苍老人影">
+      <data key="d6">7.0</data>
+      <data key="d7">透明苍老人影吸收了萧炎的斗之气，助其维持生命。</data>
+      <data key="d8">供奉关系,生存</data>
+      <data key="d9">chunk-8bd4d5c018c7ef7d369092d47f6116be</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274400</data>
+    </edge>
+    <edge source="斗之气" target="老者">
+      <data key="d6">6.0</data>
+      <data key="d7">老者提到斗之气的消失和修炼的重要性，影响萧炎的决策。</data>
+      <data key="d8">修炼指导,能力影响</data>
+      <data key="d9">chunk-a1299d13dcd08a019d98a18fde7b8cea</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274400</data>
+    </edge>
+    <edge source="斗之气" target="药老">
+      <data key="d6">8.0</data>
+      <data key="d7">药老指导萧炎如何修炼斗之气，以强化他的修炼基础。</data>
+      <data key="d8">教学指导</data>
+      <data key="d9">chunk-fdf81810e72560519b15858e6c7f325b</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274405</data>
+    </edge>
+    <edge source="斗之气" target="斗者">
+      <data key="d6">7.0</data>
+      <data key="d7">成为斗者后，斗气的修炼速度会显著加快。</data>
+      <data key="d8">角色发展、修炼效率</data>
+      <data key="d9">chunk-dc08944dd584ff37b1952784aaa63e8c</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="斗者" target="斗技">
+      <data key="d6">9.0</data>
+      <data key="d7">斗者需要掌握斗技，才能在斗气大陆生存与发展。</data>
+      <data key="d8">技能要求,生存</data>
+      <data key="d9">chunk-ecbfa0ab63fe38aff3beca5ad18464f9</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274393</data>
+    </edge>
+    <edge source="斗气大陆" target="斗气功法">
+      <data key="d6">7.0</data>
+      <data key="d7">斗气功法在斗气大陆的修炼中扮演着关键角色，影响个人成就。</data>
+      <data key="d8">修炼关系,重要性</data>
+      <data key="d9">chunk-895e8845fedd4eaff2c8ee053254d568</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274393</data>
+    </edge>
+    <edge source="斗气大陆" target="蛮族">
+      <data key="d6">6.0</data>
+      <data key="d7">蛮族在斗气大陆北部被认为是力大无穷的种族，体现了大陆的多样性。</data>
+      <data key="d8">地域多样性,种族特性</data>
+      <data key="d9">chunk-ecbfa0ab63fe38aff3beca5ad18464f9</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274393</data>
+    </edge>
+    <edge source="斗气大陆" target="黑暗种族">
+      <data key="d6">7.0</data>
+      <data key="d7">黑暗种族以其阴狠特性，构成斗气大陆的一部分，对其他种族造成威胁。</data>
+      <data key="d8">地域特征,种族威胁</data>
+      <data key="d9">chunk-ecbfa0ab63fe38aff3beca5ad18464f9</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274393</data>
+    </edge>
+    <edge source="斗气大陆" target="聚气散">
+      <data key="d6">8.0</data>
+      <data key="d7">聚气散在斗气大陆上的重要性显著，备受追捧。"修炼助力</data>
+      <data key="d8">8</data>
+      <data key="d9">chunk-c436dc32b77de4d846fb79cbafb3f0e6</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274400</data>
+    </edge>
+    <edge source="斗气大陆" target="木系魔核">
+      <data key="d6">9.0</data>
+      <data key="d7">木系魔核是一种在斗气大陆备受追捧的重要材料。</data>
+      <data key="d8">材料,重要性</data>
+      <data key="d9">chunk-4e1834747640fb2093bcca55cb52f34c</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="斗气" target="斗气功法">
+      <data key="d6">10.0</data>
+      <data key="d7">斗气是斗气大陆的重要修炼元素，而斗气功法是其具体的修炼方法。</data>
+      <data key="d8">修炼相关,重要性</data>
+      <data key="d9">chunk-895e8845fedd4eaff2c8ee053254d568</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274393</data>
+    </edge>
+    <edge source="斗气" target="萧玉">
+      <data key="d6">6.0</data>
+      <data key="d7">萧玉在战斗中使用斗气来增强攻击力。</data>
+      <data key="d8">力量体系</data>
+      <data key="d9">chunk-7866becd2b1e801191b1587797c378d3</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="斗技" target="黑铁片">
+      <data key="d6">8.0</data>
+      <data key="d7">黑铁片中包含的信息与一种斗技相关，暗示其重要性。</data>
+      <data key="d8">信息,斗技</data>
+      <data key="d9">chunk-192eedc046d7aaf2d5c5a90cb74f051b</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="斗技" target="萧家">
+      <data key="d6">8.0</data>
+      <data key="d7">萧家重视斗技的修炼，是家族竞争的一部分。</data>
+      <data key="d8">修炼,家族竞争</data>
+      <data key="d9">chunk-998a7d540a65548141f1f626a306aba4</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="萧战" target="萧家">
+      <data key="d6">9.0</data>
+      <data key="d7">萧战是萧家的族长，负责家族的事务和管理.</data>
+      <data key="d8">家族地位,领导关系</data>
+      <data key="d9">chunk-f80e7a7eae53dbf97604fee08283dd67</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274397</data>
+    </edge>
+    <edge source="萧战" target="五星斗师">
+      <data key="d6">7.0</data>
+      <data key="d7">萧战是五星斗师，体现了他在斗气修炼上的成就和影响力.</data>
+      <data key="d8">实力地位,家族权威</data>
+      <data key="d9">chunk-f80e7a7eae53dbf97604fee08283dd67</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274397</data>
+    </edge>
+    <edge source="萧战" target="贵客">
+      <data key="d6">6.0</data>
+      <data key="d7">萧战提及的贵客引起了萧炎的好奇，表明他们的重要性。</data>
+      <data key="d8">涉及重要人物</data>
+      <data key="d9">chunk-5733dbcfa3f5ed09b642d89af52055ef</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274397</data>
+    </edge>
+    <edge source="萧战" target="云岚宗">
+      <data key="d6">21.0</data>
+      <data key="d7">萧战与云岚宗的成员进行热切交谈，显示出交流的重要性。&lt;SEP&gt;萧战对于云岚宗宗主的要求感到压力和愤怒。&lt;SEP&gt;萧战承认云岚宗的重要性，并认可纳兰嫣然的角色。"高地位</data>
+      <data key="d8">7,交流,关系紧张,压力,权力互动</data>
+      <data key="d9">chunk-ee08af84f5067fca3c7fa99f90db20ec&lt;SEP&gt;chunk-c436dc32b77de4d846fb79cbafb3f0e6&lt;SEP&gt;chunk-5e3fa3165564658305d0f01138d179c6</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274397</data>
+    </edge>
+    <edge source="萧战" target="黄袍老者">
+      <data key="d6">6.0</data>
+      <data key="d7">黄袍老者与萧战进行重要对话，涉及家族事务与权力动态。</data>
+      <data key="d8">对话,权力交流</data>
+      <data key="d9">chunk-5e3fa3165564658305d0f01138d179c6</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274397</data>
+    </edge>
+    <edge source="萧战" target="纳兰嫣然">
+      <data key="d6">20.0</data>
+      <data key="d7">纳兰嫣然被萧战称赞，明确她的地位与未来潜力.&lt;SEP&gt;萧战对纳兰嫣然保护，因其婚约问题而感到愤怒。&lt;SEP&gt;萧战对纳兰嫣然抱有好意，并记得她的背景。</data>
+      <data key="d8">亲属关系、赞赏,保护,尊重与期望,愤怒情绪</data>
+      <data key="d9">chunk-ee08af84f5067fca3c7fa99f90db20ec&lt;SEP&gt;chunk-9b3e9ca77304d9c6ea1fb06404c38234&lt;SEP&gt;chunk-c436dc32b77de4d846fb79cbafb3f0e6</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274400</data>
+    </edge>
+    <edge source="萧战" target="葛叶">
+      <data key="d6">22.0</data>
+      <data key="d7">葛叶代表云岚宗请求萧战解除纳兰嫣然的婚约.&lt;SEP&gt;葛叶向萧战提出请求，表现出礼貌和尊重。&lt;SEP&gt;葛叶尊重萧战，并以贺礼的形式缓解尴尬。</data>
+      <data key="d8">婚约解除请求,敬意与礼物,请求、尊重</data>
+      <data key="d9">chunk-ee08af84f5067fca3c7fa99f90db20ec&lt;SEP&gt;chunk-9b3e9ca77304d9c6ea1fb06404c38234&lt;SEP&gt;chunk-c436dc32b77de4d846fb79cbafb3f0e6</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274400</data>
+    </edge>
+    <edge source="萧战" target="筑基灵液">
+      <data key="d6">23.0</data>
+      <data key="d7">萧战为萧炎购买筑基灵液，以支持他的修炼。&lt;SEP&gt;萧战对筑基灵液的拍卖表现出积极的参与。&lt;SEP&gt;萧战对筑基灵液的竞标表现出强烈的购买意图。</data>
+      <data key="d8">支持与赋能,父子关系、积极参与,竞标意图</data>
+      <data key="d9">chunk-d1c1d6346efae058b7ecd4e647e0d6ca&lt;SEP&gt;chunk-2cebe27e055f7e2525f166fc0f989b8b&lt;SEP&gt;chunk-b27def825216bb59ff93eed34c3d5954</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="萧战" target="加列毕">
+      <data key="d6">22.0</data>
+      <data key="d7">加列毕对萧战的出价表示关注，并考虑自己的出价。&lt;SEP&gt;萧战与加列毕在拍卖中直接竞争，推动价格上升。&lt;SEP&gt;萧战和加列毕在拍卖中存在竞争关系。</data>
+      <data key="d8">出价行为,直接竞争,竞争关系</data>
+      <data key="d9">chunk-f5d01de62dca89ac9bbe33b65e64c994&lt;SEP&gt;chunk-b27def825216bb59ff93eed34c3d5954&lt;SEP&gt;chunk-122ffeb1ab6e0f60cf925c5876621f09</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="萧战" target="雅妃">
+      <data key="d6">13.0</data>
+      <data key="d7">萧战与雅妃之间有客气的互动，显示彼此的礼仪。&lt;SEP&gt;雅妃确认萧战是筑基灵液的买主，结束了竞标。</data>
+      <data key="d8">拍卖结果,礼节互动,社交</data>
+      <data key="d9">chunk-b27def825216bb59ff93eed34c3d5954&lt;SEP&gt;chunk-998a7d540a65548141f1f626a306aba4</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="萧战" target="四万金币">
+      <data key="d6">7.0</data>
+      <data key="d7">萧战和长老们因四万金币产生争吵，显示出权力斗争。</data>
+      <data key="d8">财务争议</data>
+      <data key="d9">chunk-aee8a3ad453beffa1023de8811b77ada</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="萧战" target="训练场">
+      <data key="d6">9.0</data>
+      <data key="d7">萧战在训练场上向族人宣布测试的重要性。</data>
+      <data key="d8">领导职责</data>
+      <data key="d9">chunk-d54618aa9f6b9d83d46914a2d986268d</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="萧战" target="二长老">
+      <data key="d6">14.0</data>
+      <data key="d7">二长老对萧战在萧炎测试中的表现持怀疑态度。&lt;SEP&gt;萧战因担忧萧炎安全而指责二长老，表示对家族事务的激烈关注。</data>
+      <data key="d8">内斗关系,家庭保护</data>
+      <data key="d9">chunk-d54618aa9f6b9d83d46914a2d986268d&lt;SEP&gt;chunk-1b0cedce249c27538909da8c6093d709</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="萧战" target="三位长老">
+      <data key="d6">7.0</data>
+      <data key="d7">萧战和三位长老共同见证了萧炎的进步，感到惊讶和震撼。</data>
+      <data key="d8">共同见证</data>
+      <data key="d9">chunk-685b21823f8585b17d77b087211e0a5c</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="萧战" target="萧宁">
+      <data key="d6">7.0</data>
+      <data key="d7">萧战认为萧宁有较强的性能在斗技比试中胜出。</data>
+      <data key="d8">支持与期望</data>
+      <data key="d9">chunk-ad83da03b7fbbfb93d743f93dbdc236f</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="萧战" target="斗气阁">
+      <data key="d6">8.0</data>
+      <data key="d7">萧战主导斗气阁中的活动并向参与者讲解规则。</data>
+      <data key="d8">管理角色,规则指引</data>
+      <data key="d9">chunk-29fbd54579d5c63021028f860f5ef333</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="萧战" target="薰儿">
+      <data key="d6">15.0</data>
+      <data key="d7">萧战对薰儿的潜力表示认可，指出她是精纯的火之体。&lt;SEP&gt;萧战对薰儿表达了欣赏之情，认为她的背景更为强大.</data>
+      <data key="d8">情感,欣赏,潜力认可,角色评价</data>
+      <data key="d9">chunk-29fbd54579d5c63021028f860f5ef333&lt;SEP&gt;chunk-fcbb8b69d7ad6f7f9c62fb1d40b504a2</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="萧战" target="水晶球">
+      <data key="d6">6.0</data>
+      <data key="d7">水晶球的破碎引发了萧战的反思和自嘲.</data>
+      <data key="d8">自嘲,象征变化</data>
+      <data key="d9">chunk-fcbb8b69d7ad6f7f9c62fb1d40b504a2</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="黑色戒指" target="筑基灵液">
+      <data key="d6">8.0</data>
+      <data key="d7">黑色戒指投射灵液帮助萧炎获得能量以冲击第七段.</data>
+      <data key="d8">物品功能,能量支持</data>
+      <data key="d9">chunk-71833742c3e7cd8ba19d4faae0ccb6a4</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="萧家" target="云岚宗">
+      <data key="d6">7.0</data>
+      <data key="d7">萧家与云岚宗之间存在竞争与敌对关系。</data>
+      <data key="d8">家族竞争</data>
+      <data key="d9">chunk-2029690f74ecd0f2ecc13fb5ae9ecbc0</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274400</data>
+    </edge>
+    <edge source="萧家" target="纳兰嫣然">
+      <data key="d6">8.0</data>
+      <data key="d7">萧家与纳兰嫣然之间有过往的婚约关系，影响到两家族的互动。</data>
+      <data key="d8">婚约关系</data>
+      <data key="d9">chunk-2029690f74ecd0f2ecc13fb5ae9ecbc0</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274400</data>
+    </edge>
+    <edge source="萧家" target="坊市">
+      <data key="d6">7.0</data>
+      <data key="d7">萧家负责管理坊市的秩序与安全。</data>
+      <data key="d8">监督,管理</data>
+      <data key="d9">chunk-4e1834747640fb2093bcca55cb52f34c</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="萧家" target="加列家族">
+      <data key="d6">6.0</data>
+      <data key="d7">加列家族与萧家在乌坦城是重要的家族竞争关系。</data>
+      <data key="d8">家族关系,竞争</data>
+      <data key="d9">chunk-6127b0767d4b3024c42a58e5b6fd2a5e</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="萧家" target="加列奥">
+      <data key="d6">7.0</data>
+      <data key="d7">加列奥对萧家表露出轻蔑态度，并尝试挑衅萧炎。</data>
+      <data key="d8">挑衅,轻蔑</data>
+      <data key="d9">chunk-977cae48a0f89a9b64e73cc249349dfb</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="萧家" target="薰儿">
+      <data key="d6">7.0</data>
+      <data key="d7">萧家高层对薰儿成为一星斗者的表现充满好奇与震惊。</data>
+      <data key="d8">家族荣耀</data>
+      <data key="d9">chunk-b25f15e48074c13f0e7ae9a8dc322a3d</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="萧家" target="萧克">
+      <data key="d6">6.0</data>
+      <data key="d7">萧克是萧家的一员，并试图证明自己在家族中的地位.</data>
+      <data key="d8">家族关系,抱负</data>
+      <data key="d9">chunk-65c856afe8a55bfb85a0529eebcb6e50</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="萧家" target="成人仪式">
+      <data key="d6">9.0</data>
+      <data key="d7">萧家高度重视成人仪式，代表家族文化与传统。</data>
+      <data key="d8">传统重视</data>
+      <data key="d9">chunk-d294ec2837ccf10ff79ebf54726f3152</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="萧家" target="雅妃">
+      <data key="d6">7.0</data>
+      <data key="d7">雅妃因与萧家的良好关系而参加成人仪式。</data>
+      <data key="d8">participation,social connection</data>
+      <data key="d9">chunk-88a1ddb28b8766f87583cd3fca9ce749</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="萧家" target="斗气阁">
+      <data key="d6">9.0</data>
+      <data key="d7">斗气阁是萧家最重要的所在，展示了家族的传统和地位的保障。</data>
+      <data key="d8">家族传统</data>
+      <data key="d9">chunk-62d5ed7153276d7b7031113c88d438b1</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="三少爷" target="青衫老者">
+      <data key="d6">6.0</data>
+      <data key="d7">青衫老者以关怀的方式陪伴三少爷，显示出他在萧炎生活中的支持和帮助。</data>
+      <data key="d8">照顾关系</data>
+      <data key="d9">chunk-5733dbcfa3f5ed09b642d89af52055ef</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274397</data>
+    </edge>
+    <edge source="老者" target="炼药师">
+      <data key="d6">7.0</data>
+      <data key="d7">老者提到萧炎有机会成为炼药师，这在对话中显得至关重要。</data>
+      <data key="d8">指导,职业发展</data>
+      <data key="d9">chunk-a1299d13dcd08a019d98a18fde7b8cea</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274400</data>
+    </edge>
+    <edge source="青年" target="少女">
+      <data key="d6">7.0</data>
+      <data key="d7">青年对少女表现出浓厚兴趣，显示了年轻人之间的吸引。</data>
+      <data key="d8">吸引力,相互关注</data>
+      <data key="d9">chunk-6c8d49eca3e42f4b03ee49fe63514cc6</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274397</data>
+    </edge>
+    <edge source="云岚宗" target="纳兰嫣然">
+      <data key="d6">40.0</data>
+      <data key="d7">云岚宗对纳兰嫣然进行重点培养，以期让其成为未来宗主。&lt;SEP&gt;纳兰嫣然依赖云岚宗的支持，表现出其身份背景。&lt;SEP&gt;纳兰嫣然声称以云岚宗的名义强迫萧炎解除婚约。&lt;SEP&gt;纳兰嫣然是云岚宗宗主云韵的弟子，显示出其在宗门中的重要地位。&lt;SEP&gt;纳兰嫣然期待三年后在云岚宗与萧炎的再次对决。</data>
+      <data key="d8">弟子关系,期待,未来继承人培养,未来计划,权力影响,身份依赖</data>
+      <data key="d9">chunk-ce43ec547c6b3b0ac10afb7520f17e06&lt;SEP&gt;chunk-ee08af84f5067fca3c7fa99f90db20ec&lt;SEP&gt;chunk-2029690f74ecd0f2ecc13fb5ae9ecbc0&lt;SEP&gt;chunk-214f75c7448a21f6ca5df650e6f8cd98&lt;SEP&gt;chunk-24e6ba1d5a301503c4a29d0518150a04</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274397</data>
+    </edge>
+    <edge source="云岚宗" target="药老">
+      <data key="d6">6.0</data>
+      <data key="d7">药老认为云岚宗也是尊敬炼药师的庞大势力。</data>
+      <data key="d8">势力尊重</data>
+      <data key="d9">chunk-822e02c1a53c663cff079cf8e57ae19b</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274405</data>
+    </edge>
+    <edge source="加玛帝国" target="古河">
+      <data key="d6">9.0</data>
+      <data key="d7">古河在加玛帝国中享有巨大影响力，是顶尖炼药师。</data>
+      <data key="d8">名声、权力</data>
+      <data key="d9">chunk-5d2cde4cdd02799f99e4c6091c92dd7a</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274400</data>
+    </edge>
+    <edge source="加玛帝国" target="丹王古河">
+      <data key="d6">9.0</data>
+      <data key="d7">丹王古河在加玛帝国的炼药界地位极高。</data>
+      <data key="d8">地位影响</data>
+      <data key="d9">chunk-822e02c1a53c663cff079cf8e57ae19b</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274405</data>
+    </edge>
+    <edge source="加玛帝国" target="斗皇">
+      <data key="d6">7.0</data>
+      <data key="d7">加玛帝国的地位与斗皇级别强者的出现密切相关。</data>
+      <data key="d8">势力,影响</data>
+      <data key="d9">chunk-5249452fc02634a65306233a8ef35c64</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="纳兰嫣然" target="纳兰桀">
+      <data key="d6">9.0</data>
+      <data key="d7">纳兰桀作为孙女的祖父，对纳兰嫣然拥有绝对的话语权，影响其婚事。</data>
+      <data key="d8">家族权威</data>
+      <data key="d9">chunk-2029690f74ecd0f2ecc13fb5ae9ecbc0</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274400</data>
+    </edge>
+    <edge source="纳兰嫣然" target="云韵">
+      <data key="d6">16.0</data>
+      <data key="d7">云韵对纳兰嫣然有很高的期望，希望她能成为宗主。&lt;SEP&gt;纳兰嫣然是云韵的弟子，受其指导与影响。</data>
+      <data key="d8">师徒关系、教导,期望,未来领导</data>
+      <data key="d9">chunk-ee08af84f5067fca3c7fa99f90db20ec&lt;SEP&gt;chunk-9b3e9ca77304d9c6ea1fb06404c38234</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274400</data>
+    </edge>
+    <edge source="纳兰嫣然" target="聚气散">
+      <data key="d6">6.0</data>
+      <data key="d7">纳兰嫣然提出用聚气散作为补偿来解除与萧炎的婚约。</data>
+      <data key="d8">补偿,诱惑条件</data>
+      <data key="d9">chunk-7ba8fe565ae410898375e813d446137a</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274400</data>
+    </edge>
+    <edge source="葛叶" target="古河">
+      <data key="d6">8.0</data>
+      <data key="d7">葛叶提到古河的名声，以此提升聚气散的价值。</data>
+      <data key="d8">丹药来源、影响力</data>
+      <data key="d9">chunk-5d2cde4cdd02799f99e4c6091c92dd7a</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274400</data>
+    </edge>
+    <edge source="聚气散" target="炼药师">
+      <data key="d6">9.0</data>
+      <data key="d7">聚气散的制造需要优秀的炼药师，体现炼药师的专业与稀缺性。"药物与职业</data>
+      <data key="d8">9</data>
+      <data key="d9">chunk-c436dc32b77de4d846fb79cbafb3f0e6</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274400</data>
+    </edge>
+    <edge source="聚气散" target="古玉盒子">
+      <data key="d6">7.0</data>
+      <data key="d7">古玉盒子中装有聚气散，散发异香引起大家的注意。</data>
+      <data key="d8">特殊药物</data>
+      <data key="d9">chunk-c436dc32b77de4d846fb79cbafb3f0e6</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274400</data>
+    </edge>
+    <edge source="聚气散" target="古河">
+      <data key="d6">9.0</data>
+      <data key="d7">古河炼制的聚气散对家族极具价值。</data>
+      <data key="d8">丹药价值、炼药高手</data>
+      <data key="d9">chunk-5d2cde4cdd02799f99e4c6091c92dd7a</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274400</data>
+    </edge>
+    <edge source="黑色古朴戒指" target="透明苍老人影">
+      <data key="d6">7.0</data>
+      <data key="d7">透明苍老人影隐藏在黑色古朴戒指中，依附于戒指存在。</data>
+      <data key="d8">依附关系,物品作用</data>
+      <data key="d9">chunk-8bd4d5c018c7ef7d369092d47f6116be</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274400</data>
+    </edge>
+    <edge source="炼药师" target="谷尼">
+      <data key="d6">6.0</data>
+      <data key="d7">谷尼指明了炼药师的潜在危险性和重要性。</data>
+      <data key="d8">危险性,身份</data>
+      <data key="d9">chunk-c0a6233baeede11a07d259411ea6d7d3</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="药老" target="丹王古河">
+      <data key="d6">7.0</data>
+      <data key="d7">药老对丹王古河的看法轻蔑，认为他并不如表面上那样强大。</data>
+      <data key="d8">态度评价</data>
+      <data key="d9">chunk-822e02c1a53c663cff079cf8e57ae19b</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274405</data>
+    </edge>
+    <edge source="药老" target="黄阶低级功法">
+      <data key="d6">9.0</data>
+      <data key="d7">药老提及的黄阶低级功法具有独特的进化特性。</data>
+      <data key="d8">功法传授</data>
+      <data key="d9">chunk-fdf81810e72560519b15858e6c7f325b</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274405</data>
+    </edge>
+    <edge source="药老" target="吸掌">
+      <data key="d6">7.0</data>
+      <data key="d7">药老向萧炎介绍吸掌斗技的重要性和效果。</data>
+      <data key="d8">传授,指导</data>
+      <data key="d9">chunk-192eedc046d7aaf2d5c5a90cb74f051b</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="药老" target="紫叶兰草">
+      <data key="d6">7.0</data>
+      <data key="d7">药老使用紫叶兰草来进行炼药，制作出能量液体。</data>
+      <data key="d8">炼药过程</data>
+      <data key="d9">chunk-bbbc024cfb92170fa9cde255a2ffb7c4</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="药老" target="魔晶">
+      <data key="d6">9.0</data>
+      <data key="d7">药老将魔晶煅烧成药液，提取其中的能量。</data>
+      <data key="d8">材料转化</data>
+      <data key="d9">chunk-bbbc024cfb92170fa9cde255a2ffb7c4</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="药老" target="火焰">
+      <data key="d6">8.0</data>
+      <data key="d7">药老通过火焰炼化材料，提升药液的质量。</data>
+      <data key="d8">炼制过程</data>
+      <data key="d9">chunk-bbbc024cfb92170fa9cde255a2ffb7c4</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="药老" target="灵液">
+      <data key="d6">8.0</data>
+      <data key="d7">药老炼制灵液用于帮助萧炎修炼斗之气。</data>
+      <data key="d8">药水使用、修炼辅助</data>
+      <data key="d9">chunk-dc08944dd584ff37b1952784aaa63e8c</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="药老" target="八极崩">
+      <data key="d6">8.0</data>
+      <data key="d7">药老传授八极崩给萧炎，强调其攻防特性。</data>
+      <data key="d8">斗技传授</data>
+      <data key="d9">chunk-011ad0b91e2b0cd0e50353097a72ef50</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274414</data>
+    </edge>
+    <edge source="药老" target="筑基灵液">
+      <data key="d6">16.0</data>
+      <data key="d7">药老强调筑基灵液的配制需要大量的知识和经验，并自信其能力。&lt;SEP&gt;药老询问筑基灵液的特性，表明了他对其效果的重视。</data>
+      <data key="d8">专业关系,经验传授,药水配制,药物讨论</data>
+      <data key="d9">chunk-80593513554fcfdef9546dedffbd9e69&lt;SEP&gt;chunk-ecb3660f8cbf17bc85b8ed91fce5f4d5</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274417</data>
+    </edge>
+    <edge source="药老" target="谷尼">
+      <data key="d6">6.0</data>
+      <data key="d7">谷尼对萧炎的师傅药老进行评估，显示对炼药师的尊重。</data>
+      <data key="d8">尊重,身份评估</data>
+      <data key="d9">chunk-8fddbe144d700050721251fca587d955</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274417</data>
+    </edge>
+    <edge source="药老" target="雅妃">
+      <data key="d6">7.0</data>
+      <data key="d7">雅妃向药老询问身份，显示出对他的兴趣。</data>
+      <data key="d8">身份询问</data>
+      <data key="d9">chunk-122ffeb1ab6e0f60cf925c5876621f09</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="药老" target="第七段斗之气">
+      <data key="d6">6.0</data>
+      <data key="d7">药老对第七段斗之气进行指导，影响萧炎的修炼成果。</data>
+      <data key="d8">修炼指导</data>
+      <data key="d9">chunk-e006674fd44e73a3d672c0740a510578</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="药老" target="薰儿">
+      <data key="d6">6.0</data>
+      <data key="d7">薰儿提到药老，表示他对萧炎的影响。</data>
+      <data key="d8">影响,教导</data>
+      <data key="d9">chunk-794e082dade993bcaf4f5cb02cf3d6ee</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="薰儿" target="金色小匣子">
+      <data key="d6">6.0</data>
+      <data key="d7">薰儿对萧炎表示欣赏他的家当，显示出对他的关注与兴趣。</data>
+      <data key="d8">关注、兴趣</data>
+      <data key="d9">chunk-1b3120c35b1ff11cdce1bccc22af33ab</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="薰儿" target="加列奥">
+      <data key="d6">21.0</data>
+      <data key="d7">加列奥对薰儿表现出明显的爱慕之情，却被薰儿忽视。&lt;SEP&gt;加列奥试图用木灵手链讨好薰儿，但遭到拒绝。&lt;SEP&gt;薰儿对加列奥的态度冷淡，表示他对她的吸引力不足。</data>
+      <data key="d8">关系冲突,对抗与疏远,拒绝,爱慕,追求</data>
+      <data key="d9">chunk-3dbf363878b73e4de76b15b3275a9a19&lt;SEP&gt;chunk-6127b0767d4b3024c42a58e5b6fd2a5e&lt;SEP&gt;chunk-834e631785d78eda90238461974bfa34</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="薰儿" target="魔晶">
+      <data key="d6">6.0</data>
+      <data key="d7">薰儿跟随萧炎在坊市中寻找魔晶，体现她的支持和参与。</data>
+      <data key="d8">寻找,支持</data>
+      <data key="d9">chunk-3dbf363878b73e4de76b15b3275a9a19</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="薰儿" target="摊贩">
+      <data key="d6">6.0</data>
+      <data key="d7">薰儿与摊贩的互动显示她对购买物品的兴趣。</data>
+      <data key="d8">交易,顾客</data>
+      <data key="d9">chunk-3dbf363878b73e4de76b15b3275a9a19</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="薰儿" target="手链">
+      <data key="d6">7.0</data>
+      <data key="d7">薰儿佩戴手链，展现出对萧炎的感激之情。</data>
+      <data key="d8">接受礼物</data>
+      <data key="d9">chunk-834e631785d78eda90238461974bfa34</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="薰儿" target="萧宁">
+      <data key="d6">38.0</data>
+      <data key="d7">萧宁与薰儿在斗技堂的比赛中存在直接竞争关系。&lt;SEP&gt;萧宁与薰儿在训练场上进行了一场比试，最终被击败。&lt;SEP&gt;萧宁的挑战意在吸引薰儿的注意，表现出对她的情感关注。&lt;SEP&gt;萧宁视薰儿为自己的内定媳妇，心中嫉妒萧炎的亲昵举动。&lt;SEP&gt;萧宁认为薰儿与萧炎不般配，并以此威胁萧炎。</data>
+      <data key="d8">不般配,威胁,情感关系,爱情竞争,竞争关系,胜负</data>
+      <data key="d9">chunk-ed421bb9d3015c957496a699068b3083&lt;SEP&gt;chunk-b68fe7a0af905302b8e52bd5e9e2f82e&lt;SEP&gt;chunk-91ffcd09ddb4b23c078d7a7410ecf2a1&lt;SEP&gt;chunk-f76ba95dc65e660409387d331348eac3&lt;SEP&gt;chunk-aeb9bc2067ac0b18290761a863105192</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="薰儿" target="训练场">
+      <data key="d6">7.0</data>
+      <data key="d7">训练场是薰儿展现实力和技能的地方。</data>
+      <data key="d8">比试场地,表演</data>
+      <data key="d9">chunk-ed421bb9d3015c957496a699068b3083</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="薰儿" target="筑基灵液">
+      <data key="d6">9.0</data>
+      <data key="d7">薰儿主动承担筑基灵液的费用以帮助萧炎。</data>
+      <data key="d8">金钱支持</data>
+      <data key="d9">chunk-aee8a3ad453beffa1023de8811b77ada</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="薰儿" target="萧叔叔">
+      <data key="d6">7.0</data>
+      <data key="d7">薰儿为萧叔叔解决了金钱问题，表现出对家庭的关心。</data>
+      <data key="d8">经济支持</data>
+      <data key="d9">chunk-35581a8288c58f57133ce444419dab3b</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="薰儿" target="黑石碑">
+      <data key="d6">8.0</data>
+      <data key="d7">薰儿通过黑石碑验证了自己成为一星斗者的成就。</data>
+      <data key="d8">成就验证</data>
+      <data key="d9">chunk-b25f15e48074c13f0e7ae9a8dc322a3d</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="薰儿" target="小水谭">
+      <data key="d6">7.0</data>
+      <data key="d7">薰儿在小水谭附近展示自己的美丽，引起周围男性的惊艳。</data>
+      <data key="d8">美丽展示</data>
+      <data key="d9">chunk-c30b6d6abec0005f395d401603adf240</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="薰儿" target="萧玉">
+      <data key="d6">6.0</data>
+      <data key="d7">萧玉对薰儿表示警告，希望她远离萧炎。</data>
+      <data key="d8">保护,警告</data>
+      <data key="d9">chunk-c2d61cb55f8091519a2b670689a7f178</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="薰儿" target="水晶球">
+      <data key="d6">8.0</data>
+      <data key="d7">薰儿测试水晶球并显示出她的火属性。</data>
+      <data key="d8">属性测试,角色发展</data>
+      <data key="d9">chunk-29fbd54579d5c63021028f860f5ef333</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="薰儿" target="黄阶高级功法">
+      <data key="d6">7.0</data>
+      <data key="d7">薰儿向萧炎介绍了该功法，期待其对他的帮助。</data>
+      <data key="d8">功法推荐,发展</data>
+      <data key="d9">chunk-065f9030874913c56b64cc011d5cd2af</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="坊市" target="城市">
+      <data key="d6">6.0</data>
+      <data key="d7">城市中的坊市由多个家族控制并管理。</data>
+      <data key="d8">区域,管理</data>
+      <data key="d9">chunk-4e1834747640fb2093bcca55cb52f34c</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="坊市" target="佩恩">
+      <data key="d6">6.0</data>
+      <data key="d7">佩恩负责保护坊市的安全，并监督其秩序。</data>
+      <data key="d8">安全管理,监督</data>
+      <data key="d9">chunk-ac4f3a47d82253a4d6bfeb3aa63432ca</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="佣兵团" target="魔核">
+      <data key="d6">8.0</data>
+      <data key="d7">佣兵团以猎杀魔兽获取魔核为生。</data>
+      <data key="d8">猎杀,获取</data>
+      <data key="d9">chunk-4e1834747640fb2093bcca55cb52f34c</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="加列家族" target="拍卖场">
+      <data key="d6">7.0</data>
+      <data key="d7">加列家族的族长出现在拍卖场，表明其重要性。</data>
+      <data key="d8">家族参与、拍卖重视</data>
+      <data key="d9">chunk-e3f41bb63e8c46647a93f6859c48c0a5</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="加列家族" target="筑基灵液">
+      <data key="d6">7.0</data>
+      <data key="d7">加列家族参与对筑基灵液的竞拍，展示其经济实力。</data>
+      <data key="d8">家庭竞争、经济实力</data>
+      <data key="d9">chunk-d1c1d6346efae058b7ecd4e647e0d6ca</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="纳兰家族" target="特米尔家族">
+      <data key="d6">8.0</data>
+      <data key="d7">特米尔家族和纳兰家族同为加玛三巨头，共同在商界和军界有显著影响。</data>
+      <data key="d8">家族竞争,权力联盟</data>
+      <data key="d9">chunk-ecb3660f8cbf17bc85b8ed91fce5f4d5</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274417</data>
+    </edge>
+    <edge source="吞木狐" target="尖牙佣兵团">
+      <data key="d6">18.0</data>
+      <data key="d7">尖牙佣兵团为了获取吞木狐的魔晶进行猎杀。&lt;SEP&gt;尖牙佣兵团捕猎吞木狐以获取其魔晶。</data>
+      <data key="d8">佣兵,猎杀,猎杀行动</data>
+      <data key="d9">chunk-192eedc046d7aaf2d5c5a90cb74f051b&lt;SEP&gt;chunk-463ecd092d16c3170efcba2f65334abe</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="吞木狐" target="佣兵男子">
+      <data key="d6">8.0</data>
+      <data key="d7">佣兵男子介绍吞木狐的魔晶，说明其猎捕过程与价值。</data>
+      <data key="d8">猎物与价值</data>
+      <data key="d9">chunk-463ecd092d16c3170efcba2f65334abe</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="吸掌" target="花瓶">
+      <data key="d6">10.0</data>
+      <data key="d7">萧炎的吸掌成功地将花瓶吸引并破碎。</data>
+      <data key="d8">斗技效果、物理互动</data>
+      <data key="d9">chunk-e57b05ec2028b6c7c15a316bc5c5940a</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="青色水液" target="筑基灵液">
+      <data key="d6">9.0</data>
+      <data key="d7">筑基灵液使青色水液的能量浓度提升，助力萧炎突破.</data>
+      <data key="d8">突破支持,能量增强</data>
+      <data key="d9">chunk-71833742c3e7cd8ba19d4faae0ccb6a4</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="灵液" target="谷尼">
+      <data key="d6">9.0</data>
+      <data key="d7">谷尼鉴别萧炎所带灵液的级别，确认其为二品丹药。</data>
+      <data key="d8">丹药级别,鉴别</data>
+      <data key="d9">chunk-8fddbe144d700050721251fca587d955</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274417</data>
+    </edge>
+    <edge source="斗技堂" target="萧宁">
+      <data key="d6">14.0</data>
+      <data key="d7">萧宁在斗技堂中寻求机会来挑战萧炎。&lt;SEP&gt;萧宁在斗技堂中展示斗之气，引发观众的关注和讨论。</data>
+      <data key="d8">家族荣耀,挑战,竞争</data>
+      <data key="d9">chunk-f76ba95dc65e660409387d331348eac3&lt;SEP&gt;chunk-aeb9bc2067ac0b18290761a863105192</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274408</data>
+    </edge>
+    <edge source="萧宁" target="萧玉">
+      <data key="d6">21.0</data>
+      <data key="d7">萧玉对萧炎的快速提升感到震惊，并与萧宁讨论。&lt;SEP&gt;萧玉担心萧宁在挑战中受伤，并试图劝阻他。&lt;SEP&gt;萧玉询问萧宁关于萧炎的能力，显示出对兄弟的关心。</data>
+      <data key="d8">兄妹关系,关心,家族关系,讨论,震惊</data>
+      <data key="d9">chunk-91ffcd09ddb4b23c078d7a7410ecf2a1&lt;SEP&gt;chunk-96b791b3d90a3f1df5b348173dc3cd96&lt;SEP&gt;chunk-998a7d540a65548141f1f626a306aba4</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="萧宁" target="二长老">
+      <data key="d6">15.0</data>
+      <data key="d7">二长老对萧宁因违规使用丹药进行惩罚。&lt;SEP&gt;二长老对萧宁的挑战表示无奈和担忧。</data>
+      <data key="d8">惩罚关系,担忧,监护</data>
+      <data key="d9">chunk-13e59f0be98715fe288ea4ba0b74cd29&lt;SEP&gt;chunk-91ffcd09ddb4b23c078d7a7410ecf2a1</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="萧宁" target="裂爪击">
+      <data key="d6">8.0</data>
+      <data key="d7">萧宁使用裂爪击攻击萧炎，展现其斗技实力。</data>
+      <data key="d8">技能运用</data>
+      <data key="d9">chunk-ad83da03b7fbbfb93d743f93dbdc236f</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="萧宁" target="铁山拳">
+      <data key="d6">8.0</data>
+      <data key="d7">萧宁使用铁山拳企图攻击萧炎，展现其斗技实力。</data>
+      <data key="d8">攻击,斗技展示</data>
+      <data key="d9">chunk-a006f8a59bc42b6a28f27eaba7ea6c59</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="萧宁" target="增气散">
+      <data key="d6">8.0</data>
+      <data key="d7">萧宁服用增气散后斗之气暴增，助长了他的攻击力量。</data>
+      <data key="d8">能力提升</data>
+      <data key="d9">chunk-1b0cedce249c27538909da8c6093d709</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="萧宁" target="雅妃">
+      <data key="d6">6.0</data>
+      <data key="d7">雅妃对萧宁实力的提升表示惊讶。"&lt;|"惊讶,观察</data>
+      <data key="d8">6</data>
+      <data key="d9">chunk-129e1687df23c27a0a7492071e3f9005</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="筑基灵液" target="雅妃">
+      <data key="d6">8.0</data>
+      <data key="d7">雅妃展示筑基灵液，并吸引参与拍卖者的兴趣。</data>
+      <data key="d8">拍卖展示、吸引兴趣</data>
+      <data key="d9">chunk-d1c1d6346efae058b7ecd4e647e0d6ca</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="筑基灵液" target="谷尼大师">
+      <data key="d6">9.0</data>
+      <data key="d7">谷尼大师鉴定筑基灵液的品质，提高了其可信度。</data>
+      <data key="d8">鉴定、可信度</data>
+      <data key="d9">chunk-d1c1d6346efae058b7ecd4e647e0d6ca</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="筑基灵液" target="奥玛帕">
+      <data key="d6">6.0</data>
+      <data key="d7">奥玛帕在看到竞争对手后选择不再竞标筑基灵液。</data>
+      <data key="d8">竞争决定</data>
+      <data key="d9">chunk-b27def825216bb59ff93eed34c3d5954</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="特米尔拍卖场" target="特米尔家族">
+      <data key="d6">9.0</data>
+      <data key="d7">特米尔拍卖场隶属于特米尔家族，显示出其权利背景。</data>
+      <data key="d8">家庭影响力,经济实力</data>
+      <data key="d9">chunk-ecb3660f8cbf17bc85b8ed91fce5f4d5</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274417</data>
+    </edge>
+    <edge source="特米尔家族" target="雅妃">
+      <data key="d6">7.0</data>
+      <data key="d7">雅妃是特米尔家族的成员，并在家族拍卖场工作。</data>
+      <data key="d8">家族成员,工作</data>
+      <data key="d9">chunk-c0a6233baeede11a07d259411ea6d7d3</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="谷尼" target="中年人">
+      <data key="d6">7.0</data>
+      <data key="d7">中年人带谷尼来鉴别灵液，体现其在拍卖场的责任。</data>
+      <data key="d8">协调,角色责任</data>
+      <data key="d9">chunk-8fddbe144d700050721251fca587d955</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274417</data>
+    </edge>
+    <edge source="谷尼" target="神秘炼药师">
+      <data key="d6">7.0</data>
+      <data key="d7">谷尼对一名神秘炼药师的身份表示疑虑，并考虑是否调查。</data>
+      <data key="d8">身份调查、慎重态度</data>
+      <data key="d9">chunk-e3f41bb63e8c46647a93f6859c48c0a5</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274417</data>
+    </edge>
+    <edge source="谷尼" target="雅妃">
+      <data key="d6">14.0</data>
+      <data key="d7">谷尼警告雅妃不要轻易得罪炼药师，说明炼药师的能力和地位。&lt;SEP&gt;雅妃和谷尼存在亲属关系，谷尼对雅妃的行为表示关心.</data>
+      <data key="d8">家庭关系,炼药师,警示</data>
+      <data key="d9">chunk-2cebe27e055f7e2525f166fc0f989b8b&lt;SEP&gt;chunk-c0a6233baeede11a07d259411ea6d7d3</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="中年人" target="白玉瓶">
+      <data key="d6">6.0</data>
+      <data key="d7">中年人小心地递给谷尼白玉瓶，表示对灵液的重视。</data>
+      <data key="d8">递交,重要性</data>
+      <data key="d9">chunk-8fddbe144d700050721251fca587d955</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274417</data>
+    </edge>
+    <edge source="拍卖场" target="雅妃">
+      <data key="d6">8.0</data>
+      <data key="d7">雅妃在拍卖场为参与者解说物品，吸引了众多目光。</data>
+      <data key="d8">吸引氛围、拍卖活动</data>
+      <data key="d9">chunk-e3f41bb63e8c46647a93f6859c48c0a5</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274417</data>
+    </edge>
+    <edge source="雅妃" target="米特尔拍卖场">
+      <data key="d6">9.0</data>
+      <data key="d7">雅妃作为首席拍卖师在米特尔拍卖场中进行解读和表演。</data>
+      <data key="d8">拍卖活动、角色职能</data>
+      <data key="d9">chunk-e3f41bb63e8c46647a93f6859c48c0a5</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="雅妃" target="白玉小瓶">
+      <data key="d6">7.0</data>
+      <data key="d7">雅妃展示白玉小瓶以吸引拍卖者的兴趣。</data>
+      <data key="d8">展示、吸引</data>
+      <data key="d9">chunk-d1c1d6346efae058b7ecd4e647e0d6ca</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="雅妃" target="风卷决">
+      <data key="d6">8.0</data>
+      <data key="d7">雅妃向大家介绍风卷决的来历，鼓励竞标。</data>
+      <data key="d8">拍卖推广</data>
+      <data key="d9">chunk-b27def825216bb59ff93eed34c3d5954</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="雅妃" target="拍卖会">
+      <data key="d6">8.0</data>
+      <data key="d7">雅妃主导拍卖会的进程，引导竞价和吸引参与者的关注。</data>
+      <data key="d8">主导角色,活动引导</data>
+      <data key="d9">chunk-f5d01de62dca89ac9bbe33b65e64c994</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="雅妃" target="加列毕">
+      <data key="d6">6.0</data>
+      <data key="d7">加列毕对雅妃的提问表现出对拍卖的紧张态度。</data>
+      <data key="d8">拍卖紧张</data>
+      <data key="d9">chunk-122ffeb1ab6e0f60cf925c5876621f09</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="雅妃" target="谷尼大师">
+      <data key="d6">6.0</data>
+      <data key="d7">雅妃与谷尼大师有交流，探讨拍卖的相关事务。</data>
+      <data key="d8">专业交流</data>
+      <data key="d9">chunk-122ffeb1ab6e0f60cf925c5876621f09</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="谷尼大师" target="二品丹药">
+      <data key="d6">8.0</data>
+      <data key="d7">谷尼大师确认筑基灵液属于二品丹药，增强其市场价值。</data>
+      <data key="d8">认证、市场价值</data>
+      <data key="d9">chunk-d1c1d6346efae058b7ecd4e647e0d6ca</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="加列毕" target="奥巴帕">
+      <data key="d6">7.0</data>
+      <data key="d7">加列毕与奥巴帕在拍卖中进行激烈的竞价，体现了双方的竞争关系。</data>
+      <data key="d8">竞争,竞价</data>
+      <data key="d9">chunk-f5d01de62dca89ac9bbe33b65e64c994</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="秃顶中年人" target="黄衣老者">
+      <data key="d6">6.0</data>
+      <data key="d7">秃顶中年人与黄衣老者在拍卖中相继出价，展示竞争关系。</data>
+      <data key="d8">相互影响,竞价</data>
+      <data key="d9">chunk-f5d01de62dca89ac9bbe33b65e64c994</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="斗气阁" target="萧玉">
+      <data key="d6">7.0</data>
+      <data key="d7">萧玉希望进入斗气阁以获得更多的斗气功法，显示了她的决心。</data>
+      <data key="d8">个人成长,学习追求</data>
+      <data key="d9">chunk-62d5ed7153276d7b7031113c88d438b1</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="斗气阁" target="黄阶高级功法">
+      <data key="d6">8.0</data>
+      <data key="d7">斗气阁是获取黄阶高级功法的主要场所，强调了其重要性。</data>
+      <data key="d8">修炼场所,重要性</data>
+      <data key="d9">chunk-065f9030874913c56b64cc011d5cd2af</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="黑石碑" target="测验员">
+      <data key="d6">8.0</data>
+      <data key="d7">测验员利用黑石碑来记录和公布选手的斗之力成绩。</data>
+      <data key="d8">实力评定,工具使用</data>
+      <data key="d9">chunk-38b29eccf7724830681fde217d501c12</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="黑石碑" target="萧玉">
+      <data key="d6">6.0</data>
+      <data key="d7">萧玉对黑石碑所展示的内容充满怀疑。</data>
+      <data key="d8">对抗,疑虑</data>
+      <data key="d9">chunk-5249452fc02634a65306233a8ef35c64</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="斗之气第七段" target="测试">
+      <data key="d6">10.0</data>
+      <data key="d7">测试的合格标准是斗之气达到第七段及以上。</data>
+      <data key="d8">能力标准</data>
+      <data key="d9">chunk-d54618aa9f6b9d83d46914a2d986268d</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="二长老" target="萧玉">
+      <data key="d6">15.0</data>
+      <data key="d7">二长老警告萧玉无权发起挑战，并试图维护比赛秩序。&lt;SEP&gt;萧玉向二长老抗议并请求挑战萧炎。</data>
+      <data key="d8">主管权威,抗议,挑战请求</data>
+      <data key="d9">chunk-3168b429ed74027f386cf328ea2ee805&lt;SEP&gt;chunk-13e59f0be98715fe288ea4ba0b74cd29</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="大长老" target="族人">
+      <data key="d6">7.0</data>
+      <data key="d7">大长老负责组织家族的测试并对族人发出指示。</data>
+      <data key="d8">权威关系</data>
+      <data key="d9">chunk-d54618aa9f6b9d83d46914a2d986268d</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274421</data>
+    </edge>
+    <edge source="萧玉" target="迦南学院">
+      <data key="d6">8.0</data>
+      <data key="d7">萧玉在迦南学院进修并获得新进展，增强了实力。</data>
+      <data key="d8">学习,实力提升</data>
+      <data key="d9">chunk-4598c518958fd706cb2a17701688ebe0</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="萧玉" target="温泉">
+      <data key="d6">7.0</data>
+      <data key="d7">温泉曾是萧炎和萧玉冲突的地点，导致了两人复杂的关系。</data>
+      <data key="d8">关系起源,冲突地点</data>
+      <data key="d9">chunk-4598c518958fd706cb2a17701688ebe0</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="萧玉" target="山脚">
+      <data key="d6">6.0</data>
+      <data key="d7">萧玉在山脚下发出愤怒的尖叫，表达对萧炎的怒火。</data>
+      <data key="d8">位置,愤怒</data>
+      <data key="d9">chunk-a46a49f0ae36e080bd584f50885647d2</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+    <edge source="二长老萧鹰" target="黑石测验碑">
+      <data key="d6">8.0</data>
+      <data key="d7">二长老负责监控黑石测验碑上的斗之气测试。</data>
+      <data key="d8">测试执行,监控责任</data>
+      <data key="d9">chunk-96b791b3d90a3f1df5b348173dc3cd96</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1749274424</data>
+    </edge>
+  </graph>
+</graphml>
