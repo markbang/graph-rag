@@ -7,6 +7,12 @@ from lightrag.llm.openai import openai_complete_if_cache, openai_embed
 from lightrag.utils import EmbeddingFunc
 import numpy as np
 from lightrag.kg.shared_storage import initialize_pipeline_status
+from lightrag.prompt import PROMPTS
+
+print(
+    f"使用PROMPT{PROMPTS['entity_extraction']}和{PROMPTS['entity_continue_extraction']}进行实体抽取"
+)
+
 
 # 设置简单的日志记录 - 同时输出到控制台和文件
 logging.basicConfig(
